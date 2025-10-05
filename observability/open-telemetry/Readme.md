@@ -41,6 +41,7 @@
 
 -   Operation : Fokus dalam menangkap intrumentasi yang ada serta dapat melakukan visualisasi
 
+Automatic & Manual Intrumentation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkzNTE5MTgsMTM1MTg3MzI3N119
+eyJoaXN0b3J5IjpbLTY5MzM3OTM1NiwxMzUxODczMjc3XX0=
 -->
