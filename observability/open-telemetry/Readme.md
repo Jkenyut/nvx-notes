@@ -46,6 +46,15 @@
 -   Intrumentasi otomatis artinya SDK / Library sudah mendukung hal-hal dalam memancarkan signal tanpa perlu di lakukan secara manual, sehingga menghemat waktu
 -   Tetapi dalam praktek realnya perlu adanya intrumentasi manual untuk hal-hal yang tidak di cover oleh intrumentasi otomatis
 
+# Open Telemetry : Collector
+
+   Open Telemetry Collector merupakan jembatan penghubung antara data intrumentasi yang akan dikirimkan ke berbagai platform.
+-   Aplikasi akan mengirimkan data intrumentasi ke Collector melalui OLTP.
+-   OLTP ( Open Telemetry Protocol) merupakan standar protokol untuk ekosistem open telemetry, biasanya berjalan pada HTTP & GRCP.
+![enter image description here](https://cdn.sanity.io/images/z7wg6mcy/production-2025/892268a99c29c144322b68f400faad286ae53f5c-1710x498.png?q=100&fit=max&auto=format)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
+eyJoaXN0b3J5IjpbMTQ1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNT
+E4NzMyNzddfQ==
 -->
