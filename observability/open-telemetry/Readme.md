@@ -60,8 +60,24 @@
     -   Connector:  bagaimana cara untuk menghubungkan antara 3 bagian utama tersebut.
 ![enter image description here](https://i.ytimg.com/vi/7T2SdvYW-eI/maxresdefault.jpg)
 
+ services:
+  pipeline:
+    traces:
+      receivers: [oltp]
+      processors: [batch, memory_limiter]
+      exporters: [jaeger]
+    metrics:
+      receivers: [oltp]
+      processors: [batch, memory_limiter]
+      exporters: [prometheus]
+    receivers:
+      oltp:
+        protocols:
+          grpc:
+          http:
 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAwOTUzMDgsMTQ1ODc0MTg5MCwtMT
-g0MDgzNjQxLDEzNTE4NzMyNzddfQ==
+eyJoaXN0b3J5IjpbMjE0MDE2NDQ1MSwtMTgwMDA5NTMwOCwxND
+U4NzQxODkwLC0xODQwODM2NDEsMTM1MTg3MzI3N119
 -->
