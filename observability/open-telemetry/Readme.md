@@ -70,27 +70,13 @@
 3.	Exporters
 - Ketiga konfigurasi tersebut dipanggil dalam root element bernama services
  
-```
-services:   pipelines:
-    traces:
-      receivers: [oltp]
-      processors: [batch, memory_limiter]
-      exporters: [jaeger]
-    metrics:
-      receivers: [oltp]
-      processors: [batch, memory_limiter]
-      exporters: [prometheus]
-    receivers:
-      oltp:
-        protocols:
-          grpc: 
-          http:
- ```
+
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTI3MTM0NCwtMTgwMDA5NTMwOCwxND
-U4NzQxODkwLC0xODQwODM2NDEsMTM1MTg3MzI3N119
+eyJoaXN0b3J5IjpbMTM3MTc3MDg3OCwtNjMxMjcxMzQ0LC0xOD
+AwMDk1MzA4LDE0NTg3NDE4OTAsLTE4NDA4MzY0MSwxMzUxODcz
+Mjc3XX0=
 -->
