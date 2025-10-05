@@ -1,80 +1,88 @@
-# Pengantar
--   Saat ini banyak aplikasi yang mengadopsi arsitektur microservice dengan alasan tertentu. Biasanya tidak lepas dengan teknologi contrainer atau container ochestration (e.g kubernetes).
--   jumlah microservices bisa banyak sekali.(e.g netflix)
--   Setiap microservice biasanya memanggil microservice lainnya, contohnya layanan A memanggil layanan B, dan B memanggil layanan C (service dependency).
 
+# OpenTelemetry: Standar Observabilitas untuk Arsitektur Microservices
 
-## Netflix Architecture
-![enter image description here](https://d3an9kf42ylj3p.cloudfront.net/uploads/2023/07/netflix_microservices.png)
+## Pengantar
 
-# Permasalahan
--   Sebuah aplikasi tidak selalu berjalan normal terus-menerus, terkadang ada suatu kondisi yang menyebabkan suatu error.
--   Susahnya mencari dimana letak error tersebut.
--   Proses dalam mencari root error dan memperbaiki error bisa memakan waktu lama.
-![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/permasalahan.png)
+Arsitektur microservices semakin populer karena fleksibilitas dan skalabilitas-nya, terutama dengan teknologi seperti container dan orchestrator seperti Kubernetes. Namun, kompleksitasnya menimbulkan tantangan, terutama dalam observabilitas sistem. OpenTelemetry hadir sebagai solusi open-source untuk menstandarisasi instrumentasi dan observabilitas sistem, memungkinkan data seperti traces, metrics, dan logs dikumpulkan serta didistribusikan ke berbagai platform dengan efisien.
 
-# Intrumentation
--   Pada permasalahan sebelumnya, bagaimana kita mencari tahu masalah di aplikasi microservice secara tepat?, tentunya perlu adanya pengamatan (observasi)
--   Agar Suatu sistem dapat melakukan observasi, perlu adanya instrumentasi terhadap sistem tersebut.
--   Instrumentasi merupakan suatu hal yang dapat “memancarkan” (merujuk pada traces, metrics, dan logs).
+### Karakteristik Microservices
 
-## Signal
--   Telemetry merupakan data yang dipancarkan oleh suatu sistem, berasal dari traces, metrics, dan logs.
--   Pada Open Telemetry ada istilah bernama Signal. Signal adalah kategori dari telemetry, seperti :
--   Traces.
--   Metrics.
--   Logs.
--   Baggage.
+-   **Jumlah Microservices**: Dalam sistem besar seperti Netflix, jumlah microservices bisa sangat banyak, masing-masing dengan dependensi kompleks.
+-   **Service Dependency**: Microservices saling memanggil, misalnya Layanan A memanggil Layanan B, dan B memanggil Layanan C.
 
-# Masalah Intrumentasi Cross - Platform
--   Sekarang ada banyak SDK (software development kit) atau library dari layanan gratis ataupun berbayar yang dapat membuat intrumentasi pada sistem kita.
--   Namun setiap SDK mempunyai standar mereka sendiri, yang berarti jika menggunakan layanan dari A, maka harus menggunakan SDK A, Begitupun sebaliknya jika meggunakan layanan B. masalah ini bisa terjadi jika suatu saat ada keperluan untuk pindah dari suatu layanan maka perlu adanya perubahan yang sangat banyak.
-![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/problem-cross-paltform.png)
+**Contoh Arsitektur Netflix**  
+![Netflix Microservices](https://d3an9kf42ylj3p.cloudfront.net/uploads/2023/07/netflix_microservices.png)
 
-# Open Telementry
--   Open telemetry merupakan open source project untuk men-standarisasikan data intrumentasi ( traces, metrics, logs)
--   Tujuan utama agar data hasil intrumentasi dapat di distribusikan ke berbagai platform yang berbeda.
-![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/resolve-cross-paltform.png)
+## Permasalahan Observabilitas
 
-## Dev & Ops di Open Telemetry
--   Developer : Fokus pada bagaimana sistem dapat membuat dan memancarkan instrumentasi
+-   **Error Sulit Dilacak**: Aplikasi microservices tidak selalu berjalan mulus. Menemukan root cause error sering kali sulit karena kompleksitas dependensi.
+-   **Waktu Perbaikan Lama**: Proses debugging dan perbaikan memakan waktu karena kurangnya visibilitas ke dalam sistem.
 
--   Operation : Fokus dalam menangkap instrumentasi yang ada serta dapat melakukan visualisasi
+**Ilustrasi Permasalahan**  
+![Permasalahan Observabilitas](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/permasalahan.png)
 
-## Automatic & Manual Intrumentation
--   Open telemetry mendukung intrumentasi otomatis dan manual
--   Intrumentasi otomatis artinya SDK / Library sudah mendukung hal-hal dalam memancarkan signal tanpa perlu di lakukan secara manual, sehingga menghemat waktu
--   Tetapi dalam praktek real-nya perlu adanya instrumentasi manual untuk hal-hal yang tidak di cover oleh instrumentasi otomatis
+## Instrumentasi
 
-# Open Telemetry : Collector
+Untuk mengatasi masalah observabilitas, sistem perlu diinstrumentasi agar dapat menghasilkan data telemetry (traces, metrics, logs). Instrumentasi adalah proses "memancarkan" data yang memberikan wawasan tentang performa dan perilaku aplikasi.
 
-   Open Telemetry Collector merupakan jembatan penghubung antara data intrumentasi yang akan dikirimkan ke berbagai platform.
--   Aplikasi akan mengirimkan data intrumentasi ke Collector melalui OLTP.
--   OLTP ( Open Telemetry Protocol) merupakan standar protokol untuk ekosistem open telemetry, biasanya berjalan pada HTTP & GRCP.
-![enter image description here](https://cdn.sanity.io/images/z7wg6mcy/production-2025/892268a99c29c144322b68f400faad286ae53f5c-1710x498.png?q=100&fit=max&auto=format)
+### Signal dalam OpenTelemetry
 
--   Terdapat 4 komponen utama dalam Collector:
-    -   Receivers : konfigurasi untuk bagaimana data SDK di aplikasi masuk ke Collector.
-    -   Exporter: konfigurasi untuk bagaimana collector akan mengirimkan data ke platform.
-    -   Processor: konfigurasi untuk bagaimana data diproses antara receivers & exporter
-    -   Connector:  bagaimana cara untuk menghubungkan antara bagian-bagian komponen.
-![enter image description here](https://i.ytimg.com/vi/7T2SdvYW-eI/maxresdefault.jpg)
+OpenTelemetry mendefinisikan beberapa kategori telemetry, yang disebut _Signal_:
 
- 
+1.  **Traces**: Melacak alur request dari awal hingga selesai.
+2.  **Metrics**: Data kuantitatif seperti latensi atau penggunaan CPU.
+3.  **Logs**: Catatan kejadian untuk debugging.
+4.  **Baggage**: Data tambahan dalam format key-value untuk distributed tracing.
 
-## Konfigurasi Collector
-- buat file config-otel-collector.yaml
-- didalamnya ada beberapa root element konfigurasi:
-1.	 Receivers
-2.	Proccesors
-3.	Exporters
-- Ketiga konfigurasi tersebut dipanggil dalam root element bernama services
- 
+## Masalah Instrumentasi Cross-Platform
+
+Banyak SDK atau library observabilitas memiliki standar sendiri, menyebabkan ketergantungan pada vendor tertentu. Jika beralih ke platform lain, perubahan kode besar-besaran diperlukan.
+
+**Ilustrasi Masalah Cross-Platform**  
+![Masalah Cross-Platform](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/problem-cross-paltform.png)
+
+## OpenTelemetry: Solusi Standar
+
+OpenTelemetry adalah proyek open-source yang menstandarisasi pengumpulan dan distribusi data telemetry (traces, metrics, logs) agar kompatibel dengan berbagai platform.
+
+**Tujuan Utama**:
+
+-   Menghilangkan ketergantungan pada vendor tertentu.
+-   Memungkinkan distribusi data telemetry ke berbagai backend observabilitas.
+
+**Ilustrasi Solusi Cross-Platform**  
+![Solusi Cross-Platform](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/resolve-cross-paltform.png)
+
+### Peran dalam OpenTelemetry
+
+-   **Developer**: Fokus pada implementasi instrumentasi untuk menghasilkan data telemetry.
+-   **Operations**: Mengelola, menangkap, dan memvisualisasikan data telemetry untuk analisis.
+
+### Instrumentasi Otomatis dan Manual
+
+-   **Otomatis**: SDK OpenTelemetry mendukung emisi signal tanpa konfigurasi manual, menghemat waktu.
+-   **Manual**: Diperlukan untuk kasus spesifik yang tidak tercakup oleh instrumentasi otomatis.
+
+## OpenTelemetry Collector
+
+Collector adalah komponen kunci yang bertindak sebagai jembatan antara aplikasi dan platform observabilitas. Data telemetry dikirim melalui **OpenTelemetry Protocol (OTLP)**, yang berjalan di HTTP atau gRPC.
+
+**Komponen Utama Collector**:
+
+1.  **Receivers**: Mengatur cara data masuk dari aplikasi.
+2.  **Processors**: Memproses data sebelum dikirim.
+3.  **Exporters**: Mengirim data ke platform observabilitas.
+4.  **Connectors**: Menghubungkan komponen internal Collector.
+
+**Ilustrasi Arsitektur Collector**  
+![OpenTelemetry Collector](https://cdn.sanity.io/images/z7wg6mcy/production-2025/892268a99c29c144322b68f400faad286ae53f5c-1710x498.png?q=100&fit=max&auto=format)
+
+### Contoh Konfigurasi Collector
+
+Berikut adalah contoh konfigurasi OpenTelemetry Collector dalam format YAML:
+
 ```yaml
-# ========================
 # OpenTelemetry Collector Configuration
-# ========================
-
 receivers:
   otlp:
     protocols:
@@ -86,11 +94,9 @@ processors:
     check_interval: 1s
     limit_percentage: 50
     spike_limit_percentage: 30
-
   batch:
     send_batch_size: 512
     timeout: 5s
-
   tail_sampling:
     decision_wait: 10s
     num_traces: 1000
@@ -106,10 +112,8 @@ exporters:
     endpoint: ${JAEGER_ENDPOINT:-jaeger-aio:14250}
     tls:
       insecure: ${JAEGER_INSECURE:-true}
-
   prometheus:
     endpoint: 0.0.0.0:8889
-
   logging:
     verbosity: detailed
 
@@ -119,74 +123,81 @@ service:
       receivers: [otlp]
       processors: [memory_limiter, batch, tail_sampling]
       exporters: [jaeger, logging]
-
     metrics:
       receivers: [otlp]
       processors: [memory_limiter, batch]
       exporters: [prometheus]
-
   telemetry:
     logs:
       level: info
 
 ```
 
-## Open Telemetry : Traces
+## Signal OpenTelemetry
 
-   Trace merupakan gambaran ketika aplikasi sedang di input / request sampi proses tersebut selesai.
--   didalam traces terdapat lebih dari 1 span.
--   span merupakan representasi sebuah unit work di aplikasi atau function aplikasi
+### Traces
 
-![enter image description here](https://www.opensourcerers.org/wp-content/uploads/2022/04/OpenTelemetryJaeger.png)
+Traces melacak alur request dari input hingga selesai, terdiri dari beberapa **span**. Setiap span mewakili unit kerja dalam aplikasi.
 
+**Ilustrasi Traces**  
+![Traces](https://www.opensourcerers.org/wp-content/uploads/2022/04/OpenTelemetryJaeger.png)
 
-## Open Telemetry : Metrics
+### Metrics
 
- -   Trace merupakan gambaran ketika aplikasi sedang di input / request sampi proses tersebut selesai.
--   didalam traces terdapat lebih dari 1 span.
--   span merupakan representasi sebuah unit work di aplikasi atau function aplikasi
-![enter image description here](https://www.mytechramblings.com/img/otel-metrics-app-diagram.png)
+Metrics memberikan data kuantitatif seperti latensi, penggunaan sumber daya, atau error rate.
 
-## Open Telemetry : Logs
--   Logs merupakan salah satu metrics mudah dibuat, tujuan utama hanya menampilkan informasi “apa yang terjadi”
--   Setiap bahasa pemrograman dapat mebuat log secara langsung.
-![enter image description here](https://openobserve.ai/assets/image8_98decc9ee1.png)
+**Ilustrasi Metrics**  
+![Metrics](https://www.mytechramblings.com/img/otel-metrics-app-diagram.png)
 
+### Logs
 
-## Signal : Baggages (Distribusi Tracing)
--   Aplikasi microservices pastinya sangat banyak dan memerlukan komunikasi antar service.
--   Dalam setiap komunikasi service perlu dilakukan tracing, tracing juga bisa disebut distribusi tracing.
--   Agar aplikasi dapat mengirimkan informasi tersebut, dinamakan baggages.
--   baggages merupakan data dengan format key-value pairs.
-![enter image description here](https://opentelemetry.io/docs/concepts/signals/otel-baggage.svg)
+Logs adalah catatan kejadian sederhana yang memberikan informasi tentang apa yang terjadi di aplikasi. Mudah dihasilkan di berbagai bahasa pemrograman.
+
+**Ilustrasi Logs**  
+![Logs](https://openobserve.ai/assets/image8_98decc9ee1.png)
+
+### Baggage (Distributed Tracing)
+
+Baggage adalah data key-value yang digunakan untuk mendukung distributed tracing, memungkinkan pelacakan antar microservices.
+
+**Ilustrasi Baggage**  
+![Baggage](https://opentelemetry.io/docs/concepts/signals/otel-baggage.svg)
 
 ## Propagation
--   Propagation adalah bagaimana kita mengirimkan traceID (berserta parent spanID) ke aplikasi lain yang dipanggil di header datanya, tujuannya agar antar service memiliki distribusi tracing.
--   contohnya aplikasi A memanggil B dan B memanggil C, setiap pemanggilan service, data propagation akan dikirimkan juga.
 
-![enter image description here](https://trstringer.com/images/otel-propagation1.png)
+Propagation memastikan traceID dan parent spanID dikirimkan antar microservices melalui header request, memungkinkan distributed tracing.
 
-# Samples
--   Permasalah adalah apakah kita perlu semua hasil data trace tersebut?
--   Pada Open Telementry ada konsep bernama samples, dimana kita dapat mengambil informasi  atau sample dari suatu trace dengan jenis tertentu
--   tujuannya agar biaya storage / network murah, fokus pada traces tertentu dan menghilanglan noise ( trace yang tidak diperlukan)
--   ada dua tipe samples yaitu head sampling dan tail sampling.
-![enter image description here](https://opentelemetry.io/docs/concepts/sampling/traces-venn-diagram.svg)
+**Ilustrasi Propagation**  
+![Propagation](https://trstringer.com/images/otel-propagation1.png)
 
-## Head Sampling
--   head sampling merupakan cara mengambil sample paling mudah, letak konfigurasi ada pada level SDK aplikasi.
--   head sampling menggunakan teknik probabilitas untuk menentukan trace akan diteruskan ke collector atau tidak,
--   cara kerja head sampling membuat keputusan sampling adalah aplikasi pertama kali yang membuat trace (parent)
+## Sampling
 
-## Tail Sampling
--   Tail sampling merupakan cara mengambil sample melalu policy atau aturan yang telah dibuat.
--   policy dapat diterapkan dari level dasar sampai advance (contohnya, hanya mengambil, latensi, sukses/error, atribute terterntu)
--   letak konfigurasi tail sampling berada pada processor collector pada open telementry.
-![enter image description here](https://cdn-ak.f.st-hatena.com/images/fotolife/q/quoll00/20230318/20230318152653.png)
+Sampling digunakan untuk mengurangi volume data telemetry, menghemat biaya storage dan jaringan, serta fokus pada data yang relevan.
+
+### Head Sampling
+
+-   Dilakukan di level SDK aplikasi.
+-   Menggunakan probabilitas untuk memutuskan apakah trace diteruskan ke Collector.
+-   Keputusan dibuat oleh aplikasi yang memulai trace (parent).
+
+### Tail Sampling
+
+-   Dilakukan di Collector melalui kebijakan (policy) seperti latensi, status error, atau atribut tertentu.
+-   Lebih fleksibel dibandingkan head sampling.
+
+**Ilustrasi Sampling**  
+![Sampling](https://opentelemetry.io/docs/concepts/sampling/traces-venn-diagram.svg)
+
+**Contoh **  
+![Tail Sampling](https://cdn-ak.f.st-hatena.com/images/fotolife/q/quoll00/20230318/20230318152653.png)
+
+## Kesimpulan
+
+OpenTelemetry adalah solusi standar untuk observabilitas di arsitektur microservices. Dengan mendukung instrumentasi otomatis dan manual, serta menyediakan Collector untuk mengelola data telemetry, OpenTelemetry mempermudah pelacakan error, analisis performa, dan visualisasi sistem. Fitur seperti traces, metrics, logs, baggage, dan sampling memastikan data yang dihasilkan relevan dan efisien, mendukung kebutuhan developer dan tim operasi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDM1NjIzNiwxOTkzMjMxMDEyLC02NT
-c2NjU5MDYsODA4NTc3MDczLDE4ODA1MDg1MTIsLTE1MDc2NTc5
-OTYsNDI0OTA5MTc5LC0xMDM1MDk5MTM0LDEzNzE3NzA4NzgsLT
-YzMTI3MTM0NCwtMTgwMDA5NTMwOCwxNDU4NzQxODkwLC0xODQw
-ODM2NDEsMTM1MTg3MzI3N119
+eyJoaXN0b3J5IjpbMjEzNzQ3ODA3NiwxNzUwMzU2MjM2LDE5OT
+MyMzEwMTIsLTY1NzY2NTkwNiw4MDg1NzcwNzMsMTg4MDUwODUx
+MiwtMTUwNzY1Nzk5Niw0MjQ5MDkxNzksLTEwMzUwOTkxMzQsMT
+M3MTc3MDg3OCwtNjMxMjcxMzQ0LC0xODAwMDk1MzA4LDE0NTg3
+NDE4OTAsLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
 -->
