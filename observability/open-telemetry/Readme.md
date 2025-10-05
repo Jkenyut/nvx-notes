@@ -44,7 +44,7 @@
 ## Automatic & Manual Intrumentation
 -   Open telemetry mendukung intrumentasi otomatis dan manual
 -   Intrumentasi otomatis artinya SDK / Library sudah mendukung hal-hal dalam memancarkan signal tanpa perlu di lakukan secara manual, sehingga menghemat waktu
--   Tetapi dalam praktek realnya perlu adanya intrumentasi manual untuk hal-hal yang tidak di cover oleh intrumentasi otomatis
+-   Tetapi dalam praktek real-nya perlu adanya instrumentasi manual untuk hal-hal yang tidak di cover oleh instrumentasi otomatis
 
 # Open Telemetry : Collector
 
@@ -143,7 +143,8 @@ service:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0OTA5MTc5LC0xMDM1MDk5MTM0LDEzNz
-E3NzA4NzgsLTYzMTI3MTM0NCwtMTgwMDA5NTMwOCwxNDU4NzQx
-ODkwLC0xODQwODM2NDEsMTM1MTg3MzI3N119
+eyJoaXN0b3J5IjpbLTE1MDc2NTc5OTYsNDI0OTA5MTc5LC0xMD
+M1MDk5MTM0LDEzNzE3NzA4NzgsLTYzMTI3MTM0NCwtMTgwMDA5
+NTMwOCwxNDU4NzQxODkwLC0xODQwODM2NDEsMTM1MTg3MzI3N1
+19
 -->
