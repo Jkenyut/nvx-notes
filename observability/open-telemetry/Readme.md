@@ -3,7 +3,7 @@
 
 ## Pengantar
 
-Arsitektur microservices semakin populer karena fleksibilitas dan skalabilitas-nya, terutama dengan teknologi seperti container dan orchestrator seperti Kubernetes. Namun, kompleksitasnya menimbulkan tantangan, terutama dalam observabilitas sistem. OpenTelemetry hadir sebagai solusi open-source untuk menstandarisasi instrumentasi dan observabilitas sistem, memungkinkan data seperti traces, metrics, dan logs dikumpulkan serta didistribusikan ke berbagai platform dengan efisien.
+Arsitektur microservices semakin populer karena fleksibilitas dan skalabilitas-nya, terutama dengan teknologi seperti container dan orchestrator seperti Kubernetes. Namun, kompleksitasnya menimbulkan tantangan, terutama dalam observabilitas sistem. OpenTelemetry hadir sebagai solusi open-source untuk menstandarisasi instrumentasi dan observabilitas sistem, memungkinkan data seperti traces, metrics, dan logs dikumpulkan serta didistribusikan ke berbagai platform dengan efisien, terlepas pada bahasa pemrograman, 
 
 ### Karakteristik Microservices
 
@@ -192,14 +192,14 @@ Sampling digunakan untuk mengurangi volume data telemetry, menghemat biaya stora
 **Ilustrasi Sampling**  
 ![Sampling](https://opentelemetry.io/docs/concepts/sampling/traces-venn-diagram.svg)
 
-** Contoh  **  
+**Contoh**  
 ![Tail Sampling](https://cdn-ak.f.st-hatena.com/images/fotolife/q/quoll00/20230318/20230318152653.png)
 
 ## Kesimpulan
 
 OpenTelemetry adalah solusi standar untuk observabilitas di arsitektur microservices. Dengan mendukung instrumentasi otomatis dan manual, serta menyediakan Collector untuk mengelola data telemetry, OpenTelemetry mempermudah pelacakan error, analisis performa, dan visualisasi sistem. Fitur seperti traces, metrics, logs, baggage, dan sampling memastikan data yang dihasilkan relevan dan efisien, mendukung kebutuhan developer dan tim operasi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTgyNTMzOSwyMTM3NDc4MDc2LDE3NT
+eyJoaXN0b3J5IjpbLTQyODg4OTYyOCwyMTM3NDc4MDc2LDE3NT
 AzNTYyMzYsMTk5MzIzMTAxMiwtNjU3NjY1OTA2LDgwODU3NzA3
 MywxODgwNTA4NTEyLC0xNTA3NjU3OTk2LDQyNDkwOTE3OSwtMT
 AzNTA5OTEzNCwxMzcxNzcwODc4LC02MzEyNzEzNDQsLTE4MDAw
