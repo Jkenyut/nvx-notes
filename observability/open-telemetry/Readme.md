@@ -64,10 +64,14 @@
 
 ## Konfigurasi Collector
 - buat file config-otel-collector.yaml
-- didalamnya ada beberapa
+- didalamnya ada beberapa root element konfigurasi:
+1.	 Receivers
+2.	Proccesors
+3.	Exporters
+- Ketiga konfigurasi tersebut dipanggil dalam root element bernama services
  
 ```
-services:   pipeline:
+services:   pipelines:
     traces:
       receivers: [oltp]
       processors: [batch, memory_limiter]
@@ -83,9 +87,10 @@ services:   pipeline:
           http:
  ```
 
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjgyMTAwMiwtMTgwMDA5NTMwOCwxND
-U4NzQxODkwLC0xODQwODM2NDEsMTM1MTg3MzI3N119
+eyJoaXN0b3J5IjpbLTEyNTE4NTQ1NzYsLTE4MDAwOTUzMDgsMT
+Q1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNTE4NzMyNzddfQ==
 -->
