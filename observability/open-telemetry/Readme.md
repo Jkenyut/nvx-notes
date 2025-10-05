@@ -131,12 +131,19 @@ service:
 
 ```
 
+# Open Telemetry : Traces
+-   Trace merupakan gambaran ketika aplikasi sedang di input / request sampi proses tersebut selesai.
+-   didalam traces terdapat lebih dari 1 span.
+-   span merupakan representasi sebuah unit work di aplikasi atau function aplikasi
+
+![enter image description here](https://www.opensourcerers.org/wp-content/uploads/2022/04/OpenTelemetryJaeger.png)
+
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUwOTkxMzQsMTM3MTc3MDg3OCwtNj
-MxMjcxMzQ0LC0xODAwMDk1MzA4LDE0NTg3NDE4OTAsLTE4NDA4
-MzY0MSwxMzUxODczMjc3XX0=
+eyJoaXN0b3J5IjpbNDI0OTA5MTc5LC0xMDM1MDk5MTM0LDEzNz
+E3NzA4NzgsLTYzMTI3MTM0NCwtMTgwMDA5NTMwOCwxNDU4NzQx
+ODkwLC0xODQwODM2NDEsMTM1MTg3MzI3N119
 -->
