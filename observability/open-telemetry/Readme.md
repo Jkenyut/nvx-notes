@@ -60,8 +60,14 @@
     -   Connector:  bagaimana cara untuk menghubungkan antara 3 bagian utama tersebut.
 ![enter image description here](https://i.ytimg.com/vi/7T2SdvYW-eI/maxresdefault.jpg)
 
- services:
-  pipeline:
+ 
+
+## Konfigurasi Collector
+- buat file config-otel-collector.yaml
+- didalamnya ada beberapa
+ 
+```
+services:   pipeline:
     traces:
       receivers: [oltp]
       processors: [batch, memory_limiter]
@@ -75,9 +81,11 @@
         protocols:
           grpc:
           http:
+ ```
 
  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDE2NDQ1MSwtMTgwMDA5NTMwOCwxND
+eyJoaXN0b3J5IjpbLTU3NjgyMTAwMiwtMTgwMDA5NTMwOCwxND
 U4NzQxODkwLC0xODQwODM2NDEsMTM1MTg3MzI3N119
 -->
