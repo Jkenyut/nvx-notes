@@ -53,8 +53,15 @@
 -   OLTP ( Open Telemetry Protocol) merupakan standar protokol untuk ekosistem open telemetry, biasanya berjalan pada HTTP & GRCP.
 ![enter image description here](https://cdn.sanity.io/images/z7wg6mcy/production-2025/892268a99c29c144322b68f400faad286ae53f5c-1710x498.png?q=100&fit=max&auto=format)
 
+-   Terdapat 4 komponen utama dalam Collector:
+    -   Receivers : konfigurasi untuk bagaimana data SDK di aplikasi masuk ke Collector.
+    -   Exporter: konfigurasi untuk bagaimana collector akan mengirimkan data ke platform.
+    -   Processor: konfigurasi untuk bagaimana data diproses antara receivers & exporter
+    -   Connector:  bagaimana cara untuk menghubungkan antara 3 bagian utama tersebut.
+![enter image description here](https://i.ytimg.com/vi/7T2SdvYW-eI/maxresdefault.jpg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNT
-E4NzMyNzddfQ==
+eyJoaXN0b3J5IjpbLTE4MDAwOTUzMDgsMTQ1ODc0MTg5MCwtMT
+g0MDgzNjQxLDEzNTE4NzMyNzddfQ==
 -->
