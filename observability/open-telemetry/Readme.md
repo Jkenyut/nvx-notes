@@ -174,8 +174,17 @@ service:
 ![enter image description here](https://opentelemetry.io/docs/concepts/sampling/traces-venn-diagram.svg)
 
 ## Head Sampling
+-   head sampling merupakan cara mengambil sample paling mudah, letak konfigurasi ada pada level SDK aplikasi.
+-   head sampling menggunakan teknik probabilitas untuk menentukan trace akan diteruskan ke collector atau tidak,
+-   cara kerja head sampling membuat keputusan sampling adalah aplikasi pertama kali yang membuat trace (parent)
+
+## Tail Sampling
+-   Tail sampling merupakan cara mengambil sample melalu policy atau aturan yang telah dibuat.
+-   policy dapat diterapkan dari level dasar sampai advance (contohnya, hanya mengambil, latensi, sukses/error, atribute terterntu)
+-   letak konfigurasi tail sampling berada pada processor collector pada open telementry.
+![enter image description here](https://cdn-ak.f.st-hatena.com/images/fotolife/q/quoll00/20230318/20230318152653.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzQ2NzU0OCwxOTkzMjMxMDEyLC02NT
+eyJoaXN0b3J5IjpbMTc1MDM1NjIzNiwxOTkzMjMxMDEyLC02NT
 c2NjU5MDYsODA4NTc3MDczLDE4ODA1MDg1MTIsLTE1MDc2NTc5
 OTYsNDI0OTA5MTc5LC0xMDM1MDk5MTM0LDEzNzE3NzA4NzgsLT
 YzMTI3MTM0NCwtMTgwMDA5NTMwOCwxNDU4NzQxODkwLC0xODQw
