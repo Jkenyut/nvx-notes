@@ -37,11 +37,10 @@
 ![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/resolve-cross-paltform.png)
 
 ## Dev & Ops di Open Telemetry
-
-   Developer : Fokus pada bagaimana sistem dapat membuat dan memancarkan intrumentasi
+-   Developer : Fokus pada bagaimana sistem dapat membuat dan memancarkan intrumentasi
 
 -   Operation : Fokus dalam menangkap intrumentasi yang ada serta dapat melakukan visualisasi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTIxNzM1LDEzNTE4NzMyNzddfQ==
+eyJoaXN0b3J5IjpbLTIxMTkzNTE5MTgsMTM1MTg3MzI3N119
 -->
