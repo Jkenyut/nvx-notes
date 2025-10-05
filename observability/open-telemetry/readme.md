@@ -11,9 +11,27 @@
 -   Sebuah aplikasi tidak selalu berjalan normal terus-menerus, terkadang ada suatu kondisi yang menyebabkan suatu error.
 -   Susahnya mencari dimana letak error tersebut.
 -   Proses dalam mencari root error dan memperbaiki error bisa memakan waktu lama.
-![enter image description here](permasalahan.png)
+![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/permasalahan.png)
+
+# Intrumentation
+-   Pada permasalahan sebelumnya, bagaimana kita mencari tahu masalah di aplikasi microservice secara tepat?, tentunya perlu adanya pengamatan (observasi)
+-   Agar Suatu sistem dapat melakukan observasi, perlu adanya intrumentasi terhadap sistem tersebut.
+-   Intrumentasi merupakan suatu hal yang dapat “memancarkan” (merujuk pada traces, metrics, dan logs).
+
+## Signal
+-   Telemetry merupakan data yang dipancarkan oleh suatu sistem, berasal dari traces, metrics, dan logs.
+-   Pada Open Telemetry ada istilah bernama Signal. Signal adalah kategori dari telemetry, seperti :
+-   Traces.
+-   Metrics.
+-   Logs.
+-   Baggage.
+
+# Masalah Intrumentasi Cross - Platform
+-   Sekarang ada banyak SDK (software development kit) atau library dari layanan gratis ataupun berbayar yang dapat membuat intrumentasi pada sistem kita.
+-   Namun setiap SDK mempunyai standar mereka sendiri, yang berarti jika menggunakan layanan dari A, maka harus menggunakan SDK A, Begitupun sebaliknya jika meggunakan layanan B. masalah ini bisa terjadi jika suatu saat ada keperluan untuk pindah dari suatu layanan maka perlu adanya perubahan yang sangat banyak.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTk2NDQ5MSwyOTgzNjM1ODgsLTExOD
-cyNzk3MTAsLTY5NDIxMzUzM119
+eyJoaXN0b3J5IjpbNzYwMzgzMDY0LDE1NTcyODY1NTIsMjk4Mz
+YzNTg4LC0xMTg3Mjc5NzEwLC02OTQyMTM1MzNdfQ==
 -->
