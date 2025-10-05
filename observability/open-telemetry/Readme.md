@@ -3,7 +3,7 @@
 
 ## Pengantar
 
-Arsitektur microservices semakin populer karena fleksibilitas dan skalabilitas-nya, terutama dengan teknologi seperti container dan orchestrator seperti Kubernetes. Namun, kompleksitasnya menimbulkan tantangan, terutama dalam observabilitas sistem. OpenTelemetry hadir sebagai solusi open-source untuk menstandarisasi instrumentasi dan observabilitas sistem, memungkinkan data seperti traces, metrics, dan logs dikumpulkan serta didistribusikan ke berbagai platform dengan efisien, terlepas pada bahasa pemrograman, 
+Arsitektur microservices semakin populer karena fleksibilitas dan skalabilitas-nya, terutama dengan teknologi seperti container dan orchestrator seperti Kubernetes. Namun, kompleksitasnya menimbulkan tantangan, terutama dalam observabilitas sistem. OpenTelemetry hadir sebagai solusi open-source untuk menstandarisasi instrumentasi dan observabilitas sistem, memungkinkan data seperti traces, metrics, dan logs dikumpulkan serta didistribusikan ke berbagai platform dengan efisien, terlepas pada bahasa pemrograman, infrastruktur, dan environment yang digunakan.
 
 ### Karakteristik Microservices
 
@@ -199,10 +199,10 @@ Sampling digunakan untuk mengurangi volume data telemetry, menghemat biaya stora
 
 OpenTelemetry adalah solusi standar untuk observabilitas di arsitektur microservices. Dengan mendukung instrumentasi otomatis dan manual, serta menyediakan Collector untuk mengelola data telemetry, OpenTelemetry mempermudah pelacakan error, analisis performa, dan visualisasi sistem. Fitur seperti traces, metrics, logs, baggage, dan sampling memastikan data yang dihasilkan relevan dan efisien, mendukung kebutuhan developer dan tim operasi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODg4OTYyOCwyMTM3NDc4MDc2LDE3NT
-AzNTYyMzYsMTk5MzIzMTAxMiwtNjU3NjY1OTA2LDgwODU3NzA3
-MywxODgwNTA4NTEyLC0xNTA3NjU3OTk2LDQyNDkwOTE3OSwtMT
-AzNTA5OTEzNCwxMzcxNzcwODc4LC02MzEyNzEzNDQsLTE4MDAw
-OTUzMDgsMTQ1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNTE4NzMyNz
-ddfQ==
+eyJoaXN0b3J5IjpbMjE4Mzc4NDMsMjEzNzQ3ODA3NiwxNzUwMz
+U2MjM2LDE5OTMyMzEwMTIsLTY1NzY2NTkwNiw4MDg1NzcwNzMs
+MTg4MDUwODUxMiwtMTUwNzY1Nzk5Niw0MjQ5MDkxNzksLTEwMz
+UwOTkxMzQsMTM3MTc3MDg3OCwtNjMxMjcxMzQ0LC0xODAwMDk1
+MzA4LDE0NTg3NDE4OTAsLTE4NDA4MzY0MSwxMzUxODczMjc3XX
+0=
 -->
