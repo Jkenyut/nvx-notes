@@ -156,6 +156,7 @@ service:
 ## Signal : Baggages (Distribusi Tracing)
 -   Aplikasi microservices pastinya sangat banyak dan memerlukan komunikasi antar service.
 -   Dalam setiap komunikasi service perlu dilakukan tracing, tracing juga bisa disebut distribusi tracing
+![enter image description here](https://opentelemetry.io/docs/concepts/signals/otel-baggage.svg)
 
 ## Propagation
 -   Propagation adalah bagaimana kita mengirimkan traceID (berserta parent spanID) ke aplikasi lain yang dipanggil di header datanya, tujuannya agar antar service memiliki distribusi tracing.
@@ -163,8 +164,8 @@ service:
 
 ![enter image description here](https://trstringer.com/images/otel-propagation1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTU5NjY0Myw4MDg1NzcwNzMsMTg4MD
-UwODUxMiwtMTUwNzY1Nzk5Niw0MjQ5MDkxNzksLTEwMzUwOTkx
-MzQsMTM3MTc3MDg3OCwtNjMxMjcxMzQ0LC0xODAwMDk1MzA4LD
-E0NTg3NDE4OTAsLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
+eyJoaXN0b3J5IjpbNDIxNzgwMDY0LDgwODU3NzA3MywxODgwNT
+A4NTEyLC0xNTA3NjU3OTk2LDQyNDkwOTE3OSwtMTAzNTA5OTEz
+NCwxMzcxNzcwODc4LC02MzEyNzEzNDQsLTE4MDAwOTUzMDgsMT
+Q1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNTE4NzMyNzddfQ==
 -->
