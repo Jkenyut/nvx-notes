@@ -11,7 +11,7 @@
 -   Sebuah aplikasi tidak selalu berjalan normal terus-menerus, terkadang ada suatu kondisi yang menyebabkan suatu error.
 -   Susahnya mencari dimana letak error tersebut.
 -   Proses dalam mencari root error dan memperbaiki error bisa memakan waktu lama.
-![enter image description here](https://github.com/Jkenyut/nvx-notes/blob/master/observability/open-telemetry/permasalahan.png)
+![enter image description here](permasalahan.png)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTUzMTk2NDQ5MSwyOTgzNjM1ODgsLTExOD
