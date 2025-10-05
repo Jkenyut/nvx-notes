@@ -13,8 +13,21 @@
 -   Proses dalam mencari root error dan memperbaiki error bisa memakan waktu lama.
 ![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/permasalahan.png)
 
+# Intrumentation
+-   Pada permasalahan sebelumnya, bagaimana kita mencari tahu masalah di aplikasi microservice secara tepat?, tentunya perlu adanya pengamatan (observasi)
+-   Agar Suatu sistem dapat melakukan observasi, perlu adanya intrumentasi terhadap sistem tersebut.
+-   Intrumentasi merupakan suatu hal yang dapat “memancarkan” (merujuk pada traces, metrics, dan logs).
+
+## Signal
+-   Telemetry merupakan data yang dipancarkan oleh suatu sistem, berasal dari traces, metrics, dan logs.
+-   Pada Open Telemetry ada istilah bernama Signal. Signal adalah kategori dari telemetry, seperti :
+-   Traces.
+-   Metrics.
+-   Logs.
+-   Baggage.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMwOTM2MzYsMTU1NzI4NjU1MiwyOT
-gzNjM1ODgsLTExODcyNzk3MTAsLTY5NDIxMzUzM119
+eyJoaXN0b3J5IjpbLTEyMjYzNzQyMCwxNTU3Mjg2NTUyLDI5OD
+M2MzU4OCwtMTE4NzI3OTcxMCwtNjk0MjEzNTMzXX0=
 -->
