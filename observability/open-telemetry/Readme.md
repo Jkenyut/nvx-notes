@@ -25,6 +25,8 @@ Arsitektur microservices semakin populer karena fleksibilitas dan skalabilitas-n
 
 Untuk mengatasi masalah observabilitas, sistem perlu diinstrumentasi agar dapat menghasilkan data telemetry (traces, metrics, logs). Instrumentasi adalah proses "memancarkan" data yang memberikan wawasan tentang performa dan perilaku aplikasi.
 
+Sejarah 
+
 ### Signal dalam OpenTelemetry
 
 OpenTelemetry mendefinisikan beberapa kategori telemetry, yang disebut _Signal_:
@@ -195,9 +197,10 @@ Sampling digunakan untuk mengurangi volume data telemetry, menghemat biaya stora
 
 OpenTelemetry adalah solusi standar untuk observabilitas di arsitektur microservices. Dengan mendukung instrumentasi otomatis dan manual, serta menyediakan Collector untuk mengelola data telemetry, OpenTelemetry mempermudah pelacakan error, analisis performa, dan visualisasi sistem. Fitur seperti traces, metrics, logs, baggage, dan sampling memastikan data yang dihasilkan relevan dan efisien, mendukung kebutuhan developer dan tim operasi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzQ3ODA3NiwxNzUwMzU2MjM2LDE5OT
-MyMzEwMTIsLTY1NzY2NTkwNiw4MDg1NzcwNzMsMTg4MDUwODUx
-MiwtMTUwNzY1Nzk5Niw0MjQ5MDkxNzksLTEwMzUwOTkxMzQsMT
-M3MTc3MDg3OCwtNjMxMjcxMzQ0LC0xODAwMDk1MzA4LDE0NTg3
-NDE4OTAsLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
+eyJoaXN0b3J5IjpbLTIxMzg1ODY0MCwyMTM3NDc4MDc2LDE3NT
+AzNTYyMzYsMTk5MzIzMTAxMiwtNjU3NjY1OTA2LDgwODU3NzA3
+MywxODgwNTA4NTEyLC0xNTA3NjU3OTk2LDQyNDkwOTE3OSwtMT
+AzNTA5OTEzNCwxMzcxNzcwODc4LC02MzEyNzEzNDQsLTE4MDAw
+OTUzMDgsMTQ1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNTE4NzMyNz
+ddfQ==
 -->
