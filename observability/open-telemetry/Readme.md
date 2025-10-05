@@ -142,11 +142,14 @@ service:
 
 ## Open Telemetry : Metrics
 
- 
+ -   Trace merupakan gambaran ketika aplikasi sedang di input / request sampi proses tersebut selesai.
+-   didalam traces terdapat lebih dari 1 span.
+-   span merupakan representasi sebuah unit work di aplikasi atau function aplikasi
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDUwODUxMiwtMTUwNzY1Nzk5Niw0Mj
-Q5MDkxNzksLTEwMzUwOTkxMzQsMTM3MTc3MDg3OCwtNjMxMjcx
-MzQ0LC0xODAwMDk1MzA4LDE0NTg3NDE4OTAsLTE4NDA4MzY0MS
-wxMzUxODczMjc3XX0=
+eyJoaXN0b3J5IjpbLTE2Nzg1ODYyNzUsMTg4MDUwODUxMiwtMT
+UwNzY1Nzk5Niw0MjQ5MDkxNzksLTEwMzUwOTkxMzQsMTM3MTc3
+MDg3OCwtNjMxMjcxMzQ0LC0xODAwMDk1MzA4LDE0NTg3NDE4OT
+AsLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
 -->
