@@ -31,8 +31,11 @@
 -   Namun setiap SDK mempunyai standar mereka sendiri, yang berarti jika menggunakan layanan dari A, maka harus menggunakan SDK A, Begitupun sebaliknya jika meggunakan layanan B. masalah ini bisa terjadi jika suatu saat ada keperluan untuk pindah dari suatu layanan maka perlu adanya perubahan yang sangat banyak.
 ![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/problem-cross-paltform.png)
 
-Open Telementry
+# Open Telementry
+-   Open telemetry merupakan open source project untuk men-standarisasikan data intrumentasi ( traces, metrics, logs)
+-   Tujuan utama agar data hasil intrumentasi dapat di distribusikan ke berbagai platform yang berbeda.
+![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/problem-cross-paltform.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg4NDc2MjAsMTU1NzI4NjU1MiwyOT
-gzNjM1ODgsLTExODcyNzk3MTAsLTY5NDIxMzUzM119
+eyJoaXN0b3J5IjpbMjA1MDkzNDYwNiwxNTU3Mjg2NTUyLDI5OD
+M2MzU4OCwtMTE4NzI3OTcxMCwtNjk0MjEzNTMzXX0=
 -->
