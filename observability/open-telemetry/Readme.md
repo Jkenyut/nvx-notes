@@ -166,10 +166,18 @@ service:
 
 ![enter image description here](https://trstringer.com/images/otel-propagation1.png)
 
+# Samples
+-   Permasalah adalah apakah kita perlu semua hasil data trace tersebut?
+-   Pada Open Telementry ada konsep bernama samples, dimana kita dapat mengambil informasi  atau sample dari suatu trace dengan jenis tertentu
+-   tujuannya agar biaya storage / network murah, fokus pada traces tertentu dan menghilanglan noise ( trace yang tidak diperlukan)
+-   ada dua tipe samples yaitu head sampling dan tail sampling.
+![enter image description here](https://opentelemetry.io/docs/concepts/sampling/traces-venn-diagram.svg)
+
+## Head Sampling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzIzMTAxMiwtNjU3NjY1OTA2LDgwOD
-U3NzA3MywxODgwNTA4NTEyLC0xNTA3NjU3OTk2LDQyNDkwOTE3
-OSwtMTAzNTA5OTEzNCwxMzcxNzcwODc4LC02MzEyNzEzNDQsLT
-E4MDAwOTUzMDgsMTQ1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNTE4
-NzMyNzddfQ==
+eyJoaXN0b3J5IjpbMTE1MzQ2NzU0OCwxOTkzMjMxMDEyLC02NT
+c2NjU5MDYsODA4NTc3MDczLDE4ODA1MDg1MTIsLTE1MDc2NTc5
+OTYsNDI0OTA5MTc5LC0xMDM1MDk5MTM0LDEzNzE3NzA4NzgsLT
+YzMTI3MTM0NCwtMTgwMDA5NTMwOCwxNDU4NzQxODkwLC0xODQw
+ODM2NDEsMTM1MTg3MzI3N119
 -->
