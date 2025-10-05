@@ -152,9 +152,19 @@ service:
 -   Setiap bahasa pemrograman dapat mebuat log secara langsung.
 ![enter image description here](https://openobserve.ai/assets/image8_98decc9ee1.png)
 
+
+## Signal : Baggages (Distribusi Tracing)
+-   Aplikasi microservices pastinya sangat banyak dan memerlukan komunikasi antar service.
+-   Dalam setiap komunikasi service perlu dilakukan tracing, tracing juga bisa disebut distribusi tracing
+
+## Propagation
+-   Propagation adalah bagaimana kita mengirimkan traceID (berserta parent spanID) ke aplikasi lain yang dipanggil di header datanya, tujuannya agar antar service memiliki distribusi tracing.
+-   contohnya aplikasi A memanggil B dan B memanggil C, setiap pemanggilan service, data propagation akan dikirimkan juga.
+
+![enter image description here](https://trstringer.com/images/otel-propagation1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NTc3MDczLDE4ODA1MDg1MTIsLTE1MD
-c2NTc5OTYsNDI0OTA5MTc5LC0xMDM1MDk5MTM0LDEzNzE3NzA4
-NzgsLTYzMTI3MTM0NCwtMTgwMDA5NTMwOCwxNDU4NzQxODkwLC
-0xODQwODM2NDEsMTM1MTg3MzI3N119
+eyJoaXN0b3J5IjpbMTM0NTU5NjY0Myw4MDg1NzcwNzMsMTg4MD
+UwODUxMiwtMTUwNzY1Nzk5Niw0MjQ5MDkxNzksLTEwMzUwOTkx
+MzQsMTM3MTc3MDg3OCwtNjMxMjcxMzQ0LC0xODAwMDk1MzA4LD
+E0NTg3NDE4OTAsLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
 -->
