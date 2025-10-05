@@ -83,7 +83,7 @@ services:   pipelines:
     receivers:
       oltp:
         protocols:
-          grpc:
+          grpc: 
           http:
  ```
 
@@ -91,6 +91,6 @@ services:   pipelines:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE4NTQ1NzYsLTE4MDAwOTUzMDgsMT
-Q1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNTE4NzMyNzddfQ==
+eyJoaXN0b3J5IjpbLTYzMTI3MTM0NCwtMTgwMDA5NTMwOCwxND
+U4NzQxODkwLC0xODQwODM2NDEsMTM1MTg3MzI3N119
 -->
