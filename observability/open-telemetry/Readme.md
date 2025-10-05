@@ -23,7 +23,8 @@ Arsitektur microservices semakin populer karena fleksibilitas dan skalabilitas-n
 
 ## Sejarah Open Telemetry
 - Merupakan project dari cloud native computing foundation (CNCF) yang dilakukan merger dari dua project yaitu Open Tracing dan Open Census yang memiliki permasalahan yang sama.
-- problem utamanya tidak adanya standarisasi untuk melakukan instrumentasi kode untuk mengirim data telemetry ke observability 
+- masalah utamanya tidak adanya standar untuk melakukan instrumentasi kode untuk mengirim data telemetry ke observability.
+
 ## Instrumentasi
 
 Untuk mengatasi masalah observabilitas, sistem perlu diinstrumentasi agar dapat menghasilkan data telemetry (traces, metrics, logs). Instrumentasi adalah proses "memancarkan" data yang memberikan wawasan tentang performa dan perilaku aplikasi. 
@@ -191,14 +192,14 @@ Sampling digunakan untuk mengurangi volume data telemetry, menghemat biaya stora
 **Ilustrasi Sampling**  
 ![Sampling](https://opentelemetry.io/docs/concepts/sampling/traces-venn-diagram.svg)
 
-**Contoh **  
+** Contoh  **  
 ![Tail Sampling](https://cdn-ak.f.st-hatena.com/images/fotolife/q/quoll00/20230318/20230318152653.png)
 
 ## Kesimpulan
 
 OpenTelemetry adalah solusi standar untuk observabilitas di arsitektur microservices. Dengan mendukung instrumentasi otomatis dan manual, serta menyediakan Collector untuk mengelola data telemetry, OpenTelemetry mempermudah pelacakan error, analisis performa, dan visualisasi sistem. Fitur seperti traces, metrics, logs, baggage, dan sampling memastikan data yang dihasilkan relevan dan efisien, mendukung kebutuhan developer dan tim operasi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTc5MzcxNiwyMTM3NDc4MDc2LDE3NT
+eyJoaXN0b3J5IjpbLTE0OTgyNTMzOSwyMTM3NDc4MDc2LDE3NT
 AzNTYyMzYsMTk5MzIzMTAxMiwtNjU3NjY1OTA2LDgwODU3NzA3
 MywxODgwNTA4NTEyLC0xNTA3NjU3OTk2LDQyNDkwOTE3OSwtMT
 AzNTA5OTEzNCwxMzcxNzcwODc4LC02MzEyNzEzNDQsLTE4MDAw
