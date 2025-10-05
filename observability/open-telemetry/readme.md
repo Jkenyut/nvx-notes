@@ -29,9 +29,10 @@
 # Masalah Intrumentasi Cross - Platform
 -   Sekarang ada banyak SDK (software development kit) atau library dari layanan gratis ataupun berbayar yang dapat membuat intrumentasi pada sistem kita.
 -   Namun setiap SDK mempunyai standar mereka sendiri, yang berarti jika menggunakan layanan dari A, maka harus menggunakan SDK A, Begitupun sebaliknya jika meggunakan layanan B. masalah ini bisa terjadi jika suatu saat ada keperluan untuk pindah dari suatu layanan maka perlu adanya perubahan yang sangat banyak.
+![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/problem-cross-paltform.png)
 
-
+Open Telementry
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMzgzMDY0LDE1NTcyODY1NTIsMjk4Mz
-YzNTg4LC0xMTg3Mjc5NzEwLC02OTQyMTM1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTg4NDc2MjAsMTU1NzI4NjU1MiwyOT
+gzNjM1ODgsLTExODcyNzk3MTAsLTY5NDIxMzUzM119
 -->
