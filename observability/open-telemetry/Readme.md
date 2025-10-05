@@ -155,7 +155,9 @@ service:
 
 ## Signal : Baggages (Distribusi Tracing)
 -   Aplikasi microservices pastinya sangat banyak dan memerlukan komunikasi antar service.
--   Dalam setiap komunikasi service perlu dilakukan tracing, tracing juga bisa disebut distribusi tracing
+-   Dalam setiap komunikasi service perlu dilakukan tracing, tracing juga bisa disebut distribusi tracing.
+-   Agar aplikasi dapat mengirimkan informasi tersebut, dinamakan baggages.
+-   baggages merupakan data dengan format key-value pairs.
 ![enter image description here](https://opentelemetry.io/docs/concepts/signals/otel-baggage.svg)
 
 ## Propagation
@@ -165,8 +167,9 @@ service:
 ![enter image description here](https://trstringer.com/images/otel-propagation1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzY2NTkwNiw4MDg1NzcwNzMsMTg4MD
-UwODUxMiwtMTUwNzY1Nzk5Niw0MjQ5MDkxNzksLTEwMzUwOTkx
-MzQsMTM3MTc3MDg3OCwtNjMxMjcxMzQ0LC0xODAwMDk1MzA4LD
-E0NTg3NDE4OTAsLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
+eyJoaXN0b3J5IjpbLTE3ODAxNTYzNywtNjU3NjY1OTA2LDgwOD
+U3NzA3MywxODgwNTA4NTEyLC0xNTA3NjU3OTk2LDQyNDkwOTE3
+OSwtMTAzNTA5OTEzNCwxMzcxNzcwODc4LC02MzEyNzEzNDQsLT
+E4MDAwOTUzMDgsMTQ1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNTE4
+NzMyNzddfQ==
 -->
