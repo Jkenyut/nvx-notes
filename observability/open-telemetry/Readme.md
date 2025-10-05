@@ -15,8 +15,8 @@
 
 # Intrumentation
 -   Pada permasalahan sebelumnya, bagaimana kita mencari tahu masalah di aplikasi microservice secara tepat?, tentunya perlu adanya pengamatan (observasi)
--   Agar Suatu sistem dapat melakukan observasi, perlu adanya intrumentasi terhadap sistem tersebut.
--   Intrumentasi merupakan suatu hal yang dapat “memancarkan” (merujuk pada traces, metrics, dan logs).
+-   Agar Suatu sistem dapat melakukan observasi, perlu adanya instrumentasi terhadap sistem tersebut.
+-   Instrumentasi merupakan suatu hal yang dapat “memancarkan” (merujuk pada traces, metrics, dan logs).
 
 ## Signal
 -   Telemetry merupakan data yang dipancarkan oleh suatu sistem, berasal dari traces, metrics, dan logs.
@@ -37,9 +37,9 @@
 ![Permasalahan Open Telemetry](https://raw.githubusercontent.com/Jkenyut/nvx-notes/master/observability/open-telemetry/resolve-cross-paltform.png)
 
 ## Dev & Ops di Open Telemetry
--   Developer : Fokus pada bagaimana sistem dapat membuat dan memancarkan intrumentasi
+-   Developer : Fokus pada bagaimana sistem dapat membuat dan memancarkan instrumentasi
 
--   Operation : Fokus dalam menangkap intrumentasi yang ada serta dapat melakukan visualisasi
+-   Operation : Fokus dalam menangkap instrumentasi yang ada serta dapat melakukan visualisasi
 
 ## Automatic & Manual Intrumentation
 -   Open telemetry mendukung intrumentasi otomatis dan manual
@@ -153,8 +153,8 @@ service:
 ![enter image description here](https://openobserve.ai/assets/image8_98decc9ee1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTM2NzQ2MSwxODgwNTA4NTEyLC0xNT
-A3NjU3OTk2LDQyNDkwOTE3OSwtMTAzNTA5OTEzNCwxMzcxNzcw
-ODc4LC02MzEyNzEzNDQsLTE4MDAwOTUzMDgsMTQ1ODc0MTg5MC
-wtMTg0MDgzNjQxLDEzNTE4NzMyNzddfQ==
+eyJoaXN0b3J5IjpbODA4NTc3MDczLDE4ODA1MDg1MTIsLTE1MD
+c2NTc5OTYsNDI0OTA5MTc5LC0xMDM1MDk5MTM0LDEzNzE3NzA4
+NzgsLTYzMTI3MTM0NCwtMTgwMDA5NTMwOCwxNDU4NzQxODkwLC
+0xODQwODM2NDEsMTM1MTg3MzI3N119
 -->
