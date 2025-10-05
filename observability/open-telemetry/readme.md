@@ -11,13 +11,9 @@
 -   Sebuah aplikasi tidak selalu berjalan normal terus-menerus, terkadang ada suatu kondisi yang menyebabkan suatu error.
 -   Susahnya mencari dimana letak error tersebut.
 -   Proses dalam mencari root error dan memperbaiki error bisa memakan waktu lama.
-
 ![enter image description here](https://drive.google.com/file/d/1x4LC0-PkMLN021Lyq2LHiCGV6q8Lunxb/view?usp=sharing)
 
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4MzYzNTg4LC0xMTg3Mjc5NzEwLC02OT
-QyMTM1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE3OTM1Mzc3NTIsMjk4MzYzNTg4LC0xMT
+g3Mjc5NzEwLC02OTQyMTM1MzNdfQ==
 -->
