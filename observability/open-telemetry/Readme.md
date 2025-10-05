@@ -57,7 +57,7 @@
     -   Receivers : konfigurasi untuk bagaimana data SDK di aplikasi masuk ke Collector.
     -   Exporter: konfigurasi untuk bagaimana collector akan mengirimkan data ke platform.
     -   Processor: konfigurasi untuk bagaimana data diproses antara receivers & exporter
-    -   Connector:  bagaimana cara untuk menghubungkan antara 3 bagian utama tersebut.
+    -   Connector:  bagaimana cara untuk menghubungkan antara bagian-bagian komponen.
 ![enter image description here](https://i.ytimg.com/vi/7T2SdvYW-eI/maxresdefault.jpg)
 
  
@@ -167,7 +167,7 @@ service:
 ![enter image description here](https://trstringer.com/images/otel-propagation1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAxNTYzNywtNjU3NjY1OTA2LDgwOD
+eyJoaXN0b3J5IjpbMTk5MzIzMTAxMiwtNjU3NjY1OTA2LDgwOD
 U3NzA3MywxODgwNTA4NTEyLC0xNTA3NjU3OTk2LDQyNDkwOTE3
 OSwtMTAzNTA5OTEzNCwxMzcxNzcwODc4LC02MzEyNzEzNDQsLT
 E4MDAwOTUzMDgsMTQ1ODc0MTg5MCwtMTg0MDgzNjQxLDEzNTE4
