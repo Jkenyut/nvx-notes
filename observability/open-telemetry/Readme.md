@@ -147,8 +147,13 @@ service:
 -   span merupakan representasi sebuah unit work di aplikasi atau function aplikasi
 ![enter image description here](https://www.mytechramblings.com/img/otel-metrics-app-diagram.png)
 
+## Open Telemetry : Logs
+-   Logs merupakan salah satu metrics mudah dibuat, tujuan utama hanya menampilkan informasi “apa yang terjadi”
+-   Setiap bahasa pemrograman dapat mebuat log secara langsung.
+![enter image description here](https://openobserve.ai/assets/image8_98decc9ee1.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Nzk4MjMzOCwxODgwNTA4NTEyLC0xNT
+eyJoaXN0b3J5IjpbMTU3NTM2NzQ2MSwxODgwNTA4NTEyLC0xNT
 A3NjU3OTk2LDQyNDkwOTE3OSwtMTAzNTA5OTEzNCwxMzcxNzcw
 ODc4LC02MzEyNzEzNDQsLTE4MDAwOTUzMDgsMTQ1ODc0MTg5MC
 wtMTg0MDgzNjQxLDEzNTE4NzMyNzddfQ==
