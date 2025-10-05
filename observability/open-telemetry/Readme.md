@@ -70,13 +70,73 @@
 3.	Exporters
 - Ketiga konfigurasi tersebut dipanggil dalam root element bernama services
  
+```yaml
+# ========================
+# OpenTelemetry Collector Configuration
+# ========================
+
+receivers:
+  otlp:
+    protocols:
+      grpc:
+      http:
+
+processors:
+  memory_limiter:
+    check_interval: 1s
+    limit_percentage: 50
+    spike_limit_percentage: 30
+
+  batch:
+    send_batch_size: 512
+    timeout: 5s
+
+  tail_sampling:
+    decision_wait: 10s
+    num_traces: 1000
+    expected_new_traces_per_sec: 100
+    policies:
+      - name: error-only
+        type: status_code
+        status_code:
+          status_codes: [ERROR]
+
+exporters:
+  jaeger:
+    endpoint: ${JAEGER_ENDPOINT:-jaeger-aio:14250}
+    tls:
+      insecure: ${JAEGER_INSECURE:-true}
+
+  prometheus:
+    endpoint: 0.0.0.0:8889
+
+  logging:
+    verbosity: detailed
+
+service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      processors: [memory_limiter, batch, tail_sampling]
+      exporters: [jaeger, logging]
+
+    metrics:
+      receivers: [otlp]
+      processors: [memory_limiter, batch]
+      exporters: [prometheus]
+
+  telemetry:
+    logs:
+      level: info
+
+```
 
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTc3MDg3OCwtNjMxMjcxMzQ0LC0xOD
-AwMDk1MzA4LDE0NTg3NDE4OTAsLTE4NDA4MzY0MSwxMzUxODcz
-Mjc3XX0=
+eyJoaXN0b3J5IjpbLTEwMzUwOTkxMzQsMTM3MTc3MDg3OCwtNj
+MxMjcxMzQ0LC0xODAwMDk1MzA4LDE0NTg3NDE4OTAsLTE4NDA4
+MzY0MSwxMzUxODczMjc3XX0=
 -->
