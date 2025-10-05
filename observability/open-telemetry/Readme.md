@@ -41,7 +41,11 @@
 
 -   Operation : Fokus dalam menangkap intrumentasi yang ada serta dapat melakukan visualisasi
 
-Automatic & Manual Intrumentation
+## Automatic & Manual Intrumentation
+-   Open telemetry mendukung intrumentasi otomatis dan manual
+-   Intrumentasi otomatis artinya SDK / Library sudah mendukung hal-hal dalam memancarkan signal tanpa perlu di lakukan secara manual, sehingga menghemat waktu
+-   Tetapi dalam praktek realnya perlu adanya intrumentasi manual untuk hal-hal yang tidak di cover oleh intrumentasi otomatis
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzM3OTM1NiwxMzUxODczMjc3XX0=
+eyJoaXN0b3J5IjpbLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
 -->
