@@ -145,11 +145,11 @@ service:
  -   Trace merupakan gambaran ketika aplikasi sedang di input / request sampi proses tersebut selesai.
 -   didalam traces terdapat lebih dari 1 span.
 -   span merupakan representasi sebuah unit work di aplikasi atau function aplikasi
-
+![enter image description here](https://www.mytechramblings.com/img/otel-metrics-app-diagram.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg1ODYyNzUsMTg4MDUwODUxMiwtMT
-UwNzY1Nzk5Niw0MjQ5MDkxNzksLTEwMzUwOTkxMzQsMTM3MTc3
-MDg3OCwtNjMxMjcxMzQ0LC0xODAwMDk1MzA4LDE0NTg3NDE4OT
-AsLTE4NDA4MzY0MSwxMzUxODczMjc3XX0=
+eyJoaXN0b3J5IjpbLTI1Nzk4MjMzOCwxODgwNTA4NTEyLC0xNT
+A3NjU3OTk2LDQyNDkwOTE3OSwtMTAzNTA5OTEzNCwxMzcxNzcw
+ODc4LC02MzEyNzEzNDQsLTE4MDAwOTUzMDgsMTQ1ODc0MTg5MC
+wtMTg0MDgzNjQxLDEzNTE4NzMyNzddfQ==
 -->
