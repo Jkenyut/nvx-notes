@@ -31,8 +31,25 @@ Manual :
 •Rata-rata menggunakan if statement
 •Semakin  banyak  validasi  maka  semakin  banyak if statement dibuat
 Pembuatan  validasi manual memakan  waktu lama.
+Library:
+•Kode validasi  mudah, rapi dan juga sama  antar programmer.
+•Banyak fitur baked-in yang sudah  tersedia di library.
 
+## Validator Package
+•Merupakan salah satu yang paling popular untuk  validasi di golang dan opensource.
+
+•Memiliki  banyak  fitur backed-in yang siap  digunakan.
+
+•Di desain thread safe.
+
+•Menggunakan  konsep `tag` untuk  menginisialiasi  aturan  validasi.
+
+•Melakukan cache informasi (tag,rules,dll) di dalam memory.
+
+## Baked-In Tag
+[Check Hear](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Njg5MTIzMiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4NzQ2NjE5ODQsLTIwODg3NDY2MTJdfQ
+==
 -->
