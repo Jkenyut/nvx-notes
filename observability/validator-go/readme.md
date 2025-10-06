@@ -47,9 +47,9 @@ Library:
 •Melakukan cache informasi (tag,rules,dll) di dalam memory.
 
 ## Baked-In Tag
-[Check Hear](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
+[tag built in](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ2NjE5ODQsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbNDA0OTY3NTA5LC0yMDg4NzQ2NjEyXX0=
 -->
