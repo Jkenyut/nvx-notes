@@ -133,6 +133,24 @@
 	```sh
 	docker image rm <namaimage:tag>
 	```
+	contoh 
+	```sh
+	docker image rm redis:latest
+	```
+	output
+	```zsh
+	Untagged: redis:latest
+	Untagged: redis@sha256:f0957bcaa75fd58a9a1847c1f07caf370579196259d69ac07f2e27b5b389b021
+	Deleted: sha256:5b7e962f53cb8271dcda7f2946c9406d60b9a465235faa39c31a2d01844e2af2
+	Deleted: sha256:d68aed1832d50472d5e097778653179aba2ebc4cb9c62c4b466990ce7e6b9a5c
+	Deleted: sha256:724b1c62d61d6d62166762042e3189ffeb0b4ded218c3c1e4fd58a6d4481b590
+	Deleted: sha256:c1a824f6329765dc4bdf249357531555320bb80223327c7d00ad0f3954699c78
+	Deleted: sha256:130b0cbbf526ea7b5d271aa1ee6a8539725694af47f6dce2d3763eae5c6a05c9
+	Deleted: sha256:fd1cd23e196471b95a2dc026c8c7c68ae0e522e45a95e3a798bcb9cd637e8126
+	Deleted: sha256:a78fe7aa66b30a6dc14afd4a85c0dcd4f501f8a13d5037833005dee89a879841
+	Deleted: sha256:3e5d01a55aea2c9ea64c3cfef2bb870df4b01c7e206103a970d4c3dc6caed96b
+	```
+	kemudian lihat docker images list:
 	
 
 	
@@ -147,6 +165,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQyNTY0NTIsLTYyODU2ODY5Nyw1MT
-cwNDI0OTcsMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbNzQ0NTQ5NTA4LC02Mjg1Njg2OTcsNTE3MD
+QyNDk3LDM2NjYyNjMyNl19
 -->
