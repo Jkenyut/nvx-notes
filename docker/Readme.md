@@ -36,21 +36,48 @@
 - Untuk install di Windows dan Mac perlu menggunakan Docker Desktop.
 - Untuk Linux, bisa menggunakan distro linux masing-masing.
 - [Install Docker](https://docs.docker.com/get-docker/)
-
-# Command Docker 
-## Cek Docker
+ 
+## Docker Version
 - melakukan pengecekan docker daemon sudah berjalan bisa menggunakan perintah
 	```sh
 	docker version
 	```
 	
 	```zsh
-	
-	```
+	Client:
+	 Version:           28.0.4
+	 API version:       1.48
+	 Go version:        go1.23.7
+	 Git commit:        b8034c0
+	 Built:             Tue Mar 25 15:06:09 2025
+	 OS/Arch:           darwin/arm64
+	 Context:           desktop-linux
+
+	Server: Docker Desktop 4.40.0 (187762)
+	 Engine:
+	  Version:          28.0.4
+	  API version:      1.48 (minimum version 1.24)
+	  Go version:       go1.23.7
+	  Git commit:       6430e49
+	  Built:            Tue Mar 25 15:07:18 2025
+	  OS/Arch:          linux/arm64
+	  Experimental:     false
+	 containerd:
+	  Version:          1.7.26
+	  GitCommit:        753481ec61c7c8955a23d6ff7bc8e4daed455734
+	 runc:
+	  Version:          1.2.5
+	  GitCommit:        v1.2.5-0-g59923ef
+	 docker-init:
+	  Version:          0.19.0
+	  GitCommit:        de40ad0	
+  ```
+
+##  Docker Registe
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYwNTI1MzAsLTYyODU2ODY5Nyw1MT
+eyJoaXN0b3J5IjpbLTEyOTMzNDQ5NTUsLTYyODU2ODY5Nyw1MT
 cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
