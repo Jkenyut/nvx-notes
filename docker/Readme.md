@@ -231,11 +231,23 @@
 	```
 	terlihat bahwa container sedang berjalan dengan status dan port sudah terisi.
 
-## cara menghentikan docker container
+## Cara Menghentikan Docker Container
 - perintah untuk menghentikan docker container :
 ```sh
 docker container stop contohredis
 ```
+atau 
+```sh
+docker stop contohredis
+```
+kemudian kita b
+output
+	```zsh              
+	CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS          PORTS      NAMES
+	85ec49c23697   redis:latest   "docker-entrypoint.s…"   5 minutes ago   Up 18 seconds   6379/tcp   contohredis
+	```
+
+
 
 
 
@@ -245,7 +257,7 @@ docker container stop contohredis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTU3OTQyMywxOTMwMTU4MDYzLDE3Nj
-MxMTA4NiwtNjI4NTY4Njk3LDUxNzA0MjQ5NywzNjY2MjYzMjZd
-fQ==
+eyJoaXN0b3J5IjpbNjM3NzM0NzU5LDE5MzAxNTgwNjMsMTc2Mz
+ExMDg2LC02Mjg1Njg2OTcsNTE3MDQyNDk3LDM2NjYyNjMyNl19
+
 -->
