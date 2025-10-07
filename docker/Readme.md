@@ -14,12 +14,14 @@
  - ukuran container biasanya hitungan MB, berbeda dengan VM yang mencapai ratusan MB sampai GB karena ada OS di dalamnya
  - pada umumnya contrainer berjalan menggunakan OS linux:
 	 - Container berjalan selain linux, biasanya akan membuat semacam lightweight VM.
-	 - Di Windows ada WSL dan Mac akan otomatis menggunakan Qemu.
+	 - Di Windows ada WSL dan Mac akan otomatis menggunakan QEMU.
 
 ![enter image description here](https://s7280.pcdn.co/wp-content/uploads/2018/07/containers-vs-virtual-machines.jpg)
 
+## Pengenalan Docker
+Docker adalah s
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODY3NTY1MSw1MTcwNDI0OTcsMzY2Nj
-I2MzI2XX0=
+eyJoaXN0b3J5IjpbLTE5NTkxNDE3MjgsNTE3MDQyNDk3LDM2Nj
+YyNjMyNl19
 -->
