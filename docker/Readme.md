@@ -160,7 +160,9 @@
 	```
 ## Docker Container
 - Jika docker image seperti installer aplikasi, maka docker container seperti aplikasi hasil installer.
-- Satu Docker Image bis
+- Satu Docker Image bisa digunakan untuk membuat docker container, asalkan nama docker container berbeda-beda.
+- Jika kita sudah membuat docker container, maka docker image yang sedang digunakan tidak bisa dihapus, hal ini karena docker container tidak melakukan copy isi docker image ke dalam docker container, tetapi hanya menggunakan isi dari docker image tersebut.
+
 
 	
 	
@@ -174,6 +176,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQyNjc4ODYsLTYyODU2ODY5Nyw1MT
-cwNDI0OTcsMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbLTkwMDg2NzU3NiwtNjI4NTY4Njk3LDUxNz
+A0MjQ5NywzNjY2MjYzMjZdfQ==
 -->
