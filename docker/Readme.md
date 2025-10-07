@@ -240,7 +240,7 @@ atau
 ```sh
 docker stop contohredis
 ```
-kemudian kita b
+kemudian kita bisa melihat kemudian kita bisa lihat kembali 
 output
 	```zsh              
 	CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS          PORTS      NAMES
@@ -257,7 +257,7 @@ output
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3NzM0NzU5LDE5MzAxNTgwNjMsMTc2Mz
-ExMDg2LC02Mjg1Njg2OTcsNTE3MDQyNDk3LDM2NjYyNjMyNl19
-
+eyJoaXN0b3J5IjpbMTkwNjc3NzM2MSwxOTMwMTU4MDYzLDE3Nj
+MxMTA4NiwtNjI4NTY4Njk3LDUxNzA0MjQ5NywzNjY2MjYzMjZd
+fQ==
 -->
