@@ -2,7 +2,7 @@
 
 ## Pengenalan Virtual Machine
 - VM umumnya berjalan diatas hypervisor
-- Saat membuat VM perlu meng-install os (linux,windows,dll)
+- Saat membuat VM perlu meng - install os (linux, windows, dll)
 - VM tergolong lambat ketika dihidupkan karena adanya proses booting OS terlebih dahulu.
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20250823130235313168/virtual_machines.webp) 
 
@@ -19,5 +19,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE0MDU3NzksMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbNTE3MDQyNDk3LDM2NjYyNjMyNl19
 -->
