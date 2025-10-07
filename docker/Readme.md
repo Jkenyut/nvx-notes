@@ -1,15 +1,5 @@
 # Docker
 
-Table of content
-- Pengenalan Virtual Machine
-- Pengenalan Container
-- Pengenalan Docker
-- Menginstall Docker
-- Docker Image
-- Docker Registry
-- Docker Contrainer
-- Docker Network
-
 ## Pengenalan Virtual Machine
 - VM umumnya berjalan diatas hypervisor
 - Saat membuat VM perlu meng-install os (linux,windows,dll)
@@ -22,10 +12,12 @@ Table of content
  - ukuran dari container lebih ringan dibandingkan VM.
  - container dapat berjalan cepat karena tidak perlu melakukan proses booting.
  - pada umumnya contrainer berjalan menggunakan OS linux:
-	 - Container berjalan selain linux biasanya akan membuat semacam lightweight VM.
-	 - Di windows ada WSL dan Mac akan otomatis menggunakan Qemu.
+	 - Container berjalan selain linux, biasanya akan membuat semacam lightweight VM.
+	 - Di Windows ada WSL dan Mac akan otomatis menggunakan Qemu.
+
+![enter image description here](https://s7280.pcdn.co/wp-content/uploads/2018/07/containers-vs-virtual-machines.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ5MDE2ODksMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbLTE1MjE0MDU3NzksMzY2NjI2MzI2XX0=
 -->
