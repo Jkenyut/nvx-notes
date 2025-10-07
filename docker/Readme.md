@@ -87,7 +87,11 @@
 
 ## Docker Image
 - Docker Image mirip seperti installer aplikasi , dimana di dalamnya terdapat aplikasi dan dependency.
-- 
+- Perintah untuk melihat Docker Image pada docker daemon, bisa menggunakan perintah
+	```sh
+	docker image ls
+	```
+	
 
 
 
@@ -98,6 +102,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTE4OTc1MiwtNjI4NTY4Njk3LDUxNz
-A0MjQ5NywzNjY2MjYzMjZdfQ==
+eyJoaXN0b3J5IjpbODk4NzA5ODQyLC02Mjg1Njg2OTcsNTE3MD
+QyNDk3LDM2NjYyNjMyNl19
 -->
