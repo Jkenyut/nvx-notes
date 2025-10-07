@@ -37,11 +37,17 @@
 - Untuk Linux, bisa menggunakan distro linux masing-masing.
 - [Install Docker](https://docs.docker.com/get-docker/)
 
-## P 
+# Command Docker 
+## Cek Docker
+- melakukan pengecekan docker daemon sudah berjalan bisa menggunakan perintah
+	```sh
+	docker version
+	```
+	
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzExMzg0NCw1MTcwNDI0OTcsMzY2Nj
+eyJoaXN0b3J5IjpbLTYyODU2ODY5Nyw1MTcwNDI0OTcsMzY2Nj
 I2MzI2XX0=
 -->
