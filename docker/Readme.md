@@ -31,8 +31,10 @@
 
 ![enter image description here](https://miro.medium.com/v2/resize:fit:2000/0*vTzuVPKGzW3EwcVB)
 
-
+## Install Docker
+- Docker bisa install di semua OS.
+- untuk install di Windows dan Mac perlu menggunakan Docker De
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTAzODg5LDUxNzA0MjQ5NywzNjY2Mj
+eyJoaXN0b3J5IjpbNDI0OTIwODY5LDUxNzA0MjQ5NywzNjY2Mj
 YzMjZdfQ==
 -->
