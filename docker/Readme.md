@@ -27,12 +27,12 @@
 - Docker menggunakan arsitektur Client & Server.
 - Docker berkomunikasi dengan Docker Daemon (Server).
 - Saat meng - install docker, biasanya sudah terdapat docker client dan server.
-- Docker Client dan Docker  Daemon bisa  berjalan di satu sistem yang sama dan berkomunikasi menggunakan Rest API.
+- Docker Client dan Docker Daemon bisa  berjalan di satu sistem yang sama dan berkomunikasi menggunakan Rest API.
 
-
+![enter image description here](https://miro.medium.com/v2/resize:fit:2000/0*vTzuVPKGzW3EwcVB)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQzMzgzODIsNTE3MDQyNDk3LDM2Nj
-YyNjMyNl19
+eyJoaXN0b3J5IjpbMTM2NTAzODg5LDUxNzA0MjQ5NywzNjY2Mj
+YzMjZdfQ==
 -->
