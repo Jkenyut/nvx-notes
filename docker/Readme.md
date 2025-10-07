@@ -240,11 +240,14 @@ atau
 ```sh
 docker stop contohredis
 ```
-kemudian kita bisa melihat kemudian kita bisa lihat kembali contai
+kemudian kita bisa melihat kembali list container
+```sh
+docker container ls
+```
 output
-	```zsh              
-	CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS          PORTS      NAMES
-	85ec49c23697   redis:latest   "docker-entrypoint.s…"   5 minutes ago   Up 18 seconds   6379/tcp   contohredis
+
+	```zsh
+	CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES 
 	```
 
 
@@ -257,7 +260,7 @@ output
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxNTc1NTMxLDE5MzAxNTgwNjMsMTc2Mz
-ExMDg2LC02Mjg1Njg2OTcsNTE3MDQyNDk3LDM2NjYyNjMyNl19
-
+eyJoaXN0b3J5IjpbLTM1NTgwMzE2NiwxOTMwMTU4MDYzLDE3Nj
+MxMTA4NiwtNjI4NTY4Njk3LDUxNzA0MjQ5NywzNjY2MjYzMjZd
+fQ==
 -->
