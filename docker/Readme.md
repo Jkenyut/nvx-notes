@@ -85,7 +85,7 @@
 - [Amazon Elastic Container Registry (ECR)](https://aws.amazon.com/ecr/)  
 - [Azure Container Registry (ACR)](https://azure.microsoft.com/en-us/products/container-registry/)
 
-## Docker Image
+## Melihat Docker Image
 - Docker Image mirip seperti installer aplikasi , dimana di dalamnya terdapat aplikasi dan dependency.
 - Perintah untuk melihat Docker Image pada docker daemon, bisa menggunakan perintah
 	```sh
@@ -95,9 +95,10 @@
 	```zsh   
 	REPOSITORY   TAG       IMAGE ID       CREATED
 	```
+
 	jika awalan akan terlihat kosong, untuk mengisinya kita perlu menggunakan perintah:
 	```sh
-	docker pull <name image:tag>
+	docker pull <nameimage:tag>
 	```
 	contoh
 	```sh
@@ -127,6 +128,7 @@
 	REPOSITORY   TAG       IMAGE ID       CREATED      SIZE
 	redis        latest    5b7e962f53cb   4 days ago   159MB	
 	```
+## Mengapus Docker Image
 
 	
 	
@@ -140,6 +142,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMzAxMDEyLC02Mjg1Njg2OTcsNTE3MD
+eyJoaXN0b3J5IjpbODQyNzI1NTM1LC02Mjg1Njg2OTcsNTE3MD
 QyNDk3LDM2NjYyNjMyNl19
 -->
