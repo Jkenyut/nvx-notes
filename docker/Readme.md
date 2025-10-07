@@ -76,12 +76,23 @@
 ##  Docker Registry
 - Docker Registry adalah tempat kita menyimpan docker image.
 - Dengan adanya docker registry kita dapat menyimpan image yang akan kita buat ataupun image orang lain, sehingga bisa digunakan di docker daemon dimanapun selama bisa terkoneksi ke docker registry.
-Contoh Docker 
+
+### Contoh Docker Registry
+- Docker Hub
+- Digital Ocean Container Registry
+- Google Cloud Container Registry
+- Amazon Elastic Container Registry
+- Azure Container Registry
+
+
+
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIzMDk0MjEsLTYyODU2ODY5Nyw1MT
-cwNDI0OTcsMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbLTEyMDMxNTAzOSwtNjI4NTY4Njk3LDUxNz
+A0MjQ5NywzNjY2MjYzMjZdfQ==
 -->
