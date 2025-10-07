@@ -37,10 +37,11 @@
 - Untuk Linux, bisa menggunakan distro linux masing-masing.
 - [Install Docker](https://docs.docker.com/get-docker/)
 
+## P 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTM4OTgzNCw1MTcwNDI0OTcsMzY2Nj
+eyJoaXN0b3J5IjpbMTMwMzExMzg0NCw1MTcwNDI0OTcsMzY2Nj
 I2MzI2XX0=
 -->
