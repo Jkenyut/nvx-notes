@@ -185,8 +185,9 @@
 	```
 	contoh:
 	```sh
-	
+	docker create --name contohredis redis:latest
 	```
+	
 
 	
 	
@@ -200,6 +201,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTQzODM5NCwtNjI4NTY4Njk3LDUxNz
-A0MjQ5NywzNjY2MjYzMjZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDM5NDE0NzcsLTYyODU2ODY5Nyw1MT
+cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
