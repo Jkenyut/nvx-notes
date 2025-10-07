@@ -16,7 +16,9 @@ Table of content
 - VM tergolong lambat ketika dihidupkan karena adanya proses booting OS terlebih dahulu.
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20250823130235313168/virtual_machines.webp) 
 
- 
+ # container
+ - berbeda dengan VM, container dapat melakukan penggabungan aplikasi dengan dependensi tanpa perlu adanya OS
+ - Container berjalan 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbOTM0OTA0LDM2NjYyNjMyNl19
 -->
