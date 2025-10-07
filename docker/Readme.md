@@ -77,12 +77,17 @@
 - Docker Registry adalah tempat kita menyimpan docker image.
 - Dengan adanya docker registry kita dapat menyimpan image yang akan kita buat ataupun image orang lain, sehingga bisa digunakan di docker daemon dimanapun selama bisa terkoneksi ke docker registry.
 
-### Contoh Docker Registry
-- Docker Hub
-- Digital Ocean Container Registry
-- Google Cloud Container Registry
-- Amazon Elastic Container Registry
-- Azure Container Registry
+
+### 🐳 Contoh Docker Registry
+- [Docker Hub](https://hub.docker.com/)  
+- [DigitalOcean Container Registry (DOCR)](https://www.digitalocean.com/products/container-registry/)  
+- [Google Cloud Container Registry (GCR)](https://cloud.google.com/container-registry)  
+- [Amazon Elastic Container Registry (ECR)](https://aws.amazon.com/ecr/)  
+- [Azure Container Registry (ACR)](https://azure.microsoft.com/en-us/products/container-registry/)
+
+## Docker Image
+- Docker Image mirip seperti installer aplikasi , dimana di dalamnya terdapat aplikasi dan dependency.
+- 
 
 
 
@@ -93,6 +98,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDMxNTAzOSwtNjI4NTY4Njk3LDUxNz
+eyJoaXN0b3J5IjpbMTQ5OTE4OTc1MiwtNjI4NTY4Njk3LDUxNz
 A0MjQ5NywzNjY2MjYzMjZdfQ==
 -->
