@@ -178,11 +178,15 @@
 	```sh
 	docker container ls
 	```
-	output 
-	```zsh
+## Membuat Docker Container
+- Perintah untuk membuat container:
+	```sh
+	docker container create --name <namacontainer> <namaimage:tag>
+	```
+	contoh:
+	```sh
 	
 	```
-	
 
 	
 	
@@ -196,6 +200,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzk3NDgxOCwtNjI4NTY4Njk3LDUxNz
+eyJoaXN0b3J5IjpbMTc1NTQzODM5NCwtNjI4NTY4Njk3LDUxNz
 A0MjQ5NywzNjY2MjYzMjZdfQ==
 -->
