@@ -205,7 +205,14 @@
 	```
 ## Run Docker Container
 - untuk menjalankan docker container menggunakan perintah:
-```
+	```sh
+	docker container start <containerID/namacontainer>
+	```
+	contoh
+	```sh
+	docker container start contohredis
+	```
+	kemudia
 
 
 
@@ -215,6 +222,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjQ2MDkxOSwtNjI4NTY4Njk3LDUxNz
-A0MjQ5NywzNjY2MjYzMjZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDE3NjY2NTMsLTYyODU2ODY5Nyw1MT
+cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
