@@ -194,14 +194,15 @@
 	```
 	maka kita bisa melihat lagi list container
 	
-```sh
+	```sh
 	docker container ls -a
 	```
 	output
+
 	```zsh
-	
+	CONTAINER ID   IMAGE          COMMAND                  CREATED              STATUS    PORTS     NAMES
+	85ec49c23697   redis:latest   "docker-entrypoint.s…"   About a minute ago   Created             contohredis					
 	```
-	
 	
 
 
@@ -213,6 +214,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk3NTM0OTAsLTYyODU2ODY5Nyw1MT
+eyJoaXN0b3J5IjpbLTE5NzI2NzE0MDMsLTYyODU2ODY5Nyw1MT
 cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
