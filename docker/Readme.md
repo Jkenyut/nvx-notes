@@ -212,7 +212,18 @@
 	```sh
 	docker container start contohredis
 	```
-	kemudia
+	kemudian kita lihat lagi list container yang berjalan
+	```sh
+	docker container ls 
+	```
+	output
+	```zsh              
+	CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS          PORTS      NAMES
+	85ec49c23697   redis:latest   "docker-entrypoint.s…"   5 minutes ago   Up 18 seconds   6379/tcp   contohredis
+	```
+	terlihat bahwa container sedang berjalan dengan status dan port sudah terisi.
+
+	
 
 
 
@@ -222,6 +233,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE3NjY2NTMsLTYyODU2ODY5Nyw1MT
-cwNDI0OTcsMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbMTc2MzExMDg2LC02Mjg1Njg2OTcsNTE3MD
+QyNDk3LDM2NjYyNjMyNl19
 -->
