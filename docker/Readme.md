@@ -97,8 +97,32 @@
 	```
 	jika awalan akan terlihat kosong, untuk mengisinya kita perlu menggunakan perintah:
 	```sh
-	docker pull <name image:ve>
+	docker pull <name image:version>
 	```
+	contoh
+	```sh
+	docker pull redis:latest
+	```
+	output
+	```zsh
+	Using default tag: latest
+	latest: Pulling from library/redis
+	f4e51325a7cb: Pull complete 
+	14bc907446c4: Pull complete 
+	49bedfd7c51d: Pull complete 
+	4fd85a8f632f: Pull complete 
+	b2a4cbf7c41a: Pull complete 
+	4f4fb700ef54: Pull complete 
+	1284bf9d175c: Pull complete 
+	Digest: sha256:f0957bcaa75fd58a9a1847c1f07caf370579196259d69ac07f2e27b5b389b021
+	Status: Downloaded newer image for redis:latest
+	docker.io/library/redis:latest
+	```
+	kemudian kita perintah:
+	```sh
+	docker images
+	```
+	untuk melihat kembali image yang telah didow
 	```zsh   
 	REPOSITORY   TAG       IMAGE ID       CREATED      SIZE
 	redis        latest    5b7e962f53cb   4 days ago   159MB	
@@ -115,6 +139,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDk2NzY2NiwtNjI4NTY4Njk3LDUxNz
-A0MjQ5NywzNjY2MjYzMjZdfQ==
+eyJoaXN0b3J5IjpbOTY2NTcxNzg0LC02Mjg1Njg2OTcsNTE3MD
+QyNDk3LDM2NjYyNjMyNl19
 -->
