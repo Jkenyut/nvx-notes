@@ -34,10 +34,13 @@
 ## Install Docker
 - Docker bisa install di semua OS.
 - Untuk install di Windows dan Mac perlu menggunakan Docker Desktop.
-- [Install Docker](https://docs.docker.com/get-docker/)
 - Untuk Linux, bisa menggunakan distro linux masing-masing.
+- [Install Docker](https://docs.docker.com/get-docker/)
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDk3MDg1Niw1MTcwNDI0OTcsMzY2Nj
+eyJoaXN0b3J5IjpbLTE0OTM4OTgzNCw1MTcwNDI0OTcsMzY2Nj
 I2MzI2XX0=
 -->
