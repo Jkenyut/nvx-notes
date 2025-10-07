@@ -97,7 +97,7 @@
 	```
 	jika awalan akan terlihat kosong, untuk mengisinya kita perlu menggunakan perintah:
 	```sh
-	docker pull <name image:version>
+	docker pull <name image:tag>
 	```
 	contoh
 	```sh
@@ -122,11 +122,12 @@
 	```sh
 	docker images
 	```
-	untuk melihat kembali image yang telah didow
+	untuk melihat kembali image yang telah di download.
 	```zsh   
 	REPOSITORY   TAG       IMAGE ID       CREATED      SIZE
 	redis        latest    5b7e962f53cb   4 days ago   159MB	
 	```
+
 	
 	
 
@@ -139,6 +140,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NTcxNzg0LC02Mjg1Njg2OTcsNTE3MD
+eyJoaXN0b3J5IjpbOTMyMzAxMDEyLC02Mjg1Njg2OTcsNTE3MD
 QyNDk3LDM2NjYyNjMyNl19
 -->
