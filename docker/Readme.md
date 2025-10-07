@@ -208,6 +208,10 @@
 	```sh
 	docker container start <containerID/namacontainer>
 	```
+	atau
+	```sh
+	docker run <containerID/namacontainer>
+	```
 	contoh
 	```sh
 	docker container start contohredis
@@ -223,7 +227,7 @@
 	```
 	terlihat bahwa container sedang berjalan dengan status dan port sudah terisi.
 
-	
+## cara 	
 
 
 
@@ -233,6 +237,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzExMDg2LC02Mjg1Njg2OTcsNTE3MD
-QyNDk3LDM2NjYyNjMyNl19
+eyJoaXN0b3J5IjpbMTkzMDE1ODA2MywxNzYzMTEwODYsLTYyOD
+U2ODY5Nyw1MTcwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
