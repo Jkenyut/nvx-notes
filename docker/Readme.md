@@ -151,7 +151,16 @@
 	Deleted: sha256:3e5d01a55aea2c9ea64c3cfef2bb870df4b01c7e206103a970d4c3dc6caed96b
 	```
 	kemudian lihat docker images list:
-	
+	```sh
+	docker images
+	```
+	output 
+	```zsh   
+	REPOSITORY   TAG       IMAGE ID       CREATED
+	```
+## Docker Container
+- Jika docker image seperti installer aplikasi, maka docker container seperti aplikasi hasil installer.
+- Satu Docker Image bis
 
 	
 	
@@ -165,6 +174,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NTQ5NTA4LC02Mjg1Njg2OTcsNTE3MD
-QyNDk3LDM2NjYyNjMyNl19
+eyJoaXN0b3J5IjpbLTE5NzQyNjc4ODYsLTYyODU2ODY5Nyw1MT
+cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
