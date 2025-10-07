@@ -166,7 +166,15 @@
 - Saat membuat container secara default tidak akan berjalan otomatis.
 - Maka setelah membuat container, kita perlu menjalankan container tersebut ketika diperlukan.
 ## Melihat Docker Container
-- untuk melihat semua container , baik 
+- untuk melihat semua container , baik yang sedang berjalan maupun tidak di dalam docker daemon, perintahnya:
+	```sh
+	docker container ls -a
+	```
+	output
+	```zsh
+	CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+	```
+	jika ingin melihat s
 
 	
 	
@@ -180,6 +188,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU4NDIyMjEsLTYyODU2ODY5Nyw1MT
+eyJoaXN0b3J5IjpbLTEwMTA5MTcxMzksLTYyODU2ODY5Nyw1MT
 cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
