@@ -93,6 +93,13 @@
 	```
 	output 
 	```zsh   
+	REPOSITORY   TAG       IMAGE ID       CREATED
+	```
+	jika awalan akan terlihat kosong, untuk mengisinya kita perlu menggunakan perintah:
+	```sh
+	docker pull <name image:ve>
+	```
+	```zsh   
 	REPOSITORY   TAG       IMAGE ID       CREATED      SIZE
 	redis        latest    5b7e962f53cb   4 days ago   159MB	
 	```
@@ -108,6 +115,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDU2NDU5NywtNjI4NTY4Njk3LDUxNz
+eyJoaXN0b3J5IjpbMTg0NDk2NzY2NiwtNjI4NTY4Njk3LDUxNz
 A0MjQ5NywzNjY2MjYzMjZdfQ==
 -->
