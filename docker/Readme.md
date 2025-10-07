@@ -42,7 +42,7 @@
 	```sh
 	docker version
 	```
-	
+	output
 	```zsh
 	Client:
 	 Version:           28.0.4
@@ -91,6 +91,11 @@
 	```sh
 	docker images
 	```
+	output 
+	```zsh   
+	REPOSITORY   TAG       IMAGE ID       CREATED      SIZE
+	redis        latest    5b7e962f53cb   4 days ago   159MB	
+	```
 	
 	
 
@@ -103,6 +108,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk3ODY2MzYsLTYyODU2ODY5Nyw1MT
-cwNDI0OTcsMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbMjA3NDU2NDU5NywtNjI4NTY4Njk3LDUxNz
+A0MjQ5NywzNjY2MjYzMjZdfQ==
 -->
