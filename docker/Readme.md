@@ -174,7 +174,15 @@
 	```zsh
 	CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 	```
-	jika ingin melihat s
+	jika ingin melihat hanya container yang berjalan, maka perintahnya
+	```sh
+	docker container ls
+	```
+	output 
+	```zsh
+	
+	```
+	
 
 	
 	
@@ -188,6 +196,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA5MTcxMzksLTYyODU2ODY5Nyw1MT
-cwNDI0OTcsMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbMTEwNzk3NDgxOCwtNjI4NTY4Njk3LDUxNz
+A0MjQ5NywzNjY2MjYzMjZdfQ==
 -->
