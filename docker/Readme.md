@@ -19,9 +19,15 @@
 ![enter image description here](https://s7280.pcdn.co/wp-content/uploads/2018/07/containers-vs-virtual-machines.jpg)
 
 ## Pengenalan Docker
-Docker adalah s
+- Docker adalah salah satu implementasi pada container manager yang saat ini populer.
+- Docker merupakan teknologi yang di perkenalkan pada tahun 2013.
+- Docker bersifat Open-Source, sehingga dapat digunakan secara bebas.
+- 
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkxNDE3MjgsNTE3MDQyNDk3LDM2Nj
+eyJoaXN0b3J5IjpbLTExMDY3ODAzNjgsNTE3MDQyNDk3LDM2Nj
 YyNjMyNl19
 -->
