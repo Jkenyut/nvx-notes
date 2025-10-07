@@ -163,7 +163,10 @@
 - Satu Docker Image bisa digunakan untuk membuat docker container, asalkan nama docker container berbeda-beda.
 - Jika kita sudah membuat docker container, maka docker image yang sedang digunakan tidak bisa dihapus, hal ini karena docker container tidak melakukan copy isi docker image ke dalam docker container, tetapi hanya menggunakan isi dari docker image tersebut.
 ## Status Docker Container
-- Saat membuat container secara default
+- Saat membuat container secara default tidak akan berjalan otomatis.
+- Maka setelah membuat container, kita perlu menjalankan container tersebut ketika diperlukan.
+## Melihat Docker Container
+- untuk melihat semua container , baik 
 
 	
 	
@@ -177,6 +180,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NjYyOTg5LC02Mjg1Njg2OTcsNTE3MD
-QyNDk3LDM2NjYyNjMyNl19
+eyJoaXN0b3J5IjpbLTE4MzU4NDIyMjEsLTYyODU2ODY5Nyw1MT
+cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
