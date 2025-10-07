@@ -11,7 +11,7 @@
  - Container dapa berjalan diatas aplikasi container manager yang berjalan di OS.
  - Container bisa melakukan - package aplikasi dan dependency  tanpa harus menggabungkan OS.
  - container menggunakan sistem operasi host dimana container manager-nya berjalan, sehingga dapat berjalan cepat karena tidak perlu melakukan proses booting dan ukuran dari container lebih ringan dibandingkan VM, karena tidak membutuhkan sistem operasi sendiri.
- - ukuran container biasanya hitungan MB, berbeda dengan VM yang mencapai ratusan MB sampai GB karena ada OS didal
+ - ukuran container biasanya hitungan MB, berbeda dengan VM yang mencapai ratusan MB sampai GB karena ada OS di dalamnya
  - pada umumnya contrainer berjalan menggunakan OS linux:
 	 - Container berjalan selain linux, biasanya akan membuat semacam lightweight VM.
 	 - Di Windows ada WSL dan Mac akan otomatis menggunakan Qemu.
@@ -20,6 +20,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjA4Njg3LDUxNzA0MjQ5NywzNjY2Mj
-YzMjZdfQ==
+eyJoaXN0b3J5IjpbLTIxODY3NTY1MSw1MTcwNDI0OTcsMzY2Nj
+I2MzI2XX0=
 -->
