@@ -233,19 +233,18 @@
 
 ## Cara Menghentikan Docker Container
 - perintah untuk menghentikan docker container :
-```sh
-docker container stop contohredis
-```
-atau 
-```sh
-docker stop contohredis
-```
-kemudian kita bisa melihat kembali list container
-```sh
-docker container ls
-```
-output
-
+	```sh
+	docker container stop contohredis
+	```
+	atau 
+	```sh
+	docker stop contohredis
+	```
+	kemudian kita bisa melihat kembali list container
+	```sh
+	docker container ls
+	```
+	output
 	```zsh
 	CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES 
 	```
@@ -259,8 +258,9 @@ output
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTgwMzE2NiwxOTMwMTU4MDYzLDE3Nj
+eyJoaXN0b3J5IjpbMTc4NDczNDk0NiwxOTMwMTU4MDYzLDE3Nj
 MxMTA4NiwtNjI4NTY4Njk3LDUxNzA0MjQ5NywzNjY2MjYzMjZd
 fQ==
 -->
