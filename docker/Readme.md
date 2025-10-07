@@ -178,6 +178,10 @@
 	```sh
 	docker container ls
 	```
+	atau
+	```sh
+	docker ps
+	```
 ## Membuat Docker Container
 - Perintah untuk membuat container:
 	```sh
@@ -227,7 +231,11 @@
 	```
 	terlihat bahwa container sedang berjalan dengan status dan port sudah terisi.
 
-## cara 	
+## cara menghentikan docker container
+- perintah untuk menghentikan docker container :
+```sh
+docker container stop contohredis
+```
 
 
 
@@ -237,6 +245,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDE1ODA2MywxNzYzMTEwODYsLTYyOD
-U2ODY5Nyw1MTcwNDI0OTcsMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbLTY5NTU3OTQyMywxOTMwMTU4MDYzLDE3Nj
+MxMTA4NiwtNjI4NTY4Njk3LDUxNzA0MjQ5NywzNjY2MjYzMjZd
+fQ==
 -->
