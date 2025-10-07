@@ -187,8 +187,20 @@
 	```sh
 	docker create --name contohredis redis:latest
 	```
+	output
+	```zsh
+	docker create --name contohredis redis:latest
+	85ec49c236972e55bbb3380d9a1683ad19c4285247524af7b2e98784cd4c4156
+	```
+	maka kita bisa melihat lagi list container
 	
-
+```sh
+	docker container ls -a
+	```
+	output
+	```zsh
+	
+	```
 	
 	
 
@@ -201,6 +213,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM5NDE0NzcsLTYyODU2ODY5Nyw1MT
+eyJoaXN0b3J5IjpbLTExNDk3NTM0OTAsLTYyODU2ODY5Nyw1MT
 cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
