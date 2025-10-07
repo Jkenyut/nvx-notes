@@ -95,8 +95,8 @@
 	```zsh   
 	REPOSITORY   TAG       IMAGE ID       CREATED
 	```
-
-	jika awalan akan terlihat kosong, untuk mengisinya kita perlu menggunakan perintah:
+## Download Docker Image
+- jika awalan akan terlihat kosong, untuk mengisinya kita perlu menggunakan perintah:
 	```sh
 	docker pull <nameimage:tag>
 	```
@@ -128,7 +128,12 @@
 	REPOSITORY   TAG       IMAGE ID       CREATED      SIZE
 	redis        latest    5b7e962f53cb   4 days ago   159MB	
 	```
-## Mengapus Docker Image
+## Hapus Docker Image
+- Cara menghapus docker image yang sudah dibuat ataupun di download, bisa menggunakan perintah:
+	```sh
+	docker image rm <namaimage:tag>
+	```
+	
 
 	
 	
@@ -142,6 +147,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNzI1NTM1LC02Mjg1Njg2OTcsNTE3MD
-QyNDk3LDM2NjYyNjMyNl19
+eyJoaXN0b3J5IjpbLTE4NTQyNTY0NTIsLTYyODU2ODY5Nyw1MT
+cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
