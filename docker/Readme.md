@@ -7,7 +7,8 @@
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20250823130235313168/virtual_machines.webp) 
 
  # container
- - berbeda dengan VM, container dapat melakukan penggabungan aplikasi dengan dependensi.
+ - berbeda dengan VM, container hanya fokus pada aplikasi.
+ - Container dapa berjalan diatas aplikasi container manager yang 
  - Container berjalan menggunakan OS pada host (biasanya OS linux).
  - ukuran dari container lebih ringan dibandingkan VM.
  - container dapat berjalan cepat karena tidak perlu melakukan proses booting.
@@ -19,5 +20,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3MDQyNDk3LDM2NjYyNjMyNl19
+eyJoaXN0b3J5IjpbMjEyOTI0OTQxNCw1MTcwNDI0OTcsMzY2Nj
+I2MzI2XX0=
 -->
