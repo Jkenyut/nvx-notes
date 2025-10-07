@@ -8,8 +8,8 @@
 
  # container
  - berbeda dengan VM, container hanya fokus pada aplikasi.
- - Container dapa berjalan diatas aplikasi container manager yang 
- - Container berjalan menggunakan OS pada host (biasanya OS linux).
+ - Container dapa berjalan diatas aplikasi container manager yang berjalan di OS.
+ - Container bisa meng-package aplikasi dan dependency   
  - ukuran dari container lebih ringan dibandingkan VM.
  - container dapat berjalan cepat karena tidak perlu melakukan proses booting.
  - pada umumnya contrainer berjalan menggunakan OS linux:
@@ -20,6 +20,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTI0OTQxNCw1MTcwNDI0OTcsMzY2Nj
-I2MzI2XX0=
+eyJoaXN0b3J5IjpbMjUzMTUzMzUxLDUxNzA0MjQ5NywzNjY2Mj
+YzMjZdfQ==
 -->
