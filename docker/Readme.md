@@ -22,12 +22,15 @@
 - Docker adalah salah satu implementasi pada container manager yang saat ini populer.
 - Docker merupakan teknologi yang di perkenalkan pada tahun 2013.
 - Docker bersifat Open-Source, sehingga dapat digunakan secara bebas.
-- 
 
+## Arsitektur Docker
+- Docker menggunakan arsitektur Client & Server.
+- Docker berkomunikasi dengan Docker Daemon (Server).
+- Saat meng - install docker, biasan
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY3ODAzNjgsNTE3MDQyNDk3LDM2Nj
+eyJoaXN0b3J5IjpbLTE4ODY0ODMyNDMsNTE3MDQyNDk3LDM2Nj
 YyNjMyNl19
 -->
