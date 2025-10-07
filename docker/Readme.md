@@ -73,11 +73,14 @@
 	  GitCommit:        de40ad0	
   ```
 
-##  Docker Registe
+##  Docker Registry
+- Docker Registry adalah tempat kita menyimpan docker image.
+- Dengan adanya docker registry kita dapat menyimpan image yang akan kita buat dan bisa digunakan di docker daemon dimanapun selama bisa terkoneksi ke docker registry.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMzNDQ5NTUsLTYyODU2ODY5Nyw1MT
-cwNDI0OTcsMzY2NjI2MzI2XX0=
+eyJoaXN0b3J5IjpbLTQ4MDY2NjMwMywtNjI4NTY4Njk3LDUxNz
+A0MjQ5NywzNjY2MjYzMjZdfQ==
 -->
