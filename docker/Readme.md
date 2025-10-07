@@ -46,13 +46,11 @@
 	
 	```zsh
 	
-
-	
-	``
+	```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyNjAxODU0LC02Mjg1Njg2OTcsNTE3MD
-QyNDk3LDM2NjYyNjMyNl19
+eyJoaXN0b3J5IjpbLTIxNDYwNTI1MzAsLTYyODU2ODY5Nyw1MT
+cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
