@@ -6,7 +6,7 @@
 - VM tergolong lambat ketika dihidupkan karena adanya proses booting OS terlebih dahulu.
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20250823130235313168/virtual_machines.webp) 
 
- # container
+ # Container
  - berbeda dengan VM, container hanya fokus pada aplikasi.
  - Container dapa berjalan diatas aplikasi container manager yang berjalan di OS.
  - Container bisa melakukan - package aplikasi dan dependency  tanpa harus menggabungkan OS.
@@ -26,7 +26,7 @@
 ## Arsitektur Docker
 - Docker menggunakan arsitektur Client & Server.
 - Docker berkomunikasi dengan Docker Daemon (Server).
-- Saat meng - install docker, biasanya sudah terdapat docker client dan server.
+- Saat install docker, biasanya sudah terdapat docker client dan server.
 - Docker Client dan Docker Daemon bisa  berjalan di satu sistem yang sama dan berkomunikasi menggunakan Rest API.
 
 ![enter image description here](https://miro.medium.com/v2/resize:fit:2000/0*vTzuVPKGzW3EwcVB)
@@ -75,12 +75,13 @@
 
 ##  Docker Registry
 - Docker Registry adalah tempat kita menyimpan docker image.
-- Dengan adanya docker registry kita dapat menyimpan image yang akan kita buat dan bisa digunakan di docker daemon dimanapun selama bisa terkoneksi ke docker registry.
+- Dengan adanya docker registry kita dapat menyimpan image yang akan kita buat ataupun image orang lain, sehingga bisa digunakan di docker daemon dimanapun selama bisa terkoneksi ke docker registry.
+Contoh Docker 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDY2NjMwMywtNjI4NTY4Njk3LDUxNz
-A0MjQ5NywzNjY2MjYzMjZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzIzMDk0MjEsLTYyODU2ODY5Nyw1MT
+cwNDI0OTcsMzY2NjI2MzI2XX0=
 -->
