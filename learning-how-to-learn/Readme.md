@@ -22,9 +22,8 @@ Penutup bab :
 
 ## Bab 14
 ### kejutan belajar
-
-
+Sangat mu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OT
-gyMjAzXX0=
+eyJoaXN0b3J5IjpbMTQwMzg5MjE0NSw3Njk5NjkwMjcsMTg1MT
+EyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
