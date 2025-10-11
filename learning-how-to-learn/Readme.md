@@ -36,9 +36,9 @@ Penutup bab :
 		- apakah kamu memiliki jaringan memori yang buruk , sepertinya itu menyeramkan , tetapi sebenarnya itu bisa jadi kelebihan, mengapa ? karena kamu akan lebih kerja keras dalam membuat serangkai jaringan otak (brain-link) untuk membuat ide ide utama menempel di benakmu, hal tersebut juga bisa lebih mudah men sederhanakan dengan cara elegan dan lompatan yang kreatif, penelitian mengemukakan bahwa jika satu pemikiran keluar dari pikiran, pemikiran lain akan mucul, hasilnya kamu akan jauh lebih kreatif daripada mereka yang punya memori yang baik karena mereka tidak perlu melakukan cara men sederhanakan sesuatu untuk di tempelkan  di benak mereka, itu hanya menyulitkan mereka, intinya kamu bisa melihat jalan pintas dengan cara elegan dan mempunyai ide ide yang tidak terpikirkan oleh orang lain.
 	5.	Otak Mobil Balap versus Otak Pendaki
 		-  jika kamu memiliki otak mobil balap terkadang kamu akan bahagia karena kamu akan cepat untuk melakukan hal menjawab atau memahami sesuatu tanpa perlu mem khawatirkan detailnya, tetapi kamu juga perlu berhati hati karena jika kamu keluar jalur kamu akan sulit untuk kembali ke jalur tersebut
-		- berbeda dengan otak pendaki yang akan lambat dalam menjawab atau memahami akan sesuatu, berbahagialah karena dengan berjalan lambat kamu dapat belajar dengan perlahan dengan waktu lebih yang artinya kamu bisa dapat lebih kaya dan  dalam 
+		- berbeda dengan otak pendaki yang akan lambat dalam menjawab atau memahami akan sesuatu, berbahagialah karena dengan berjalan lambat kamu dapat belajar dengan perlahan dengan waktu lebih lama, artinya kamu bisa akan mempelajari sesuatu lebih kaya dan mendalam.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU4ODkxNDYsOTQ1MDQ0NjM1LDExND
-I2OTQzMzEsLTgzNDQxMTUxOCwyMDM0MDkxMjQxLDc2OTk2OTAy
-NywxODUxMTI4NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbMjc4Nzc2NDEyLDk0NTA0NDYzNSwxMTQyNj
+k0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcs
+MTg1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
