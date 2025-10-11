@@ -26,9 +26,9 @@ Penutup bab :
 - sangat mudah bagi kita berpikir bahwa kita adalah pembelajar yang lambat dibandingkan yang lain, tetapi bisa saja kamu bisa melakukan sebaik mereka , bahkan bisa lebih baik dari mereka yang pembelajaran cepat.
 - Mari kita bicarakan kejutan pembelajaran:
 	1. Gim Video
-		 - kita tahu bahwa pandangan orang tua pada game video  meru
+		 - kita tahu bahwa pandangan orang tua pada game video  merupakan hal yang buruk, tetapi ada beberapa video game yang baik untuk pembelajaran, contohnya adalah game aksi , mengapa? jika kamu bermain game tersebut kamu pastinya akan memiliki fokus dan konsentrasi yang lebih untuk mengikuti alur game tersebut daripada yang tidak 
 	3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzE5MDc3NCwyMDM0MDkxMjQxLDc2OT
+eyJoaXN0b3J5IjpbLTc1MDE4NTAzNCwyMDM0MDkxMjQxLDc2OT
 k2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
 -->
