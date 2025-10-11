@@ -24,9 +24,10 @@ Penutup bab :
 
 ### Kejutan belajar
 - sangat mudah bagi kita berpikir bahwa kita adalah pembelajar yang lambat dibandingkan yang lain, tetapi bisa saja kamu bisa melakukan sebaik mereka , bahkan bisa lebih baik dari mereka yang pembelajaran cepat.
+- Mari kita bicarakan kejutan pembelajaran:
 	1. Gim Video
 	2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1ODU3MTY2LDc2OTk2OTAyNywxODUxMT
-I4NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MT
+EyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
