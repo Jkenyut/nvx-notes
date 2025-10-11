@@ -17,10 +17,9 @@ Beberapa faktor yang berpengaruh pembelajaran:
 4. Makan katakmu dahulu, artinya hal terbaik adalah dengan memulai hal hal yang tidak menyenangkan atau sulit terlebih dahulu dalam sesi belajar dengan begitu kamu dapat ber istirahat dan mengerjakan hal lain jika kamu mengalami kebuntuan, ini memungkinkan otak dalam mode difusi yang bekerja di latar belakang untuk melepaskan kebuntuan saat kamu kembali, mungkin bisa menyelesaikan masalahmu saat awal pembelajaran, inti dari peribahasa ini adalah simpan kue mu untuk saat terakhir.
 5. Tetapkan waktu berhenti , tetapkan jadwal untuk berhenti belajar setiap hari, ini akan mendorong mu untuk tetap fokus pada studi sepanjang hari, contohnya jika waktu pagi sampai sore kamu belajar hingga waktu yang telah ditentukan kemudian malamnya kamu menikmati hidup bersama teman temanmu dimalam hari, hal tersebut dapat mengurangi tingkat stress dengan belajar menjaga fokus saat belajar. saran terpenting adalah cobalah membuat jurnal kecil atau ingatan yang akan diperkuat suatu topik sebelum tidur untuk dapat mendorong pengetahuan masuk ke dalam mimpi dan pembelajaran mu untuk dikelola mode difusi, kemudian hindari layar biru ponsel dan computer 2 jam sebelum tidur serta hal hal yang membuat sulit untuk tidur.
 
-Penutup bab : kembali ke musik
-
-1.	
+Penutup bab : 
+- jadilah ilmuwan pembelajaran untuk dirimu sendiri. amatilah pembelajaran seolah olah kamu seorang ilmuwan yang dapat melihat pengaruh apapun yang dapat membuatmu sukses dalam melakukan pembelajaran 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY4Nzg1OSwtMTQ3MDI3NDgzMCwxNj
-I2MDg3NTgzXX0=
+eyJoaXN0b3J5IjpbLTYzNjAwMDgyMywtMTQ1Njg3ODU5LC0xND
+cwMjc0ODMwLDE2MjYwODc1ODNdfQ==
 -->
