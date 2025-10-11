@@ -3,8 +3,10 @@
 ## Bab 13
 ### Pertanyaan penting untuk dirimu sendiri : 
 #### haruskah aku belajar sambil mendengarkan musik
--
+- setiap orang memiliki cara dan selera berbeda-beda untuk belajar, jadi marilah untuk melakukan observasi untuk dirimu sendiri mana yang akan berhasil dan tidak berhasil.
+- 
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjcxNzYyNV19
+eyJoaXN0b3J5IjpbLTM4NjU4NDc3OV19
 -->
