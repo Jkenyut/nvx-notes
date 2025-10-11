@@ -26,8 +26,9 @@ Penutup bab :
 - sangat mudah bagi kita berpikir bahwa kita adalah pembelajar yang lambat dibandingkan yang lain, tetapi bisa saja kamu bisa melakukan sebaik mereka , bahkan bisa lebih baik dari mereka yang pembelajaran cepat.
 - Mari kita bicarakan kejutan pembelajaran:
 	1. Gim Video
-	2. 
+		 - kita tahu bahwa pandangan orang tua pada game video  meru
+	3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MT
-EyODQ0Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTU1NzE5MDc3NCwyMDM0MDkxMjQxLDc2OT
+k2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
 -->
