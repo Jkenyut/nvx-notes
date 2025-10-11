@@ -21,9 +21,12 @@ Penutup bab :
 - jadilah ilmuwan pembelajaran untuk dirimu sendiri. amatilah pembelajaran seolah olah kamu seorang ilmuwan yang dapat melihat pengaruh apapun yang dapat membuatmu sukses dalam melakukan pembelajaran.
 
 ## Bab 14
-### kejutan belajar
-- sangat mudah bagi kita berpikir bahwa kita adalah pembelajar yang lambat dibandingkan yang lain, tetapi bisa saja kamu bisa melakukan sebaik mereka , bahkan bisa lebih baik dari mereka yang 
+
+### Kejutan belajar
+- sangat mudah bagi kita berpikir bahwa kita adalah pembelajar yang lambat dibandingkan yang lain, tetapi bisa saja kamu bisa melakukan sebaik mereka , bahkan bisa lebih baik dari mereka yang pembelajaran cepat.
+	1. Gim Video
+	2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjA2MjI5Miw3Njk5NjkwMjcsMTg1MT
-EyODQ0Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbMzE1ODU3MTY2LDc2OTk2OTAyNywxODUxMT
+I4NDQ2LDg5NTk4MjIwM119
 -->
