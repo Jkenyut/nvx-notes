@@ -2,7 +2,8 @@
 
 ## Bab 13
 ### Pertanyaan penting untuk dirimu sendiri : 
-#### haruskah aku belajar sambil mendengarkan musik
+
+ 
 - coba amati dirimu dengan membayangkan anda berada diatas langit langit dan melihat dirimu sendiri apakah bisa fokus pada sesuatu atau tidak.
 - setiap orang memiliki cara dan selera berbeda-beda untuk belajar, jadi marilah untuk melakukan observasi untuk dirimu sendiri mana yang akan berhasil dan tidak berhasil.
 - Penelitian memberikan informasi bahwa membuat daftar rencana yang akan dilakukan besok akan membuat dirimu tidur lebih cepat.
@@ -13,6 +14,6 @@
 	4. Makan katakmu dahulu, artinya hal terbaik adalah dengan memulai hal hal yang tidak menyenangkan atau sulit terlebih dahulu dalam sesi belajar dengan begitu kamu dapat ber istirahat dan mengerjakan hal lain jika kamu mengalami kebuntuan, ini memungkinkan otak dalam mode difusi yang bekerja di latar belakang untuk melepaskan kebuntuan saat kamu kembali, mungkin bisa menyelesaikan masalahmu saat awal pembelajaran, inti dari peribahasa ini adalah simpan kue mu untuk saat terakhir.
 	5. Tetapkan waktu berhenti 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NDYwNzgwLC0xNDcwMjc0ODMwLDE2Mj
+eyJoaXN0b3J5IjpbMjQxMTg0MTc5LC0xNDcwMjc0ODMwLDE2Mj
 YwODc1ODNdfQ==
 -->
