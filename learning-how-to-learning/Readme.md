@@ -8,9 +8,9 @@
 - Penelitian memberikan informasi bahwa membuat daftar rencana yang akan dilakukan besok akan membuat dirimu tidur lebih cepat.
 - Beberapa faktor yang berpengaruh pembelajaran:
 	- 
-	-  cobalah untuk mengubah tempat belajar, mengapa? ada 		hubungannya dengan bagaimana gurita perhatianmu bekerja dalam mengambil informasi jangka panjang dalam sebuah lemari (loker) dalam otakmu. Coba bayangkan, jika kamu belajar
+	-  cobalah untuk mengubah tempat belajar, mengapa? ada 		hubungannya dengan bagaimana gurita perhatianmu bekerja dalam mengambil informasi jangka panjang dalam sebuah lemari (loker) dalam otakmu. Coba bayangkan, jika kamu belajar akan suatu topik gurita perhatian akan mencoba bekerja sama dalam memahami topik tersebut tetapi adakalanya gurita tersebut tetap mencoba memasukkan hal acak lainnya saat sedang belajar contohnya ( nuansa , bau , tampilan ruangan)
 	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTI0ODddfQ==
+eyJoaXN0b3J5IjpbMTA2ODIwODk3XX0=
 -->
