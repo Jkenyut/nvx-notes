@@ -33,10 +33,11 @@ Penutup bab :
 	3. Cara membuat catatan
 		- mencatat 	merupakan hal yang sangat dianjurkan, tetapi jikalau kamu mencatat dengan cara mengetik agar cepat dan rapi , sebaiknya gunakan teknik mencatat dengan menulis karena itu akan jauh lebih baik tulisan jelek daripada hasil ketikan, tetapi jika tidak mem mungkinkan mari simak hal yang perlu diperhatikan, ingat bahwa mencatat adalah cara membuat serangkai jaringan otak mu bekerja untuk membuat suatu tulisan yang akan di tautkan , hal ini membuat duri dendrit mulai tumbuh, cobalah membuat catatan dengan poin poin serta tinjau dan ingat kembali hasil catatan mu sebelum tidur, uji kemampuan mengingat dalam menarik tulisan tersebut di dalam tautan tautan otakmu, ini akan memperkuat jaringan otak serta duri dendrit tumbuh lebih baik lagi.
 	4. Memiliki memori kerja yang buruk
-		- apakah kamu memiliki jaringan memori yang buruk , sepertinya itu menyeramkan , tetapi sebenarnya itu bisa jadi kelebihan, mengapa ? karena kamu akan lebih kerja keras dalam membuat serangkai jaringan otak (brain-link) untuk membuat ide ide utama menempel di benakmu, hal tersebut juga bisa lebih mudah men sederhanakan dengan cara elegan dan lompatan yang kreatif, penelitian mengemukakan bahwa jika satu pemikiran keluar dari pikiran, pemikiran lain akan mucul, hasilnya kamu akan jauh lebih kreatif daripada mereka yang punya memori yang baik karena mereka tidak perlu melakukan cara men sederhanakan sesuatu untuk di tempelkan  di benak mereka, itu hanya menyulitkan mereka, intinya kamu bisa melihat jalan pintas dengan cara elegan dan mepunyai ide ide yang tidak terpikirkan oleh orang lain.
-	5.	
+		- apakah kamu memiliki jaringan memori yang buruk , sepertinya itu menyeramkan , tetapi sebenarnya itu bisa jadi kelebihan, mengapa ? karena kamu akan lebih kerja keras dalam membuat serangkai jaringan otak (brain-link) untuk membuat ide ide utama menempel di benakmu, hal tersebut juga bisa lebih mudah men sederhanakan dengan cara elegan dan lompatan yang kreatif, penelitian mengemukakan bahwa jika satu pemikiran keluar dari pikiran, pemikiran lain akan mucul, hasilnya kamu akan jauh lebih kreatif daripada mereka yang punya memori yang baik karena mereka tidak perlu melakukan cara men sederhanakan sesuatu untuk di tempelkan  di benak mereka, itu hanya menyulitkan mereka, intinya kamu bisa melihat jalan pintas dengan cara elegan dan mempunyai ide ide yang tidak terpikirkan oleh orang lain.
+	5.	Otak Mobil Balap versus Otak Pendaki
+		-  kamu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzND
-QxMTUxOCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2
-LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbMzMyODY1MDQ2LDk0NTA0NDYzNSwxMTQyNj
+k0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcs
+MTg1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
