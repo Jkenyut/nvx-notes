@@ -33,9 +33,9 @@ Penutup bab :
 	3. Cara membuat catatan
 		- mencatat 	merupakan hal yang sangat dianjurkan, tetapi jikalau kamu mencatat dengan cara mengetik agar cepat dan rapi , sebaiknya gunakan teknik mencatat dengan menulis karena itu akan jauh lebih baik tulisan jelek daripada hasil ketikan, tetapi jika tidak mem mungkinkan mari simak hal yang perlu diperhatikan, ingat bahwa mencatat adalah cara membuat serangkai jaringan otak mu bekerja untuk membuat suatu tulisan yang akan di tautkan , hal ini membuat duri dendrit mulai tumbuh, cobalah membuat catatan dengan poin poin serta tinjau dan ingat kembali hasil catatan mu sebelum tidur, uji kemampuan mengingat dalam menarik tulisan tersebut di dalam tautan tautan otakmu, ini akan memperkuat jaringan otak serta duri dendrit tumbuh lebih baik lagi.
 	4. Memiliki memori kerja yang buruk
-		- apakah kamu memiliki jaringan memori yang buruk , sepertinya itu menyeramkan , tetapi sebenarnya itu bisa jadi kelebihan, mengapa ? karena kamu akan lebih kerja keras dalam membuat serangkai ja brain 
+		- apakah kamu memiliki jaringan memori yang buruk , sepertinya itu menyeramkan , tetapi sebenarnya itu bisa jadi kelebihan, mengapa ? karena kamu akan lebih kerja keras dalam membuat serangkai jaringan otak (brain-link) untuk membuat ide ide utama menempel di benakmu, hal tersebut juga kau bisa lebih mudah men sederhanakan dengan cara elegan dan lompatan yang kreatif, penelitian menunj
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODY1NzA2MywxMTQyNjk0MzMxLC04Mz
-Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
-Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbMzM0NDU5MTM4LDExNDI2OTQzMzEsLTgzND
+QxMTUxOCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2
+LDg5NTk4MjIwM119
 -->
