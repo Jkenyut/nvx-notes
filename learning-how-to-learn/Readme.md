@@ -21,7 +21,10 @@ Penutup bab :
 - jadilah ilmuwan pembelajaran untuk dirimu sendiri. amatilah pembelajaran seolah olah kamu seorang ilmuwan yang dapat melihat pengaruh apapun yang dapat membuatmu sukses dalam melakukan pembelajaran.
 
 ## Bab 14
+### kejutan belajar
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkyNzg0MywxODUxMTI4NDQ2LDg5NT
-k4MjIwM119
+eyJoaXN0b3J5IjpbNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OT
+gyMjAzXX0=
 -->
