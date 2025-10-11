@@ -20,7 +20,8 @@ Beberapa faktor yang berpengaruh pembelajaran:
 Penutup bab : 
 - jadilah ilmuwan pembelajaran untuk dirimu sendiri. amatilah pembelajaran seolah olah kamu seorang ilmuwan yang dapat melihat pengaruh apapun yang dapat membuatmu sukses dalam melakukan pembelajaran.
 
-## Bab 13
+## Bab 14
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTE4NjkyNzg0MywxODUxMTI4NDQ2LDg5NT
+k4MjIwM119
 -->
