@@ -22,8 +22,8 @@ Penutup bab :
 
 ## Bab 14
 ### kejutan belajar
-Sangat mu
+- sangat mudah bagi kita berpikir bahwa kita adalah pembelajar yang lambat dibandingkan yang lain, tetapi bisa saja kamu bisa melakukan sebaik mereka , bahkan bisa lebih baik dari mereka yang 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzg5MjE0NSw3Njk5NjkwMjcsMTg1MT
+eyJoaXN0b3J5IjpbMTgyNjA2MjI5Miw3Njk5NjkwMjcsMTg1MT
 EyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
