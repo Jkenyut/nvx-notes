@@ -31,10 +31,11 @@ Penutup bab :
 	2.	Pelajari sesuatu yang benar benar berbeda
 		- faktanya jika kamu menyukai akan suatu hal, kamu bisa saja jauh lebih baik jika kamu mau belajar dengan sedikit cara berbeda, mengapa?, biasanya pikiranmu terjebak pada jalur saraf tertentu yang susah untuk di ubah ataupun diatur, (pikiran biasa) , menjadikan kurang fleksibel dalam berpikir, jika kamu memutuskan hebat dalam suatu hal kamu pastinya akan menghabiskan waktu untuk hal tersebut, sama halnya seperti lainnya, terus bagaimana cara mu menjadi hebat jikalau yang lain melakukan hal yang sama, maka dari itu cobalah buat hal belajar ke arah yang berbeda, hingga kamu menemukan cara membuat ide ide tersebut berguna bagi minat utamamu, ide pembelajaran ini disebut transfer yaitu cara kerja jaringan otak yang membuat dari satu area ide dapat membuat ide di area lainnya secara adaptif  yang membuat dirimu lebih kreatif.
 	3. Cara membuat catatan
-			- mencatat 	merupakan hal yang sangat dianjurkan, tetapi jikalau kamu mencatat dengan cara mengetik agar cepat dan rapi , sebaiknya gunakan teknik mencatat dengan menulis karena itu akan jauh lebih baik tulisan jelek daripada hasil ketikan, tetapi jika tidak mem mungkinkan mari simak hal yang perlu diperhatikan, ingat bahwa mencatat adalah cara membuat serangkai jaringan otak mu bekerja untuk membuat suatu tulisan yang akan di tautkan , hal ini membuat duri dendrit mulai tumbuh, cobalah membuat catatan dengan poin poin serta tinjau dan ingat kembali hasil catatan mu sebelum tidur, uji kemampuan mengingat dalam menarik tulisan tersebut di dalam tautan tautan otakmu, ini akan memperkuat jaringan otak serta duri dendrit tumbuh lebih baik lagi.
-	4. Memiliki 
+		- mencatat 	merupakan hal yang sangat dianjurkan, tetapi jikalau kamu mencatat dengan cara mengetik agar cepat dan rapi , sebaiknya gunakan teknik mencatat dengan menulis karena itu akan jauh lebih baik tulisan jelek daripada hasil ketikan, tetapi jika tidak mem mungkinkan mari simak hal yang perlu diperhatikan, ingat bahwa mencatat adalah cara membuat serangkai jaringan otak mu bekerja untuk membuat suatu tulisan yang akan di tautkan , hal ini membuat duri dendrit mulai tumbuh, cobalah membuat catatan dengan poin poin serta tinjau dan ingat kembali hasil catatan mu sebelum tidur, uji kemampuan mengingat dalam menarik tulisan tersebut di dalam tautan tautan otakmu, ini akan memperkuat jaringan otak serta duri dendrit tumbuh lebih baik lagi.
+	4. Memiliki memori kerja yang buruk
+		- apakah kamu memiliki jaringan memori yang buruk , sepertinya itu menyeramkan , tetapi sebenarnya itu bisa jadi kelebihan, mengapa ? karena kamu akan lebih kerja keras dalam membuat serangkai ja brain 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzkzMTY0MSwxMTQyNjk0MzMxLC04Mz
+eyJoaXN0b3J5IjpbLTY1ODY1NzA2MywxMTQyNjk0MzMxLC04Mz
 Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
 Niw4OTU5ODIyMDNdfQ==
 -->
