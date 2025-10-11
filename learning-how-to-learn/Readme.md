@@ -29,8 +29,8 @@ Penutup bab :
 		 - kita tahu bahwa pandangan orang tua pada game video  merupakan hal yang buruk, tetapi ada beberapa video game yang baik untuk pembelajaran, contohnya adalah game aksi, mengapa? jika kamu bermain game tersebut kamu pastinya akan memiliki fokus dan konsentrasi yang lebih untuk mengikuti alur game tersebut daripada yang tidak bermain game, hal ini berarti kamu benar benar mengalihkan perhatianmu terhadap sesuatu , yang mana membuka jalur memori lebih besar tetapi bukan memori kerja, tidak semua game memberi manfaat dan jelas terlalu banyak bermain game (ketagihan) malah justru memperburuk proses pembelajaran , maka perlu adanya kontrol oleh dirimu bahwa game video bisa membantu atau malah memperburuk jadi anda perlu mengontrol perhatian tersebut.
 		 
 	2.	Pelajari sesuatu yang benar benar berbeda
-		- untuk membantu kemampuan belajar , kamu perlu melakukan sesuatu dengan cara berbeda, mengapa?, biasanya pikiranmu terjebak pada jalur saraf tertentu yang susah untuk di ubah ataupun diatur
+		- faktanya jika kamu menyukai akan suatu hal, kamu bisa saja jauh lebih baik jika kamu mau untuk membantu kemampuan belajar , kamu perlu melakukan sesuatu dengan cara berbeda, mengapa?, biasanya pikiranmu terjebak pada jalur saraf tertentu yang susah untuk di ubah ataupun diatur, (pikiran biasa) , menjadikan kurang fleksibel dalam berpikir, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTAwMDk0MSwyMDM0MDkxMjQxLDc2OT
-k2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbNTAxMTE2MjUyLDIwMzQwOTEyNDEsNzY5OT
+Y5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
 -->
