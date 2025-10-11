@@ -31,10 +31,10 @@ Penutup bab :
 	2.	Pelajari sesuatu yang benar benar berbeda
 		- faktanya jika kamu menyukai akan suatu hal, kamu bisa saja jauh lebih baik jika kamu mau belajar dengan sedikit cara berbeda, mengapa?, biasanya pikiranmu terjebak pada jalur saraf tertentu yang susah untuk di ubah ataupun diatur, (pikiran biasa) , menjadikan kurang fleksibel dalam berpikir, jika kamu memutuskan hebat dalam suatu hal kamu pastinya akan menghabiskan waktu untuk hal tersebut, sama halnya seperti lainnya, terus bagaimana cara mu menjadi hebat jikalau yang lain melakukan hal yang sama, maka dari itu cobalah buat hal belajar ke arah yang berbeda, hingga kamu menemukan cara membuat ide ide tersebut berguna bagi minat utamamu, ide pembelajaran ini disebut transfer yaitu cara kerja jaringan otak yang membuat dari satu area ide dapat membuat ide di area lainnya secara adaptif  yang membuat dirimu lebih kreatif.
 	3. Cara membuat catatan
-			- mencatat 	merupakan hal yang sangat dianjurkan, tetapi jikalau kamu mencatat dengan cara mengetik agar cepat dan rapi , sebaiknya gunakan teknik mencatat dengan menulis karena itu akan jauh lebih baik tulisan jelek daripada hasil ketikan, tetapi jika tidak mem mungkinkan mari 
+			- mencatat 	merupakan hal yang sangat dianjurkan, tetapi jikalau kamu mencatat dengan cara mengetik agar cepat dan rapi , sebaiknya gunakan teknik mencatat dengan menulis karena itu akan jauh lebih baik tulisan jelek daripada hasil ketikan, tetapi jika tidak mem mungkinkan mari simak hal yang perlu diperhatikan, ingat bahwa mencatat adalah cara membuat serangkai jaringan otak mu bekerja untuk membuat suatu tulisan yang akan di tautkan , hal ini membuat duri dendr
 	5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU0MTMwNDgsLTgzNDQxMTUxOCwyMD
-M0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIw
-M119
+eyJoaXN0b3J5IjpbLTY4MTAyNzEyMSwtODM0NDExNTE4LDIwMz
+QwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAz
+XX0=
 -->
