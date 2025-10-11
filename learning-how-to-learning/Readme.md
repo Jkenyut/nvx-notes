@@ -8,8 +8,9 @@
 - Penelitian memberikan informasi bahwa membuat daftar rencana yang akan dilakukan besok akan membuat dirimu tidur lebih cepat.
 - Beberapa faktor yang berpengaruh pembelajaran:
 	1. cobalah untuk mengubah tempat belajar, mengapa? ada 		hubungannya dengan bagaimana gurita perhatianmu bekerja dalam mengambil informasi jangka panjang dalam sebuah lemari (loker) dalam otakmu. Coba bayangkan, jika kamu belajar akan suatu topik gurita perhatian akan mencoba bekerja sama dalam memahami topik tersebut tetapi adakalanya gurita tersebut tetap mencoba memasukkan hal acak lainnya saat sedang belajar contohnya ( nuansa , bau , tampilan ruangan), terus apa efeknya , ok akan ku beri contoh , misal kita sering belajar geometri di perpustakaan terus menerus, tetapi ujian geometri tersebut berlangsung di suatu ruangan ujian, gurita perhatianmu akan kebingungan untuk menemukan informasi topik geometri karena tidak adanya arah atau tautan yang berdekatan dengan hal perpustakaan, bukankah berbahaya? maka cobalah untuk belajar dengan tempat belajar yang berbeda beda agar gurita perhatianmu akan terbiasa menemukan suatu topik dalam loker jangka panjang tanpa harus tau dimana letak atau petunjuk lain, jadi kembangkan kreativitas dan trikmu dalam pembelajaran efektif.
-	2. Masalah gaya belajar Au
+	2. Masalah gaya belajar Auditori ,Visual, dan Kinestik, para penelitian sepakat bahwa setiap orang mempunyai cara masing masing dalam memperoleh informas 
+	4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM1NDY3OTFdfQ==
+eyJoaXN0b3J5IjpbLTExODIyMDIwNV19
 -->
