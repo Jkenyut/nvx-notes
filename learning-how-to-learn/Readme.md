@@ -43,9 +43,11 @@ Penutup bab :
 
 - Idealnya kita hanya mempelajari sesuatu yang penting, menarik, dan yang hanya kita ingin ketahui.
 - Tes adalah bagian penting untuk mengetahui bahwa diri kita dan orang lain bahwa kita telah mempelajari suatu topik dengan baik, hal ini sebagai batu loncatan dalam kehidupan untuk berpindah dari sekolah ke perguruan tinggi ataupun ke suatu profesi.
-- Penelitian menunjukan bahwa test merupakan salah satu alat  terbaik untuk membantumu belajar, hal ini terjadi karena jika test satu jam itu lebih baik dari pada 1 jam belajar,  mengapa bisa karena test merupakan cara untuk kita berkonsentrasi dan fokus mengingat kembali hal hal yang kita p
+- Penelitian menunjukan bahwa test merupakan salah satu alat  terbaik untuk membantumu belajar, hal ini terjadi karena jika test satu jam itu lebih baik dari pada 1 jam belajar,  mengapa bisa karena test merupakan cara untuk kita berkonsentrasi dan fokus mengingat kembali hal hal yang kita pernah pelajari tentang topik tersebut.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ0NjE2MDEsMTc3NzMyMjk2OSw5ND
+eyJoaXN0b3J5IjpbLTExNDMzNDc3MjcsMTc3NzMyMjk2OSw5ND
 UwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4LDIwMzQwOTEy
 NDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
 -->
