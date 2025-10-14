@@ -41,9 +41,9 @@ Penutup bab :
 ## Bab 15
 ### Cara Mengerjakan Tes Dengan Baik
 
-
+Idealnya kita hanya mempelajari sesuatu yang penting, menarik, dan yang hanya kita ingin ketahui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzcwNDY1LDE3NzczMjI5NjksOTQ1MD
-Q0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUxOCwyMDM0MDkxMjQx
-LDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbLTEwNjc3Njk5NCwxNzc3MzIyOTY5LDk0NT
+A0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0
+MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
