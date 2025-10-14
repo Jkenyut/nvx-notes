@@ -37,8 +37,13 @@ Penutup bab :
 	5.	Otak Mobil Balap versus Otak Pendaki
 		-  jika kamu memiliki otak mobil balap terkadang kamu akan bahagia karena kamu akan cepat untuk menjawab atau memahami sesuatu tanpa perlu mem khawatirkan detailnya, tetapi kamu juga perlu berhati hati karena jika kamu keluar jalur kamu akan sulit untuk kembali ke jalur tersebut
 		- berbeda dengan otak pendaki yang akan lambat dalam menjawab atau memahami akan sesuatu, berbahagialah karena dengan berjalan lambat kamu dapat belajar dengan perlahan dengan waktu lebih lama, artinya kamu bisa akan mempelajari sesuatu lebih kaya dan mendalam.
+
+## Bab 15
+### Cara Mengerjakan Tes Dengan Baik
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0Mj
-Y5NDMzMSwtODM0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3
-LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbLTk5MzcwNDY1LDE3NzczMjI5NjksOTQ1MD
+Q0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUxOCwyMDM0MDkxMjQx
+LDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
 -->
