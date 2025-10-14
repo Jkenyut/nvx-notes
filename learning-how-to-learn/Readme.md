@@ -58,11 +58,11 @@ Penutup bab :
 
 3. Saran Terakhir untuk keberhasilan test
 	 - Waspadai berpikir mode biasa, setelah kamu mendapatkan suatu solusi yang menurutmu benar-benar bekerja, cobalah masuk ke dalam mode difusi, periksa kembali jawabanmu cobalah untuk berpikir dengan pandangan berbeda dan menanyakan kepada dirimu "apakah jawaban tersebut masuk akal terhadap soal tersebut"
-	 - Meninjau ulang soal setelah kamu benar akan solusi tersebut adalah hal yang perlu dialihkan karena otak bisa saja menipu dirimu, cobalah mengalih kan fokus ke arah lain, gunakan perspektif gambaran besar dengan urutan soal berbeda saat kamu mengerjakan soal tersebut
-	 - 
+	 - Meninjau ulang soal setelah kamu benar akan solusi tersebut adalah hal yang perlu dialihkan karena otak bisa saja menipu dirimu, cobalah mengalih kan fokus ke arah lain, gunakan perspektif gambaran besar dengan urutan soal berbeda saat kamu mengerjakan soal tersebut.
+	 - pastikan tidur mu cukup untuk menghadapi ujian.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5NjAyNTIsLTY0MzA5Njk0MCwtMT
-E0MzM0NzcyNywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0
-MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMT
-g1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMT
+QzMzQ3NzI3LDE3NzczMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQz
+MzEsLTgzNDQxMTUxOCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxOD
+UxMTI4NDQ2LDg5NTk4MjIwM119
 -->
