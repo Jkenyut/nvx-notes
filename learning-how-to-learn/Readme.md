@@ -54,13 +54,14 @@ Penutup bab :
 2. Stress Terbaik ? Stress Tes
 		- Penelitian menunjukan bahwa semakin kita berlatih ingatan aktif sebelum ujian semakin kita dapat mengurangi stres pada ujian tersebut, faktanya jika ujian membuat kamu stres sangat penting untuk berlatih mengingat dalam studimu, anehnya perasaan stres ini dapat membantu mengerjakan ujian dengan lebih baik.
 		- Jika kamu mengalami stress , gugup dan panik dalam menghadapi ujian cobalah untuk, berpikir perspektif berbeda tentang stress ke arah positif, belajar untuk menarik nafas dalam dalam agar oksigen di dalam tubuh terpenuhi, cobalah untuk berlatih 30 detik sekali nafas di depan cermin coba berulang -ulang, sebelum ujian tes tersebut dimulai.
-		- stress tersebut akan ada atau tidak tergantu
+		- stress, gugup ataupun bersemangat ditentukan  dari caramu menafsirkan perasaan.
 
 3. Saran Terakhir untuk keberhasilan test
 	 - Waspadai berpikir mode biasa, setelah kamu mendapatkan suatu solusi yang menurutmu benar-benar bekerja, cobalah masuk ke dalam mode difusi, periksa kembali jawabanmu cobalah untuk berpikir dengan pandangan berbeda dan menanyakan kepada dirimu "apakah jawaban tersebut masuk akal terhadap soal tersebut"
+	 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MzQ4NTg0LC02NDMwOTY5NDAsLTExND
-MzNDc3MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMz
-MSwtODM0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NT
-ExMjg0NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbLTE1NDgzNTU4OTcsLTY0MzA5Njk0MCwtMT
+E0MzM0NzcyNywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0
+MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMT
+g1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
