@@ -51,10 +51,11 @@ Penutup bab :
 	-	Hal ini disebut teknik hard-start, mengapa bisa? karena kita bisa membuat cara kerja otak untuk memungkinkan ke dalam mode di fusi (saat soal sulit kita ditinggalkan) lalu otak akan bekerja di latar belakang dan mode fokus saat kita mengerjakan soal yang mudah.
 	-	teknik memulai yang paling sulit merupakan teknik menggunakan dua mode otak bekerja sehingga sangat efektif dalam mengerjakan masalah yang kita hadapi.
 	
-2. 
+2. Stress Terbaik ? Stress Tes
+		- Penilitian menunjukan bahwa semakin kita berlatih ingatan aktif sebelum ujian semakin kita dapat mengura	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
-c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
-MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
-U5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDc1NjE2MzEsLTY0MzA5Njk0MCwtMT
+E0MzM0NzcyNywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0
+MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMT
+g1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
