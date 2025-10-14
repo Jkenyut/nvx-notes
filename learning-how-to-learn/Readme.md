@@ -60,9 +60,15 @@ Penutup bab :
 	 - Waspadai berpikir mode biasa, setelah kamu mendapatkan suatu solusi yang menurutmu benar-benar bekerja, cobalah masuk ke dalam mode difusi, periksa kembali jawabanmu cobalah untuk berpikir dengan pandangan berbeda dan menanyakan kepada dirimu "apakah jawaban tersebut masuk akal terhadap soal tersebut"
 	 - Meninjau ulang soal setelah kamu benar akan solusi tersebut adalah hal yang perlu dialihkan karena otak bisa saja menipu dirimu, cobalah mengalih kan fokus ke arah lain, gunakan perspektif gambaran besar dengan urutan soal berbeda saat kamu mengerjakan soal tersebut.
 	 - pastikan tidur mu cukup untuk menghadapi ujian.
+
+## Bab 16
+### Beranjak dari "harus" ke "akan
+
+-  pengulangan adalah salah satu kunci pembelajaran.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMT
-QzMzQ3NzI3LDE3NzczMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQz
-MzEsLTgzNDQxMTUxOCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxOD
-UxMTI4NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbMTIyNDc3NjM4MywtNzkzNjE5NDkzLC02ND
+MwOTY5NDAsLTExNDMzNDc3MjcsMTc3NzMyMjk2OSw5NDUwNDQ2
+MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4LDIwMzQwOTEyNDEsNz
+Y5OTY5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
 -->
