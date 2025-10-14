@@ -49,9 +49,11 @@ Penutup bab :
 	-	banyak dari kita salah kaprah untuk memulai suatu test dari soal yang paling mudah ke soal yang paling sulit.
 	-	Idealnya adalah mengerjakan soal paling sulit selama 1 atau 2 menit hingga kamu mengalami kebuntuan akan soal tersebut sehingga kamu harus memutuskan hubungan dengan soal itu (tinggalkan soal tersebut), kemudian beralih ke soal mudah.
 	-	Hal ini disebut teknik hard-start, mengapa bisa? karena kita bisa membuat cara kerja otak untuk memungkinkan ke dalam mode di fusi (saat soal sulit kita ditinggalkan) lalu otak akan bekerja di latar belakang dan mode fokus saat kita mengerjakan soal yang mudah.
-	-	teknik memulai yang paling adalah teknik yang paling efektif dalam me
+	-	teknik memulai yang paling sulit merupakan teknik menggunakan dua mode otak bekerja sehingga sangat efektif dalam mengerjakan masalah yang kita hadapi.
+	
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTQ4OTk4OSwtMTE0MzM0NzcyNywxNz
+eyJoaXN0b3J5IjpbLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
 c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
 MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
 U5ODIyMDNdfQ==
