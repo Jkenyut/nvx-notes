@@ -41,9 +41,11 @@ Penutup bab :
 ## Bab 15
 ### Cara Mengerjakan Tes Dengan Baik
 
-Idealnya kita hanya mempelajari sesuatu yang penting, menarik, dan yang hanya kita ingin ketahui.
+- Idealnya kita hanya mempelajari sesuatu yang penting, menarik, dan yang hanya kita ingin ketahui.
+- Tes adalah bagian penting untuk mengetahui bahwa diri kita dan orang lain bahwa kita telah mempelajari suatu topik dengan baik, hal ini sebagai batu loncatan dalam kehidupan untuk berpindah dari sekolah ke perguruan tinggi ataupun ke suatu profesi.
+- p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc3Njk5NCwxNzc3MzIyOTY5LDk0NT
-A0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0
-MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzEzMjg1MjYsMTc3NzMyMjk2OSw5ND
+UwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4LDIwMzQwOTEy
+NDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
 -->
