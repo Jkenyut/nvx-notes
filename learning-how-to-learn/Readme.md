@@ -65,10 +65,10 @@ Penutup bab :
 ### Beranjak dari "harus" ke "akan
 
 -  pengulangan adalah salah satu kunci pembelajaran.
-- 
+- Dari Belajar harus ke belajar akan , merupaka
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDc3NjM4MywtNzkzNjE5NDkzLC02ND
-MwOTY5NDAsLTExNDMzNDc3MjcsMTc3NzMyMjk2OSw5NDUwNDQ2
-MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4LDIwMzQwOTEyNDEsNz
-Y5OTY5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbLTEwNDUzNTIwODksLTc5MzYxOTQ5MywtNj
+QzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3NzczMjI5NjksOTQ1MDQ0
+NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUxOCwyMDM0MDkxMjQxLD
+c2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
 -->
