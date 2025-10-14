@@ -52,9 +52,10 @@ Penutup bab :
 	-	teknik memulai yang paling sulit merupakan teknik menggunakan dua mode otak bekerja sehingga sangat efektif dalam mengerjakan masalah yang kita hadapi.
 	
 2. Stress Terbaik ? Stress Tes
-		- Penilitian menunjukan bahwa semakin kita berlatih ingatan aktif sebelum ujian semakin kita dapat mengura	
+		- Penelitian menunjukan bahwa semakin kita berlatih ingatan aktif sebelum ujian semakin kita dapat mengurangi stres pada ujian tersebut, faktanya jika ujian membuat kamu stres sangat penting untuk berlatih mengingat dalam studimu, anehnya perasaan stres ini dapat membantu mengerjakan ujian dengan lebih baik.
+		- Jika kamu mn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc1NjE2MzEsLTY0MzA5Njk0MCwtMT
+eyJoaXN0b3J5IjpbLTEwMTMwOTM0MjEsLTY0MzA5Njk0MCwtMT
 E0MzM0NzcyNywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0
 MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMT
 g1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
