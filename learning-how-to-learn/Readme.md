@@ -47,10 +47,11 @@ Penutup bab :
 
 1. Teknik Memulai Yang Sulit : Belajar Kapan Harus Memutuskan Hubungan
 	-	banyak dari kita salah kaprah untuk memulai suatu test dari soal yang paling mudah ke soal yang paling sulit.
-	-	
+	-	Idealnya adalah mengerjakan soal paling sulit selama 1 atau 2 menit hingga kamu mengalami kebuntuan akan soal tersebut sehingga kamu harus memutuskan hubungan dengan soal itu (tinggalkan soal tersebut), kemudian beralih ke soal mudah.
+	-	Hal ini disebut teknik hard-satrt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU5MzkyOTksLTExNDMzNDc3MjcsMT
-c3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDEx
-NTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsOD
-k1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbLTY2MjU0NzA5MSwtMTE0MzM0NzcyNywxNz
+c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
+MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
+U5ODIyMDNdfQ==
 -->
