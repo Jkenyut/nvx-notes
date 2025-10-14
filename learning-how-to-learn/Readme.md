@@ -45,9 +45,12 @@ Penutup bab :
 - Tes adalah bagian penting untuk mengetahui bahwa diri kita dan orang lain bahwa kita telah mempelajari suatu topik dengan baik, hal ini sebagai batu loncatan dalam kehidupan untuk berpindah dari sekolah ke perguruan tinggi ataupun ke suatu profesi.
 - Penelitian menunjukan bahwa test merupakan salah satu alat  terbaik untuk membantumu belajar, hal ini terjadi karena jika test satu jam itu lebih baik dari pada 1 jam belajar,  mengapa bisa karena test merupakan cara untuk kita berkonsentrasi dan fokus mengingat kembali hal hal yang kita pernah pelajari tentang topik tersebut.
 
-
+1. Teknik Memulai Yang Sulit : Belajar Kapan Harus Memutuskan Hubungan
+	-	banyak dari kita salah kaprah untuk memulai suatu test dari soal yang paling mudah ke soal yang paling sulit.
+	-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMzNDc3MjcsMTc3NzMyMjk2OSw5ND
-UwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4LDIwMzQwOTEy
-NDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbLTIwMDU5MzkyOTksLTExNDMzNDc3MjcsMT
+c3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDEx
+NTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsOD
+k1OTgyMjAzXX0=
 -->
