@@ -69,11 +69,14 @@ Penutup bab :
 - Belajar lah apapun dan perluas minatmu untuk belajar karena kamu tidak akan tahu kapan pembelajaran tersebut berguna.
 Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu miliki.
 
-#
+## Apa yang harus dilakukan dan apa yang tidak harus dilakukan dalam pembelajaran
+- mengingat adalah salah satu cara terbaik untuk belajar.
+- Daftar ide terbaik dalam buku ini:
+	1. 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Njg1MTU0OSwtMTQyNDQ3MDg0LC03OT
-M2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNzc3MzIy
-OTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgsMj
-AzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5ODIy
-MDNdfQ==
+eyJoaXN0b3J5IjpbOTMxMTE0Nzc4LC0xNDI0NDcwODQsLTc5Mz
+YxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3NzczMjI5
+NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUxOCwyMD
+M0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIw
+M119
 -->
