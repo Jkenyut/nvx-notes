@@ -95,9 +95,10 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	9. gangguan, jauhkan semua distraksi saat kamu melakukan pembelajaran.
 	10. mengobrol dengan teman alih-alih belajar kelompok , belajar kelompok adalah suatu hal yang baik dan cara yang bagus untuk membantu belajar, tetapi jika ternyata hanya banyak ngobrol atau bergosip ketimbang belajar , tidak banyak berguna dalam pembelajaran.
 	
-- bagikanlah apa yang telah kamu 
+- bagikanlah apa yang telah kamu pelajari, ini adalah salah satu bagian terbaik dalam pembelajaran.
+- A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjIxMzI2MCw5MzExMTQ3NzgsLTE0Mj
+eyJoaXN0b3J5IjpbLTExNTY3NDE0NCw5MzExMTQ3NzgsLTE0Mj
 Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
 MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
 M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
