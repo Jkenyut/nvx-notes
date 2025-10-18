@@ -72,11 +72,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 ## Apa yang harus dilakukan dan apa yang tidak harus dilakukan dalam pembelajaran
 - mengingat adalah salah satu cara terbaik untuk belajar.
 - Daftar ide terbaik dalam buku ini:
-	1. 	
+	1. manfaatkan kedua mode fokus dan difusi secara intensif.
+	2. Buatlah kumpulan jaringan otak, dengan pelatihan, pengulangan, dan mengingat. Solusi, konsep dan teknik ha
+	3. 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMTE0Nzc4LC0xNDI0NDcwODQsLTc5Mz
-YxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3NzczMjI5
-NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUxOCwyMD
-M0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIw
-M119
+eyJoaXN0b3J5IjpbMTk2ODE3MjEyLDkzMTExNDc3OCwtMTQyND
+Q3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0Nzcy
+NywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04Mz
+Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
+Niw4OTU5ODIyMDNdfQ==
 -->
