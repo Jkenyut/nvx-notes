@@ -97,11 +97,11 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	
 - bagikanlah apa yang telah kamu pelajari, ini adalah salah satu bagian terbaik dalam pembelajaran.
 - alasan mengapa seorang bisa berhasil dan membuat penemuan besar ketika orang-orang jenius pun gagal
-	1. 
+	1. Tetap membukan pilihan, cobalah untuk memperluas minat dan keterampilan, menjadi seorang yang spesialis atau belajar mendalam sebuah topik adalah hal yang bagus, tetapi cobalah untuk membukan pintu b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc1Mzk0NjYsOTMxMTE0Nzc4LC0xND
-I0NDcwODQsLTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3
-NzI3LDE3NzczMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLT
-gzNDQxMTUxOCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4
-NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbMjA2NTk0NDg1Miw5MzExMTQ3NzgsLTE0Mj
+Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
+MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
+M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
+NDYsODk1OTgyMjAzXX0=
 -->
