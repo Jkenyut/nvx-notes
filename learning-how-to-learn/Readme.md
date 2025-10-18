@@ -83,9 +83,10 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	9. Makan katakmu terlebih dahulu, cobalah untuk mengerjakan hal hal sulit terlebih dahulu, sampai kamu stack tetapi jangan terlalu lama, cobalah untuk menyelesaikan atau berhenti sejenak ini akan membantu otakmu masuk ke dalam mode difusi.
 	10.Temukan cara untuk belajar efektif di luar kelas yang  dapat kamu lakukan, cobalah mencari referensi lain seperti buku, internet, ataupun club.
 
-- 
+- Daftar jebakan yang harus dihindari:
+	1.		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDQzNTIyMCw5MzExMTQ3NzgsLTE0Mj
+eyJoaXN0b3J5IjpbMTc4OTM0MzYwNSw5MzExMTQ3NzgsLTE0Mj
 Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
 MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
 M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
