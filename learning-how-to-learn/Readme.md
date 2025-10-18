@@ -91,11 +91,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	5. menjejalkan semua materi belajar di menit menit terakhir sebelum ujian, ini tidak akan membuat sinapsis baru terbentuk.
 	6. malas belajar, jangan hanya melihat materi yang mudah, coba untuk belajar materi sulit, gunakan latihan disengaja dan fokus pada hal yang sulit agar kamu memahami dengan baik.
 	7. mengabaikan bukumu, jika belajar suatu topik cobalah untuk jalan jalan gambar, ini memberitahu otak apa yang akan dipelajari,  pastikan kamu membaca dan mencoba tentang cara atau contoh mengerjakan soal sebelum memulai mengerjakan soal tersebut.
-	8. tidak menjernihkan poin poin yang membuatmu bingung, cobalah untuk memahami poin poin itu , jika kamu kesulitan cobalah meminta bantuan guru atau teman mu dalam , poin poin itulah yang kemungkinan besar akan dijadikan sebuah soal ujian.
+	8. tidak menjernihkan poin poin yang membuatmu bingung, cobalah untuk memahami poin poin itu , jika kamu kesulitan cobalah meminta bantuan guru atau teman mu dalam menjelaskan poin tersebut, karena poin poin itulah yang kemungkinan besar akan dijadikan sebuah soal ujian.
+	9. gangguan, jauhkan semua distraksi saat kamu melakukan pembelajaran.
+	10.mengobrol dengan teman alih-alih belajar kelompok , cobalah untuk b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg1MDE4NTcsOTMxMTE0Nzc4LC0xND
-I0NDcwODQsLTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3
-NzI3LDE3NzczMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLT
-gzNDQxMTUxOCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4
-NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbMzAwMTQ0NDU5LDkzMTExNDc3OCwtMTQyND
+Q3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0Nzcy
+NywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04Mz
+Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
+Niw4OTU5ODIyMDNdfQ==
 -->
