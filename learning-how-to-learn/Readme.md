@@ -74,11 +74,12 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 - Daftar ide terbaik dalam buku ini:
 	1. manfaatkan kedua mode fokus dan difusi secara intensif.
 	2. Buatlah kumpulan jaringan otak, dengan pelatihan, pengulangan, dan mengingat.
-	3. 	interleave, cobalah untuk mengerjakan sesuatu antara teknik yang berbeda, ini membantumu untuk mengetahui 
+	3. 	interleave, cobalah untuk mengerjakan sesuatu hal antara teknik satu dengan teknik yang berbeda, ini membantumu untuk mengetahui kapan harus menggunakan suatu teknik, cobalah berlatih dengan melompati ide-ide bab yang berbeda.
+	4. beri ruang untuk belajar, berikan waktu 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzUyMjI0OCw5MzExMTQ3NzgsLTE0Mj
-Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
-MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
-M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
-NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbNzY5NTMwODQyLDkzMTExNDc3OCwtMTQyND
+Q3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0Nzcy
+NywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04Mz
+Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
+Niw4OTU5ODIyMDNdfQ==
 -->
