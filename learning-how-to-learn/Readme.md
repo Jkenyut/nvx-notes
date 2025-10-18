@@ -75,11 +75,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	1. manfaatkan kedua mode fokus dan difusi secara intensif.
 	2. Buatlah kumpulan jaringan otak, dengan pelatihan, pengulangan, dan mengingat.
 	3. 	interleave, cobalah untuk mengerjakan sesuatu hal antara teknik satu dengan teknik yang berbeda, ini membantumu untuk mengetahui kapan harus menggunakan suatu teknik, cobalah berlatih dengan melompati ide-ide bab yang berbeda.
-	4. beri ruang untuk belajar, berikan waktu 
+	4. beri ruang untuk belajar, berikan waktu belajar setidak nya beberapa hari sebelum ujian, ini membuat sinapsis baru terbentuk.
+	5. olahraga, latihan fisik memberi makan neuronmu, ini juga bisa membuat sinapsis baru terbentuk.
+	6. uji dirimu, cobalah un
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NTMwODQyLDkzMTExNDc3OCwtMTQyND
-Q3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0Nzcy
-NywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04Mz
-Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
-Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbMTkzMzYyMjYzMCw5MzExMTQ3NzgsLTE0Mj
+Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
+MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
+M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
+NDYsODk1OTgyMjAzXX0=
 -->
