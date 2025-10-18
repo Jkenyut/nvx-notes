@@ -80,9 +80,12 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	6. uji dirimu, cobalah untuk meminta teman untuk menguji dirimu tentang sesuatu yang telah kamu pelajari atau cobalah kamu mengajari teman tentang suatu hal yang telah kamu pelajari, menguji dan mengingat adalah cara terbaik untuk memperkuat pembelajaran.
 	7. Gunakan gambar lucu dan metafora, ini membantumu lebih cepat dalam mengingat suatu hal.
 	8. Teknik pomodoro , gunakan teknik ini dalam meningkatkan fokusmu terhadap suatu topik, jauhi semua gangguan dan setel waktu setidaknya 25 menit setelah selesai hadiahi dirimu.
-	9. Makan katakmu terlebih dahulu, cobalah untuk mengerjakan hal hal sulit terlebih dahulu, sampai kamu stack tetapi jangan terlalu lama, cobalah untuk menyelesaikan atau berhenti
+	9. Makan katakmu terlebih dahulu, cobalah untuk mengerjakan hal hal sulit terlebih dahulu, sampai kamu stack tetapi jangan terlalu lama, cobalah untuk menyelesaikan atau berhenti sejenak ini akan membantu otakmu masuk ke dalam mode difusi.
+	10.Temukan cara untuk belajar efektif di luar kelas yang  dapat kamu lakukan, cobalah mencari referensi lain seperti buku, internet, ataupun club.
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjM4OTY0Niw5MzExMTQ3NzgsLTE0Mj
+eyJoaXN0b3J5IjpbLTU2NDQzNTIyMCw5MzExMTQ3NzgsLTE0Mj
 Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
 MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
 M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
