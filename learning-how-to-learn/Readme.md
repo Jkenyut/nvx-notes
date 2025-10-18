@@ -65,12 +65,15 @@ Penutup bab :
 ### Beranjak dari "harus" ke "akan
 
 -  pengulangan adalah salah satu kunci pembelajaran.
-- Dari Belajar harus ke belajar akan , merupakan hak istimewa bila kamu melihat arah positif. Hal ini menjadi suatu alasan untuk membuat minat dan inspirasi agar kamu mau belajar dibandingkan sekadar menghindari hukuman.
-- Belajar lah apapun yang kamu bisa pelajari karena kamu tidak akan tahu kapan pembelajaran tersebut berguna.
+- Dari Belajar harus ke belajar akan, merupakan hak istimewa bila kamu melihat arah positif. Hal ini menjadi suatu alasan untuk membuat minat dan inspirasi agar kamu mau belajar dibandingkan sekadar menghindari hukuman.
+- Belajar lah apapun dan perluas minatmu untuk belajar karena kamu tidak akan tahu kapan pembelajaran tersebut berguna.
 Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu miliki.
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ0NzA4NCwtNzkzNjE5NDkzLC02ND
-MwOTY5NDAsLTExNDMzNDc3MjcsMTc3NzMyMjk2OSw5NDUwNDQ2
-MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4LDIwMzQwOTEyNDEsNz
-Y5OTY5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbMTE4Njg1MTU0OSwtMTQyNDQ3MDg0LC03OT
+M2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNzc3MzIy
+OTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgsMj
+AzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5ODIy
+MDNdfQ==
 -->
