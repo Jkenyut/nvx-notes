@@ -86,11 +86,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 - Daftar jebakan yang harus dihindari:
 	1. Tidak cukup tidur, ini membuat jaringan otak mu lemah dan jaringan sinapsis tidak akan tumbuh baru, tidur juga membersihkan racun dalam otak, jika kamu kurang tidur maka hal yang kamu lakukan tidak akan berarti.
 	2. Membaca pasif dan mengulang, cobalah untuk mengingat secara aktif hal hal yang kamu pelajari.
-	3. menyoroti atau menggaris bawahi, ini tidak akan membantu, karena kamu tidak memfokuskan dan mengingat hal tersebut masuk ke dalam otakmu
+	3. menyoroti atau menggaris bawahi, ini tidak akan membantu, karena kamu tidak memfokuskan dan mengingat hal tersebut masuk ke dalam otakmu, cobalah untuk menulis atau mengetik lalu mengingat konsep utama dalam topik tersebut.
+	4. mengintip kunci jawaban dan berpikir kamu memahaminya, ini perlu dihindari, kamu harus mencoba sendiri dalam menyelesaikan hal tersebut.
+	5. menjejalkan semua materi belajar dimenit menit terakhir sebelum ujian, ini 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTEyODYwNyw5MzExMTQ3NzgsLTE0Mj
-Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
-MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
-M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
-NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbNDEwNTE2Nzc3LDkzMTExNDc3OCwtMTQyND
+Q3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0Nzcy
+NywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04Mz
+Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
+Niw4OTU5ODIyMDNdfQ==
 -->
