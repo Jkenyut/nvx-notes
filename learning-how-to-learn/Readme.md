@@ -93,9 +93,9 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	7. mengabaikan bukumu, jika belajar suatu topik cobalah untuk jalan jalan gambar, ini memberitahu otak apa yang akan dipelajari,  pastikan kamu membaca dan mencoba tentang cara atau contoh mengerjakan soal sebelum memulai mengerjakan soal tersebut.
 	8. tidak menjernihkan poin poin yang membuatmu bingung, cobalah untuk memahami poin poin itu , jika kamu kesulitan cobalah meminta bantuan guru atau teman mu dalam menjelaskan poin tersebut, karena poin poin itulah yang kemungkinan besar akan dijadikan sebuah soal ujian.
 	9. gangguan, jauhkan semua distraksi saat kamu melakukan pembelajaran.
-	10.mengobrol dengan teman alih-alih belajar kelompok , cobalah untuk b
+	10.mengobrol dengan teman alih-alih belajar kelompok , belajar kelompok adalah suatu hal yang baik dan cara yang bagus untuk membantu belajar, tetapi jika ternyata hanya banyak ngobrol atau bergosip ketimbang belajar , tidak banyak berguna dalam.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwMTQ0NDU5LDkzMTExNDc3OCwtMTQyND
+eyJoaXN0b3J5IjpbNTg3OTA4NTkwLDkzMTExNDc3OCwtMTQyND
 Q3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0Nzcy
 NywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04Mz
 Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
