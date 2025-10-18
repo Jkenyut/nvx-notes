@@ -98,9 +98,10 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 - bagikanlah apa yang telah kamu pelajari, ini adalah salah satu bagian terbaik dalam pembelajaran.
 - alasan mengapa seorang bisa berhasil dan membuat penemuan besar ketika orang-orang jenius pun gagal
 	1. Tetap membukan pilihan, cobalah untuk memperluas minat dan keterampilan, menjadi seorang yang spesialis atau belajar mendalam sebuah topik adalah hal yang bagus, tetapi cobalah untuk membukan pintu baru yang belum kamu minati, cobalah untuk membukan pintu yang dapat membantumu dimasa depan, karena kita tidak tahu kapan pembelajaran tersebut akan berguna.
-	2. Kegigihan dan bertahan dengan apa yang telah lakukan, kegigihan adalah hal yang penting dalam pemeblajara
+	2. Kegigihan dan bertahan dengan apa yang telah dicoba lakukan baik mudah maupun sulit ,kegigihan adalah hal yang penting dalam pembelajaran. Namun bukan berarti melakukannya sesuatu tanpa henti. Ini berarti mencoba kembali bekerja setelah beristirahat dalam mode difusi.
+	3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDUwNDMwOCw5MzExMTQ3NzgsLTE0Mj
+eyJoaXN0b3J5IjpbLTk2MDA3NDQwNSw5MzExMTQ3NzgsLTE0Mj
 Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
 MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
 M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
