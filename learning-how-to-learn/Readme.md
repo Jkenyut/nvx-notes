@@ -84,11 +84,11 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	10.Temukan cara untuk belajar efektif di luar kelas yang  dapat kamu lakukan, cobalah mencari referensi lain seperti buku, internet, ataupun club.
 
 - Daftar jebakan yang harus dihindari:
-	1.		
+	1. Tidak cukup tidur, ini membuat jaringan otak mu lemah dan jaringan sinapsis tidak akan tumbuh baru, tidur juga membe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTM0MzYwNSw5MzExMTQ3NzgsLTE0Mj
-Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
-MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
-M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
-NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbNzA1MDc1NTQ4LDkzMTExNDc3OCwtMTQyND
+Q3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0Nzcy
+NywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04Mz
+Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
+Niw4OTU5ODIyMDNdfQ==
 -->
