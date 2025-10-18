@@ -77,11 +77,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	3. 	interleave, cobalah untuk mengerjakan sesuatu hal antara teknik satu dengan teknik yang berbeda, ini membantumu untuk mengetahui kapan harus menggunakan suatu teknik, cobalah berlatih dengan melompati ide-ide bab yang berbeda.
 	4. beri ruang untuk belajar, berikan waktu belajar setidak nya beberapa hari sebelum ujian, ini membuat sinapsis baru terbentuk.
 	5. olahraga, latihan fisik memberi makan neuronmu, ini juga bisa membuat sinapsis baru terbentuk.
-	6. uji dirimu, cobalah untuk meminta teman untuk menguji dirimu tentang sesuatu yang telah kamu pelajari atau cobalah kamu mengajari teman tentang suatu hal yang telah kamu pelajari, menguji dan mengingat adalah cara terbaik untuk memperkua
+	6. uji dirimu, cobalah untuk meminta teman untuk menguji dirimu tentang sesuatu yang telah kamu pelajari atau cobalah kamu mengajari teman tentang suatu hal yang telah kamu pelajari, menguji dan mengingat adalah cara terbaik untuk memperkuat pembelajaran.
+	7. Gunakan gambar lucu dan metafora, ini membantumu lebih cepat dalam mengingat suatu hal.
+	8. Teknik pomodoro , gunakan teknik ini dalam meningkatkan fokusmu terhadapa suatu topik, jauhi semua gangguan dan setel waktu setidaknya 25 menit lalu hadiahi dirim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDMyNDQ2OSw5MzExMTQ3NzgsLTE0Mj
-Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
-MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
-M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
-NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbODQyMzMyNzcyLDkzMTExNDc3OCwtMTQyND
+Q3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0Nzcy
+NywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04Mz
+Q0MTE1MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0
+Niw4OTU5ODIyMDNdfQ==
 -->
