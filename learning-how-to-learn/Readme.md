@@ -101,9 +101,12 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	2. Kegigihan dan bertahan dengan apa yang telah dicoba lakukan baik mudah maupun sulit, kegigihan adalah hal yang penting dalam pembelajaran. Namun bukan berarti melakukannya sesuatu tanpa henti. Ini berarti mencoba kembali bekerja setelah beristirahat dalam mode difusi.
 	3. Fleksibel , salah satu bagian terpenting dalam pembelajaran adalah mampu mengakui kesahan dan secara fleksibel berubah pikiran, cobalah untuk meluangkan waktu untuk bertanya apakah ini adalah jawaban yang benar atau salah saat kamu mengambil keputusan, jika kamu bisa berbuat hal tersebut ini membantumu dalam mengembangkan potensi untuk berkontribusi lebih dalam menjalani kehidupan yang lebih bahagia dan bermakna, penuh kegembiraan dalam menemukan sesuatu.
 
-### 
+## Kunci jawaban pertanyaan akhir bab
+
+### Bab 2 Mudah Melakukannya
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjM5NzcxMyw5MzExMTQ3NzgsLTE0Mj
+eyJoaXN0b3J5IjpbLTYzNDI3NzMwMSw5MzExMTQ3NzgsLTE0Mj
 Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
 MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
 M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
