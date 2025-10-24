@@ -132,9 +132,10 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 7. Ketika kamu mempelajari suatub hal baru kamu membentuk serangkai jaringan/tautan/sinapsis/ duri dendiritik di otakmu .
 
 ###  Bab 6 Tetap Belajar Saat Kamu Tidur
-1. Tidur merupakan hal terpenting dalam proses pembelajaran, karena saat pikiran melatih informasi yang telah kamu pelajari, sinyal listrik akan muncul 
+1. Tidur merupakan hal terpenting dalam proses pembelajaran, karena saat pikiran melatih informasi yang telah kamu pelajari, sinyal listrik akan muncul ini bagian penting alasan duri dendritik dan hubungan sinapsis tumbuh pesat dan tumbuh lebih besar.
+2. Duri dendritik seperti alat pendeteksi kebohongan mer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTg2NTI3MywtNjM0Mjc3MzAxLDkzMT
+eyJoaXN0b3J5IjpbLTQ1MDk0MTcwNCwtNjM0Mjc3MzAxLDkzMT
 ExNDc3OCwtMTQyNDQ3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0
 MCwtMTE0MzM0NzcyNywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMT
 QyNjk0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5Njkw
