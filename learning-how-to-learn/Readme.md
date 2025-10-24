@@ -138,11 +138,14 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 4. Jika kamu meluangkan waktu dalam belajar lebih lama ini akan membuat lebih banyak duri dendritik dan sinapsis tumbuh lebih banyak untuk berkoneksi, maka arsitektur sarafmu semakin kuat.
 
 ### Bab 7 Tas sekolah , loker dan gurita perhatian
-1. memori kerja di ibaratkan seperti tas sekolah karena mudah dijangkau di saat kamu perlu secara cepat mengambil informasi di dalamnya tetapi informasi 
+1. memori kerja di ibaratkan seperti tas sekolah karena mudah dijangkau di saat kamu perlu secara cepat mengambil informasi di dalamnya tetapi informasi untuk ditampung terbatas.
+2. gurita perhatian (memori kerja) hidup di korteks prefrontal.
+3. Memori kerja manusia umumnya hanya menyimpan empat jenis informasi.
+4.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMzIyNjE1LDc0MjY4MjkyMiwtNjM0Mj
-c3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0LC03OTM2MTk0OTMs
-LTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNzc3MzIyOTY5LDk0NT
-A0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0
-MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTIwNDQwOTMxNzMsNzQyNjgyOTIyLC02Mz
+QyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQsLTc5MzYxOTQ5
+MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3NzczMjI5NjksOT
+Q1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUxOCwyMDM0MDkx
+MjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
 -->
