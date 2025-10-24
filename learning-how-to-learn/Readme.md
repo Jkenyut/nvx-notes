@@ -130,9 +130,11 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 5. Seperangkat jaringan orak adalah sebuah neuron yang saling terhubung melalui penggunaan tautan sinapsis berkali kali (Bran-link) ketika jaringan otak berkembang ketika kamu belajar akan hal baru dan melakukannya secara berulang kali.
 6. Semakin kamu memikirkan akan suatu hal semakin tebal dan lebar jalur sarafnya, dan semakin kuat pula jaringan otak.
 7. Ketika kamu mempelajari suatub hal baru kamu membentuk serangkai jaringan/tautan/sinapsis/ duri dendiritik di otakmu .
-8.  
+
+###  Bab 6 Tetap Belajar Saat Kamu Tidur
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjIwMjk3MSwtNjM0Mjc3MzAxLDkzMT
+eyJoaXN0b3J5IjpbMTQ4MzA0NjEwNCwtNjM0Mjc3MzAxLDkzMT
 ExNDc3OCwtMTQyNDQ3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0
 MCwtMTE0MzM0NzcyNywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMT
 QyNjk0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5Njkw
