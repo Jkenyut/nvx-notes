@@ -140,12 +140,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 ### Bab 7 Tas sekolah , loker dan gurita perhatian
 1. memori kerja di ibaratkan seperti tas sekolah karena mudah dijangkau di saat kamu perlu secara cepat mengambil informasi di dalamnya tetapi informasi untuk ditampung terbatas.
 2. gurita perhatian (memori kerja) hidup di korteks prefrontal.
-3. Memori kerja manusia umumnya hanya menyimpan empat jenis informasi.
-4.  
+3. Memori kerja manusia umumnya hanya menyimpan empat jenis informasi. tetapi ada manusia yang lebih dari empat jenis atau beberapa lainnya jug ada yang kurang.
+4. Ingatan jangka panjang seperti loker karena dapat menampung banyak informasi, tetapi terkadang sulit untuk menemukan secara cepat kamu perlu melatih agar otak tau di bagian mana atau arah kamu menyimpan di dalam otak.
+5. Ingatak 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQwOTMxNzMsNzQyNjgyOTIyLC02Mz
-QyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQsLTc5MzYxOTQ5
-MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3NzczMjI5NjksOT
-Q1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUxOCwyMDM0MDkx
-MjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbMTEzOTU0NDIyMiw3NDI2ODI5MjIsLTYzND
+I3NzMwMSw5MzExMTQ3NzgsLTE0MjQ0NzA4NCwtNzkzNjE5NDkz
+LC02NDMwOTY5NDAsLTExNDMzNDc3MjcsMTc3NzMyMjk2OSw5ND
+UwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4LDIwMzQwOTEy
+NDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OTgyMjAzXX0=
 -->
