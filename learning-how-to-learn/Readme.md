@@ -104,11 +104,37 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 ## Kunci jawaban pertanyaan akhir bab
 
 ### Bab 2 Mudah Melakukannya
+1.	Berada pada mode fokus berarti kamu sedang memperhatikan sesuatu dengan cermat.
+2.	mode difusi adalah ketika pikiran mengembara dengan bebas, tidak terfokus akan sesuatu.
+3.	cara kerja otak mempunyai 2 jenis : yaitu mode fokus dan mode di fusi , seperti mesin pinball, dimana jika jarak bumper berdekatan berarti anda dalam mode fokus, dan sebaliknya jika jarak bumper berjauhan maka kamu dalam mode difusi.
+4.	Gunakan metafora dalam pembelajaran ini membantu mu dalam mengingat.
+5.	ada dua cara yang dapat membantu di saat kamu mengalami kebuntuan, pertama kamu belum cukup memahami suatu hal secara dasar-dasarnya sebelum mengerjakan, sehingga kamu perlu kembali mengingat dan mencatat, kedua kamu sudah memahami dasar-dasarnya tetapi kamu belum cukup istirahat ketika mengalami kebuntuan, cobalah istirahat sehingga kamu bisa masuk ke dalam mode difusi, dan otak akan berkerja dilatar belakang tanpa kamu sadari.
+6.	Kebiasaan belajar yang ingin kamu ubah.
 
+### Bab 3 Aku Akan mengerjakan nanti, janji
+1. Prokrastinasi adalah menunda sesuatu yang seharusnya dikerjaka.
+2. prokratinasi berdampak buruk pada pembelajaran karena kamu akan kehabisan waktu dalam belajar dengan benar, ini juga menghabiskan waktu dan energi untuk mengkhawatirkan hal tersebut, ini kondisi yang sama sekali tidak menguntungkan.
+3. Memikirkan sesuatu yang kamu tidak suka akan memicu korteks insular, ini akan menyebabkan perasaan menyakitkan, cobalah untuk mengalihkan ke hal hal yang membuat kamu senang. Maka rasa sakit diotak akan hilang, tetapi ini hanya akan menunda.
+4. Hadiah adalah bagian terpenting dalam proses pembelajaran pomodoro.
+5. Saat istirahat di antara sesi pomodoro, cobalah gunakan bagian otak yang berbeda, contohnya jika kamu selesai menulis cobalah istirahat dengan bangun dan mengerakkan badan.
+6. sesi Pomodoro adalah bagaimana kamu melakukan semaksimal mungkin usahamu dalam 25 menit dalam menyelesaikan tugas.
+7. Mode zombi adalah penghemat energi hebat, memikirkan segala hal dapat berdampak buruk pada kekuatan otak.
+8. Mode zombi dapat membantu menghemat energi, tapin ini berbahaya karena kamu akan terjerumus akan kebiasaan buruk seperti lebih memilih bersenang senang daripada melakukan sesuatu yang perlu dilakukan (prokrastinasi).
+9. Melakukan ingatan aktif berarti menarik informasi penting dari pikiranmu. Salah satu cara mengingatnya dengan membaca sebuah halam , kemudian mengalihkan pandangan sambil mengingat kunci ide pada halaman tersebut.
+
+### Bab 4 Jaringan Otak dan bersenang-senang dengan alien luar angkasa
+1. sinyal dari satu neuron ke neuron lainnya akan membentuk pikiranmu.
+2. cara kerjanya akson akan mengejutkan duri dendirtik, artinya dari satu akson ke duri dendritik neuron berikutnya.
+3. Ketika metafora rusak tidak bisa terpakai lagi, kamu perlu membuat metafora baru.
+4. Pada tahun 1900-an ilmuwan tidak dapat melihat celah kecil di antara sinapsis, sehingga mengira otak adalah sebuah jaringan besar yang saling terhubung melalui neuron neuron yang saling berdekatan.
+5. Seperangkat jaringan orak adalah sebuah neuron yang saling terhubung melalui penggunaan tautan sinapsis berkali kali (Bran-link) ketika jaringan otak berkembang ketika kamu belajar akan hal baru dan melakukannya secara berulang kali.
+6. Semakin kamu memikirkan akan suatu hal semakin tebal dan lebar jalur sarafnya, dan semakin kuat pula jaringan otak.
+7. Ketika kamu mempelajari suatub hal baru kamu membentuk serangkai jaringan/tautan/sinapsis/ duri dendiritik di otakmu .
+8.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDI3NzMwMSw5MzExMTQ3NzgsLTE0Mj
-Q0NzA4NCwtNzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3
-MjcsMTc3NzMyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtOD
-M0NDExNTE4LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0
-NDYsODk1OTgyMjAzXX0=
+eyJoaXN0b3J5IjpbMTY5MjIwMjk3MSwtNjM0Mjc3MzAxLDkzMT
+ExNDc3OCwtMTQyNDQ3MDg0LC03OTM2MTk0OTMsLTY0MzA5Njk0
+MCwtMTE0MzM0NzcyNywxNzc3MzIyOTY5LDk0NTA0NDYzNSwxMT
+QyNjk0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0MSw3Njk5Njkw
+MjcsMTg1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
 -->
