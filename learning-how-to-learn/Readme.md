@@ -135,11 +135,11 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 1. Tidur merupakan hal terpenting dalam proses pembelajaran, karena saat pikiran melatih informasi yang telah kamu pelajari, sinyal listrik akan muncul ini bagian penting alasan duri dendritik dan hubungan sinapsis tumbuh pesat dan tumbuh lebih besar.
 2. Duri dendritik seperti alat pendeteksi kebohongan meraka akan tau apakah kamu benar benar fokus akan suatu hal yang membuat duri baru dan sinapsis baru muncul atau tidak fokus yang berarti tidak akan ada duri dan sinapsis baru.
 3. Saat kamu melakukan latihan dengan praktik ini akan membuat sinapsis jauh lebih kuat.
-4. 
+4. Jika kamu meluangkan waktu dalam belajar lebih lama ini akan membuat lebih banyak duri dendritik dan sinapsis tumbuh lebih banyak untuk berkoneksi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjgyOTIyLC02MzQyNzczMDEsOTMxMT
-E0Nzc4LC0xNDI0NDcwODQsLTc5MzYxOTQ5MywtNjQzMDk2OTQw
-LC0xMTQzMzQ3NzI3LDE3NzczMjI5NjksOTQ1MDQ0NjM1LDExND
-I2OTQzMzEsLTgzNDQxMTUxOCwyMDM0MDkxMjQxLDc2OTk2OTAy
-NywxODUxMTI4NDQ2LDg5NTk4MjIwM119
+eyJoaXN0b3J5IjpbLTEyMDc5ODkzMDcsNzQyNjgyOTIyLC02Mz
+QyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQsLTc5MzYxOTQ5
+MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3NzczMjI5NjksOT
+Q1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUxOCwyMDM0MDkx
+MjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NTk4MjIwM119
 -->
