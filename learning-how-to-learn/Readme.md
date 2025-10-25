@@ -199,10 +199,12 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 
 ### Bab 15 Cara mengerjakan tes dengan baik
 1. Langkah terpenting sebelum ujian adalah memastikan kamu mendapatkan tidur malam yang nyenyak.
-2. Dalam teknik hard-start, kamu harus meningg
+2. Dalam teknik hard-start, kamu harus meninggalkan masalah sulit ketika mengalami kebuntuan dan yang akan menjadikan frustasi.
+3. Saat kamu panik, cobalah untuk mengatur pernafasanmu dari dalam perut dan ubahlah mindset dari yang buruk menjadi baik dan bersemangat.
+4. 
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTU3NjYwNSwzMjczNzE3MjMsNzQyNj
+eyJoaXN0b3J5IjpbMTc5OTMyOTE5OSwzMjczNzE3MjMsNzQyNj
 gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
 LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
 czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
