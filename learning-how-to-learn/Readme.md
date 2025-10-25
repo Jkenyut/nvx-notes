@@ -173,14 +173,17 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	5.	Melepaskan bahan kimia yang membantu mendapatkan ide-ide baru.
 5.	Cobalah hidup sehat.
 
-### Membuat jaringan Otak
+### Bab 12 Membuat jaringan Otak
 1. teka teki puzzle adalah metafora yang baik untuk cara kita menyusun konsep karena ia merupakan potongan teka teki sekumpulan jaringan otak, semakin kamu berlatih dan mengumpulkan banyak potongan kamu akan menjadi seorang ahli.
 2. interleaving atau menyisipkan sesuatu saat kamu fokus pada materi satu kemudian pindah ke materi lainnya, jika kamu melakukannya kamu akan siap menghadapi apa pun yang menghadang, ini membantu kamu lebih siap untuk menghadapi hal hal tak terduga.
 3. Melas belajar adalah ketika kamu hanya mempraktikkan apa yang mudah bagimu dan sudah kamu ketahui.
-4. Nasihat khusus dalam pembelajaran memecahkan masalah, Pertama temukan masalahnya, lalu selesaikan masalah itu sendiri berkali-kali hingga mengalir seperti lagu 
+4. Nasihat khusus dalam pembelajaran memecahkan masalah, Pertama temukan masalahnya, lalu selesaikan masalah itu sendiri berkali-kali hingga mengalir seperti lagu di benakmu.
+
+### Bab 13 Pertanyaan penting untuk dirimu sendiri
+1. 
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzA4NDY1OSwzMjczNzE3MjMsNzQyNj
+eyJoaXN0b3J5IjpbLTQ4NDMxNjMzMywzMjczNzE3MjMsNzQyNj
 gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
 LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
 czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
