@@ -171,13 +171,17 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 	3.	Membantu beralih antar tugas.
 	4.	Membantu orang pulih dari penyakit mental.
 	5.	Melepaskan bahan kimia yang membantu mendapatkan ide-ide baru.
-5.	Cobalah hi
+5.	Cobalah hidup sehat.
+
+### Membuat jaringan Otak
+1. teka teki puzzle adalah metafora yang baik untuk cara kita menyusun konsep karena ia merupakan potongan teka teki sekumpulan jaringan otak, semakin kamu berlatih dan mengumpulkan banyak potongan kamu akan menjadi seorang ahli.
+2. interleav
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mjc1MzE3MCwzMjczNzE3MjMsNzQyNj
-gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
-LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
-czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
-OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
-k4MjIwM119
+eyJoaXN0b3J5IjpbOTc2ODY4Mjk1LDMyNzM3MTcyMyw3NDI2OD
+I5MjIsLTYzNDI3NzMwMSw5MzExMTQ3NzgsLTE0MjQ0NzA4NCwt
+NzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3MjcsMTc3Nz
+MyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4
+LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OT
+gyMjAzXX0=
 -->
