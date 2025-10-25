@@ -154,12 +154,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 1. Jaringan otak penting karena memproses informasi dengan cepat, sehingga gurita perhatian tidak perlu melakukan pekerjaan semua pekerjaan.
 2. Gurita perhatian adalah metafora untuk sistem perhatian dan memori kerja, Ia hanya punya empat lengan untuk menyimpan informasi, Ia dapat menjangkau memori jangka panjang dan membawa informasi dari sana langsung ke memori kerja.
 3. Berlatih merupakan cara terbaik untuk menghubungkan tautan tautan menjadi jumpulan jaringan lebih besar.
-4. Distraksi seperti televisi
+4. Distraksi seperti televisi , lagu atau hp , dapat mengambil satu lengan gurita perhatian mu sehingga kamu sudah kehilangan lengan untuk mengandalkan memori kerjamu sepenuhnya.
+5. Kamu harus menghindari distraksi saat 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDE0NjU5MCwzMjczNzE3MjMsNzQyNj
-gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
-LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
-czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
-OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
-k4MjIwM119
+eyJoaXN0b3J5IjpbNDM4OTk0NjMsMzI3MzcxNzIzLDc0MjY4Mj
+kyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0LC03
+OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNzc3Mz
+IyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgs
+MjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5OD
+IyMDNdfQ==
 -->
