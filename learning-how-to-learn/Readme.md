@@ -190,10 +190,11 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 ### Bab 14 Kejutan belajar
 1. Gim aksi dapat membantu kamu fokus dan penglihatan, gim spasial membantu meningkatkan untuk memutar objek di pikiranmu.
 2. aspek buruk dalam game adalah membuat kamu ketagihan, jadi batasi hal tersebut.
-3. 
+3. Ide dasar mencatat adalah memilih poin poin penting dari apa yang kamu dengar, baca ataupun lihat agar kamu dapat meninjau dan memperkuat jaringan otak.
+4. Berpikir biasa artinya kamu hanya berjalan di sepanjang jalur mental s
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzYyMTE1NiwzMjczNzE3MjMsNzQyNj
+eyJoaXN0b3J5IjpbMTE5Nzc5NDQ5MywzMjczNzE3MjMsNzQyNj
 gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
 LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
 czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
