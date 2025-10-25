@@ -144,13 +144,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 4. Ingatan jangka panjang seperti loker karena dapat menampung banyak informasi, tetapi terkadang sulit untuk menemukan secara cepat kamu perlu melatih agar otak tau di bagian mana atau arah kamu menyimpan di dalam otak.
 5. Ingatan jangka panjangmu tersebar di berbagai area otak.
 
-### Trik Jitu Membangun ingatan kuat
+### Bab 8 Trik Jitu Membangun ingatan kuat
 1. sangat mungkin mengembangkan ingatan jangka panjang lebih baik dengan menerapkan metode Nelson Dellis ( Fokus, Berlatih, Membayangkan, menyimpan, dan mengingat) , juga bisa di tambahkan teknik istana memori, lagu metafora, mencatat, mengajar orang lain ataupun menetapkan dirimu pada posisi yang kamu pahami.
 2. Teknik istana memori adalah membayangkan suatu tempat yang kau kenal baik artinya , buatlah gambaran memori yang melibatkan fakta yang kamu ingin ingat, selanjutnya simpan pada tempat tempat yang kamu kenal ,lalu berlatih mengingat gambar gambar tersebut dan apa yang diwakilinya.
 3. Kita menyimpan informasi dengan 2 cara. Fakta Sulit di simpan dan Gambar mudah di simpan.
 4. Untuk Membuat gambar melekat di dalam ingatan buatlah gambar yang dikenal dengan baik, aneh dan mudah di ingat.
 
-### Kenapa jaringan Otak itu penting
+### Bab 9 Kenapa jaringan Otak itu penting
 1. Jaringan otak penting karena memproses informasi dengan cepat, sehingga gurita perhatian tidak perlu melakukan pekerjaan semua pekerjaan.
 2. Gurita perhatian adalah metafora untuk sistem perhatian dan memori kerja, Ia hanya punya empat lengan untuk menyimpan informasi, Ia dapat menjangkau memori jangka panjang dan membawa informasi dari sana langsung ke memori kerja.
 3. Berlatih merupakan cara terbaik untuk menghubungkan tautan tautan menjadi jumpulan jaringan lebih besar.
@@ -159,12 +159,16 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 6. Jauhi distraksi yang dapat menyebabkan fokus mu hilang.
 7. Memahami konsep saja tidak cukup, kamu perlu berlatih dan pratik konsep baru untuk membuat kumpulan jaringan. Pemahaman dan latihan berjalan bersamaan, semakin kamu latih semakin kamu memahami apa yang kamu pelajari.
 8. Kamu menjadi seorang ahli dalam hal apapun dengan mengembangkan perpustakaan jaringan otak.
-9. 
+9. Jaringan otak tidak akan berkembang dengan cara memahami, ia perlu dilatih secara langsung oleh dirimu berkali kali.
+
+### Bab 11  Cara memompa otakmu
+1. Hipokampus Sangat penting dalam membantu meningkatkan fakta dan peristiwa.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzAzMjcwOCwzMjczNzE3MjMsNzQyNj
-gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
-LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
-czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
-OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
-k4MjIwM119
+eyJoaXN0b3J5IjpbLTE2ODYxOTY5ODQsMzI3MzcxNzIzLDc0Mj
+Y4MjkyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0
+LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
+c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
+MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
+U5ODIyMDNdfQ==
 -->
