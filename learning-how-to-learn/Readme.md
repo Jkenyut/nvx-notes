@@ -151,9 +151,10 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 4. Untuk Membuat gambar melekat di dalam ingatan buatlah gambar yang dikenal dengan baik, aneh dan mudah di ingat.
 
 ### Kenapa jaringan Otak itu penting
-1. Jaringan otak penting karena memproses informasi dengan cepat, sehingga 
+1. Jaringan otak penting karena memproses informasi dengan cepat, sehingga gurita perhatian tidak perlu melakukan pekerjaan semua pekerjaan.
+2. Gurita perhatian adalah metafora untuk sistem perhatian dan memori kerja, Ia hanya punya empat lengan untuk menyimpan informasi, Ia dapat menjangkau memori jangka panjang dan membawa informasi dari sana langsung ke memori kerja.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTY2NDE4NSwzMjczNzE3MjMsNzQyNj
+eyJoaXN0b3J5IjpbMTEwMjAyMzQzMiwzMjczNzE3MjMsNzQyNj
 gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
 LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
 czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
