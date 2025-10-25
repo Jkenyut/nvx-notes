@@ -195,13 +195,17 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 5. Untuk menjadi kreatif dan menjadi lebih baik dalam sesuatu yang kamu sukai, kamu haru meluangkan waktu sedikit lebih banyak untuk melakukan hal berbeda, ini membantu tetap fleksibel secara mental dan lebih kreatif.
 6. Transfer adalah kemampuan untuk mengambil ide yang kamu telah pelajari kemudian kamu gunakan untuk membantu dalam pelajaran lainnya, metafora dapat membantu proses ini.
 7. Memori kerja buruk berarti kamu memiliki sedikit lengan gurita perhatian, ini menyebabkan kamu sulit mengingat ide ide yang rumit, kamu perlu menghubungkan ide ide dan menyederhanakan hal yang kamu ketahui, hal tersebut memungkinkan kamu melihat wawasan dan solusi yang tidak terpikirkan orang lain, Jadi kamu perlu bekerja lebih keras lagi. 
-8. 
+8. Banyak keterampilan dan mata pelajaran yang dapat kamu pelajari dengan baik secara cepat ataupun lambat.
+
+### Bab 15 Cara mengerjakan tes dengan baik
+1. Langkah terpenting sebelum ujian adalah memastikan kamu mendapatkan tidur malam yang nyenyak.
+2. Dalam teknik hard-start, kamu harus meningg
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY0OTQ2NDEsMzI3MzcxNzIzLDc0Mj
-Y4MjkyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0
-LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
-c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
-MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
-U5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTY5OTU3NjYwNSwzMjczNzE3MjMsNzQyNj
+gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
+LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
+czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
+OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
+k4MjIwM119
 -->
