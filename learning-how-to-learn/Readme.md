@@ -145,12 +145,12 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 5. Ingatan jangka panjangmu tersebar di berbagai area otak.
 
 ### Trik Jitu Membangun ingatan kuat
-Sanag
+1. sangat mungkin mengembangkan ingatan jangka panjang lebih baik dengan menerapkan metode Nelson Dellis ( Fokus, Berlatih, Membayangkan, menyimpan, dan mengingat) , juga bisa di tambahkan teknik istana memori, lagu metafora, mencatat, mengajar orang lain ataupun 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzM3NzYwMCwzMjczNzE3MjMsNzQyNj
-gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
-LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
-czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
-OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
-k4MjIwM119
+eyJoaXN0b3J5IjpbLTIwOTc1MzQ4NjgsMzI3MzcxNzIzLDc0Mj
+Y4MjkyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0
+LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
+c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
+MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
+U5ODIyMDNdfQ==
 -->
