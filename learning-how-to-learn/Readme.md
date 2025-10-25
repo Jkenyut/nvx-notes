@@ -155,12 +155,14 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 2. Gurita perhatian adalah metafora untuk sistem perhatian dan memori kerja, Ia hanya punya empat lengan untuk menyimpan informasi, Ia dapat menjangkau memori jangka panjang dan membawa informasi dari sana langsung ke memori kerja.
 3. Berlatih merupakan cara terbaik untuk menghubungkan tautan tautan menjadi jumpulan jaringan lebih besar.
 4. Distraksi seperti televisi , lagu atau hp , dapat mengambil satu lengan gurita perhatian mu sehingga kamu sudah kehilangan lengan untuk mengandalkan memori kerjamu sepenuhnya.
-5. Kamu harus menghindari distraksi saat 
+5. Kamu harus menghindari distraksi saat belajar, karena berpindah tugas ke tugas lainnya kemudian kembali ke tugas awal itu sangat melelahkan bagi gurita perhatian.
+6. Jauhi distraksi yang dapat menyebabkan fokus mu hilang.
+7. Memahami konsep sa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4OTk0NjMsMzI3MzcxNzIzLDc0MjY4Mj
-kyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0LC03
-OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNzc3Mz
-IyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgs
-MjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5OD
-IyMDNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjIyMDkxODAsMzI3MzcxNzIzLDc0Mj
+Y4MjkyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0
+LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
+c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
+MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
+U5ODIyMDNdfQ==
 -->
