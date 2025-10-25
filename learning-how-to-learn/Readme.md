@@ -182,14 +182,15 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 ### Bab 13 Pertanyaan penting untuk dirimu sendiri
 1. Semua orang punya cara masing-masing dalam belajar, maka temukan sendiri caramu.
 2. Cobalah untuk belajar di tempat tempat berbeda , sehingga ketika ujian di tempat yang berbeda saat kamu belajar, gurita perhatianmu tidak akan kebingungan.
-3. Belajarlah dengan menggunakan semua indera yang kamu miliki, jangan menggunakan indera yang hanya kamu sukai ini hanya akan mengganggu proses pembelajaran secara keseluruhan.
-4. 
+3. Belajarlah dengan menggunakan semua indera yang kamu miliki, jangan menggunakan indera yang hanya kamu sukai ini hanya akan mengganggu proses pembelajaran secara keseluruhan. (rasakan setiap indera yang kamu miliki bekerja)
+4. Saat kamu tidur , sel-sel otak akan menyusut, ini memungkinkan cairan otak untuk membersihkan racun di otak.
+5. Makan katakmu terlebih dahulu yang artinya cobalah untuk melakukan hal tersulit terlebih dahulu
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDI0NTgsMzI3MzcxNzIzLDc0MjY4Mj
-kyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0LC03
-OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNzc3Mz
-IyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgs
-MjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5OD
-IyMDNdfQ==
+eyJoaXN0b3J5IjpbLTk1MzkwNDcxMCwzMjczNzE3MjMsNzQyNj
+gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
+LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
+czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
+OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
+k4MjIwM119
 -->
