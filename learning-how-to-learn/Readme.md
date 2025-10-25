@@ -162,15 +162,20 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 9. Jaringan otak tidak akan berkembang dengan cara memahami, ia perlu dilatih secara langsung oleh dirimu berkali kali.
 
 ### Bab 11  Cara memompa otakmu
-1. Hipokampus Sangat penting dalam membantu meningkatkan fakta dan peristiwa.
-2. Otak seperti tim bola basket setiap tahun akan ada pemain datang dan pergi maka , kamu perlu mempelajari permainan baru (berlatih) agar kamu selalu mengingatnya.
-3. Ketika BDNF ditambahkan di otak, duri dendritik tumbuh tinggi dan lebar.
-4. ManOlahraga
+ - Hipokampus Sangat penting dalam membantu meningkatkan fakta dan peristiwa.
+ - Otak seperti tim bola basket setiap tahun akan ada pemain datang dan pergi maka , kamu perlu mempelajari permainan baru (berlatih) agar kamu selalu mengingatnya.
+ - Ketika BDNF ditambahkan di otak, duri dendritik tumbuh tinggi dan lebar.
+ - Manfaat Olahraga:
+ - List item
+
+Membantu Otak menghasilkan BDNF sebagai pupuk pertumbuhan neuron.
+	b. Meningkatkan Pemahaman, Pengambilan keputusan , dan kemampuan fokus.
+		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzIxNDg5NSwzMjczNzE3MjMsNzQyNj
-gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
-LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
-czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
-OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
-k4MjIwM119
+eyJoaXN0b3J5IjpbMjY3MTUxOTg2LDMyNzM3MTcyMyw3NDI2OD
+I5MjIsLTYzNDI3NzMwMSw5MzExMTQ3NzgsLTE0MjQ0NzA4NCwt
+NzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3MjcsMTc3Nz
+MyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4
+LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OT
+gyMjAzXX0=
 -->
