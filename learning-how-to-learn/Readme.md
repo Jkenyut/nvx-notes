@@ -175,13 +175,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 
 ### Membuat jaringan Otak
 1. teka teki puzzle adalah metafora yang baik untuk cara kita menyusun konsep karena ia merupakan potongan teka teki sekumpulan jaringan otak, semakin kamu berlatih dan mengumpulkan banyak potongan kamu akan menjadi seorang ahli.
-2. interleav
+2. interleaving atau menyisipkan sesuatu saat kamu fokus pada materi satu kemudian pindah ke materi lainnya, jika kamu melakukannya kamu akan siap menghadapi apa pun yang menghadang, ini membantu kam
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2ODY4Mjk1LDMyNzM3MTcyMyw3NDI2OD
-I5MjIsLTYzNDI3NzMwMSw5MzExMTQ3NzgsLTE0MjQ0NzA4NCwt
-NzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3MjcsMTc3Nz
-MyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4
-LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OT
-gyMjAzXX0=
+eyJoaXN0b3J5IjpbMjAxOTc0Mjk1NiwzMjczNzE3MjMsNzQyNj
+gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
+LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
+czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
+OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
+k4MjIwM119
 -->
