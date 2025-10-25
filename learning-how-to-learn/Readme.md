@@ -191,13 +191,15 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 1. Gim aksi dapat membantu kamu fokus dan penglihatan, gim spasial membantu meningkatkan untuk memutar objek di pikiranmu.
 2. aspek buruk dalam game adalah membuat kamu ketagihan, jadi batasi hal tersebut.
 3. Ide dasar mencatat adalah memilih poin poin penting dari apa yang kamu dengar, baca ataupun lihat agar kamu dapat meninjau dan memperkuat jaringan otak.
-4. Berpikir biasa artinya kamu hanya berjalan di sepanjang jalur mental s
+4. Berpikir biasa artinya kamu hanya berjalan di sepanjang jalur mental sehingga kamu terjebak dan kurang kreatif.
+5. Untuk menjadi kreatif dan menjadi lebih baik dalam sesuatu yang kamu sukai, kamu haru meluangkan waktu sedikit lebih banyak untuk melakukan hal berbeda, ini membantu tetap fleksibel secara mental dan lebih kreatif.
+6. 
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzc5NDQ5MywzMjczNzE3MjMsNzQyNj
-gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
-LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
-czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
-OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
-k4MjIwM119
+eyJoaXN0b3J5IjpbOTY1MDUwNDUxLDMyNzM3MTcyMyw3NDI2OD
+I5MjIsLTYzNDI3NzMwMSw5MzExMTQ3NzgsLTE0MjQ0NzA4NCwt
+NzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3MjcsMTc3Nz
+MyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4
+LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OT
+gyMjAzXX0=
 -->
