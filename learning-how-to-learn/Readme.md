@@ -180,13 +180,13 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 4. Nasihat khusus dalam pembelajaran memecahkan masalah, Pertama temukan masalahnya, lalu selesaikan masalah itu sendiri berkali-kali hingga mengalir seperti lagu di benakmu.
 
 ### Bab 13 Pertanyaan penting untuk dirimu sendiri
-1. 
+1. Semua orang punya cara masing-masing dalam belajar,
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDMxNjMzMywzMjczNzE3MjMsNzQyNj
-gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
-LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
-czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
-OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
-k4MjIwM119
+eyJoaXN0b3J5IjpbNjEzNDIxNTMwLDMyNzM3MTcyMyw3NDI2OD
+I5MjIsLTYzNDI3NzMwMSw5MzExMTQ3NzgsLTE0MjQ0NzA4NCwt
+NzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3MjcsMTc3Nz
+MyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4
+LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OT
+gyMjAzXX0=
 -->
