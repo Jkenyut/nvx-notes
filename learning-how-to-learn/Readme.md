@@ -187,13 +187,16 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 5. Makan katakmu terlebih dahulu yang artinya cobalah untuk melakukan hal tersulit terlebih dahulu, ini memberi waktu untuk beralih ke pelajaran lain untuk sementara jika kamu mengalami kebuntuan dan memerlukan dorongan kreatif dari mode difusi.
 6. rencanakan waktu berhenti yang pasti untuk belajar, ini membantu kamu berkonsentrasi lebih efektif saat belajar.
 
-### b
+### Bab 14 Kejutan belajar
+1. Gim aksi dapat membantu kamu fokus dan penglihatan, gim spasial membantu meningkatkan untuk memutar objek di pikiranmu.
+2. aspek buruk dalam game adalah membuat kamu ketagihan, jadi batasi hal tersebut.
+3. 
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA4NTk5MzEsMzI3MzcxNzIzLDc0Mj
-Y4MjkyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0
-LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
-c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
-MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
-U5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbMjAyNzYyMTE1NiwzMjczNzE3MjMsNzQyNj
+gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
+LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
+czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
+OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
+k4MjIwM119
 -->
