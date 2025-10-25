@@ -193,13 +193,14 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 3. Ide dasar mencatat adalah memilih poin poin penting dari apa yang kamu dengar, baca ataupun lihat agar kamu dapat meninjau dan memperkuat jaringan otak.
 4. Berpikir biasa artinya kamu hanya berjalan di sepanjang jalur mental sehingga kamu terjebak dan kurang kreatif.
 5. Untuk menjadi kreatif dan menjadi lebih baik dalam sesuatu yang kamu sukai, kamu haru meluangkan waktu sedikit lebih banyak untuk melakukan hal berbeda, ini membantu tetap fleksibel secara mental dan lebih kreatif.
-6. 
+6. Transfer adalah kemampuan untuk mengambil ide yang kamu telah pelajari kemudian kamu gunakan untuk membantu dalam pelajaran lainnya, metafora dapat membantu proses ini.
+7. 
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1MDUwNDUxLDMyNzM3MTcyMyw3NDI2OD
-I5MjIsLTYzNDI3NzMwMSw5MzExMTQ3NzgsLTE0MjQ0NzA4NCwt
-NzkzNjE5NDkzLC02NDMwOTY5NDAsLTExNDMzNDc3MjcsMTc3Nz
-MyMjk2OSw5NDUwNDQ2MzUsMTE0MjY5NDMzMSwtODM0NDExNTE4
-LDIwMzQwOTEyNDEsNzY5OTY5MDI3LDE4NTExMjg0NDYsODk1OT
-gyMjAzXX0=
+eyJoaXN0b3J5IjpbLTEzMDkyNzEzOTUsMzI3MzcxNzIzLDc0Mj
+Y4MjkyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0
+LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
+c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
+MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
+U5ODIyMDNdfQ==
 -->
