@@ -142,12 +142,15 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 2. gurita perhatian (memori kerja) hidup di korteks prefrontal.
 3. Memori kerja manusia umumnya hanya menyimpan empat jenis informasi. tetapi ada manusia yang lebih dari empat jenis atau beberapa lainnya jug ada yang kurang.
 4. Ingatan jangka panjang seperti loker karena dapat menampung banyak informasi, tetapi terkadang sulit untuk menemukan secara cepat kamu perlu melatih agar otak tau di bagian mana atau arah kamu menyimpan di dalam otak.
-5. Ingatak jangka panjangmu tersebar di berbagai area otak.
-6. 
+5. Ingatan jangka panjangmu tersebar di berbagai area otak.
+
+### Trik Jitu Membangun ingatan kuat
+Sanag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3MzcxNzIzLDc0MjY4MjkyMiwtNjM0Mj
-c3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0LC03OTM2MTk0OTMs
-LTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNzc3MzIyOTY5LDk0NT
-A0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1MTgsMjAzNDA5MTI0
-MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OTU5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTM0MzM3NzYwMCwzMjczNzE3MjMsNzQyNj
+gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
+LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
+czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
+OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
+k4MjIwM119
 -->
