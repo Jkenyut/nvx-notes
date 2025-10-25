@@ -201,10 +201,10 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 1. Langkah terpenting sebelum ujian adalah memastikan kamu mendapatkan tidur malam yang nyenyak.
 2. Dalam teknik hard-start, kamu harus meninggalkan masalah sulit ketika mengalami kebuntuan dan yang akan menjadikan frustasi.
 3. Saat kamu panik, cobalah untuk mengatur pernafasanmu dari dalam perut dan ubahlah mindset dari yang buruk menjadi baik dan bersemangat.
-4. 
+4. Untuk mengetahui apakah jawaban sudah benar, cobalah untuk menggunakan perspektif gambaran besar , tanyakan pada dirimu apakah jawaban ini masuk akan, kemudian cobalah meninjau ulang jawaban dengan urutan soal berbeda dari saat kamu mengerjakannya.
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTMyOTE5OSwzMjczNzE3MjMsNzQyNj
+eyJoaXN0b3J5IjpbMTQ3MDk2NTc1NywzMjczNzE3MjMsNzQyNj
 gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
 LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
 czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
