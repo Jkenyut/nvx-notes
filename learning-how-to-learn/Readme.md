@@ -157,12 +157,14 @@ Mempelajari cara belajar adalah salah satu kemampuan terbaik yang dapat kamu mil
 4. Distraksi seperti televisi , lagu atau hp , dapat mengambil satu lengan gurita perhatian mu sehingga kamu sudah kehilangan lengan untuk mengandalkan memori kerjamu sepenuhnya.
 5. Kamu harus menghindari distraksi saat belajar, karena berpindah tugas ke tugas lainnya kemudian kembali ke tugas awal itu sangat melelahkan bagi gurita perhatian.
 6. Jauhi distraksi yang dapat menyebabkan fokus mu hilang.
-7. Memahami konsep sa
+7. Memahami konsep saja tidak cukup, kamu perlu berlatih dan pratik konsep baru untuk membuat kumpulan jaringan. Pemahaman dan latihan berjalan bersamaan, semakin kamu latih semakin kamu memahami apa yang kamu pelajari.
+8. Kamu menjadi seorang ahli dalam hal apapun dengan mengembangkan perpustakaan jaringan otak.
+9. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIyMDkxODAsMzI3MzcxNzIzLDc0Mj
-Y4MjkyMiwtNjM0Mjc3MzAxLDkzMTExNDc3OCwtMTQyNDQ3MDg0
-LC03OTM2MTk0OTMsLTY0MzA5Njk0MCwtMTE0MzM0NzcyNywxNz
-c3MzIyOTY5LDk0NTA0NDYzNSwxMTQyNjk0MzMxLC04MzQ0MTE1
-MTgsMjAzNDA5MTI0MSw3Njk5NjkwMjcsMTg1MTEyODQ0Niw4OT
-U5ODIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTM5MzAzMjcwOCwzMjczNzE3MjMsNzQyNj
+gyOTIyLC02MzQyNzczMDEsOTMxMTE0Nzc4LC0xNDI0NDcwODQs
+LTc5MzYxOTQ5MywtNjQzMDk2OTQwLC0xMTQzMzQ3NzI3LDE3Nz
+czMjI5NjksOTQ1MDQ0NjM1LDExNDI2OTQzMzEsLTgzNDQxMTUx
+OCwyMDM0MDkxMjQxLDc2OTk2OTAyNywxODUxMTI4NDQ2LDg5NT
+k4MjIwM119
 -->
