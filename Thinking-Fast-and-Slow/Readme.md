@@ -37,8 +37,7 @@
 # Bagian 1 Dua Sistem
 ## tokoh-tokoh dalam cerita
 1. Mode otomatis biasanya kita sebut dengan melihat dan berpikir intuitif artinya sesuatu akan terbayangkan secara otomatis saat kita berpikir, tanpa anda perlu usaha (berpikir cepat)
-2. mode usaha , saat anda berpikir anda mengalami berpikir lambat selagi menjalani serangkaian langkah.
-3. Prosesnya adalah usaha mental: disengaja , butuh usaha, dan teratur.
+2. mode usaha , saat anda berpikir anda mengalami berpikir lambat selagi menjalani serangkaian langkah. Prosesnya adalah usaha mental: disengaja , butuh usaha, dan teratur. (berpikir lambat)
 
 ## Dua sistem
 1. Sistem 1 beroperasi secara otomatis dan cepat, dengan sedikit atau tanpa perlu usaha dan tanpa ada perasaan disengaja dikendalikan.
@@ -47,8 +46,8 @@
 4. Sistem 1 sebagai pihak yang mudah memberi kesan dan rasa yang menjadi sumber utama kepercayaan gamblang serta pilihan sengaja pada sistem 2.
 5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDA4MTI0Miw2MDM3NDIxNCwtMTc2Mz
-IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
-NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
-YxNTc3MzcsMzM3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbNTIwODA3NTUsNjAzNzQyMTQsLTE3NjMyMz
+IwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUs
+MTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MT
+U3NzM3LDMzNzUxMzkxNF19
 -->
