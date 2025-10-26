@@ -28,10 +28,11 @@
 ## Ada apa berikutnya
 1. Bagian 1 menyajikan unsur-unsur dasar pendekatan dua sistem terhadap pertimbangan dan pilihan. Tujuan menawarkan suatu bahasa untuk memikirkan dan membicarakan akal budi.
 2. Bagian 2 Menceritakan keadaan terkini studi heuristik pertimbangan dan membahas satu teka teki besar, mengapa kita lebih sukar berpikir statistik, dan mudah berpikir asosiatif.
-3. Bagian 3 yang menjabarkan tema utama kesukaran pemikiran statistik yaitu keterbatasan akal budi kita yang membingungkan, seolah olah kita tahu segalanya dan mereme
+3. Bagian 3 yang menjabarkan tema utama kesukaran pemikiran statistik yaitu keterbatasan akal budi kita yang membingungkan, seolah olah kita melebih lebihkan pengetahuan kita
+4.  dan meremehkan peran faktor kebetulan dalam segala kejadian.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM2OTczOTAsNjAzNzQyMTQsLTE3Nj
-MyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2
-MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsND
-k2MTU3NzM3LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbLTg1OTI2NDY3MSw2MDM3NDIxNCwtMTc2Mz
+IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
+NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
+YxNTc3MzcsMzM3NTEzOTE0XX0=
 -->
