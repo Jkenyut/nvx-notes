@@ -1,5 +1,5 @@
-# BAB 1 Dua Sistem
-## Pendahuluan
+
+# Pendahuluan
 1. Saya berharap dapat memperkaya kosa kata yang dipakai orang ketika bergosip, mengapa bergosip karena lebih mudah dan asik memberi label pada kesalahan orang lain. 
 2. Penilai mutu dan isi penilaian orang lain adalah hal yang penting.
 3. Gosip cerdas adalah motif kuat untuk kritik diri sendiri secara serius.
@@ -26,8 +26,8 @@
 6. Heuristik intuitif ketika menghadapi pertanyaan sukar, sering kali kita menjawab persoalan lain yang lebih mudah, biasanya tanpa menyadari pertanyaannya berganti.
 7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3OD
-U0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0
-NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNz
-UxMzkxNF19
+eyJoaXN0b3J5IjpbLTExOTgxMzAyMTMsNjAzNzQyMTQsLTE3Nj
+MyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2
+MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsND
+k2MTU3NzM3LDMzNzUxMzkxNF19
 -->
