@@ -4,7 +4,8 @@
 3. Gosip cerdas adalah motif kuat untuk kritik diri sendiri secara serius.
 4. pemahaman mendalam menuntut kita untuk memperkaya kosa kata dibanding kosa kata sehari hari.
 5. Diharapkan dari Gosip cerdas yaitu menemukan pola-pola khas pada kesalahan-kesalahan yang diperbuat orang.
-6. 
+6. Kesalahan sistematis dikenal sebagai bias, yang terjadi berulang kali secara terduga di keadaan tertentu.
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODE3MzA1NywzMzc1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbMTMyMjk1ODEwMCwzMzc1MTM5MTRdfQ==
 -->
