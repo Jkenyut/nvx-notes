@@ -23,10 +23,11 @@
 3. Situasi menyediakan petunjuk, petunjuk menyediakan pakar mengakses informasi di ingatan, informasi memberikan jawaban. Intuisi ini disebut pengenalan.
 4. Emosi berpengaruh jauh lebih besar dalam pemahaman kita mengenai pertimbangan dan pilihan intuitif.
 5. Ketika persoalan sukar dan solusi pakar tidak tersedia, intuisi masih berusaha, jawaban mungkin segera muncul di benak tapi itu bukan jawaban bagi persoalan asli.
-6. 
+6. Heuristik intuitif ketika menghadapi pertanyaan sukar, sering kali kita menjawab persoalan lain yang lebih mudah, biasanya tanpa menyadari pertanyaannya berganti.
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMDM0NDgyLC0xNzYzMjMyMDA4LDE1Nz
-g1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4
-NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1NzczNywzMz
-c1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3OD
+U0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0
+NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNz
+UxMzkxNF19
 -->
