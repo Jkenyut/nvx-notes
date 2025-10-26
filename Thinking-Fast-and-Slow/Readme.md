@@ -44,10 +44,10 @@
 2. sistem 2 memberikan perhatian kepada aktivitas mental yang membutuhkan usaha, sering dikaitkan dengan pengalaman subjektif menjadi pelaku, memilih , dan berkonsentrasi.
 3. Sistem 2 mengenai diri kita sendiri, diri yang sadar , bernalar, memiliki kepercayaan, membuat pilihan dan memutuskan apa yang dipikirkan dan dilakukan.
 4. Sistem 1 sebagai pihak yang mudah memberi kesan dan rasa yang menjadi sumber utama kepercayaan gamblang serta pilihan sengaja pada sistem 2.
-5. Sistem 1 mencakup keahlian bawaan kita miliki, menjadi cepat dan 
+5. Sistem 1 mencakup keahlian bawaan kita miliki, menjadi cepat dan otomatis melalui praktik yang berulang ulang, pengetahuan 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzU4OTQ2NCw2MDM3NDIxNCwtMTc2Mz
-IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
-NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
-YxNTc3MzcsMzM3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMj
+MyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1
+LDEyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5Nj
+E1NzczNywzMzc1MTM5MTRdfQ==
 -->
