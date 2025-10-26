@@ -11,7 +11,8 @@
 9. perbaiki kemampuan mengenali dan mengerti kesalahan pertimbangan serta pilihan pada orang lain dan pada diri sendiri, dengan menyediakan bahasa yang lebih kaya dan tepat untuk membahasnya, hasil yan akurat bisa menghasilkan saran penanganan untuk membatasi kerusakan yang sering disebabkan oleh pertimbangan dan pilihan yang buruk.
 ## Asal Usul
 1. Buku ini menyajikan pertimbangan dan pengambilan keputusan yang telah dibentuk oleh penemuan-penemuan di bidang ilmu psikologi selama puluhan tahun , orang yang salah satu berpengaruh pada tahun 1969 yaitu Amos Tversky.
+2. Riset yang d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5Nj
-E1NzczNywzMzc1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbNDE5MjczNTc0LC0xMTkxOTQ0MzgyLDU4Mz
+g2ODYzNyw0OTYxNTc3MzcsMzM3NTEzOTE0XX0=
 -->
