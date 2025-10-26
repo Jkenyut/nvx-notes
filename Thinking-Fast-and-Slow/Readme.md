@@ -24,6 +24,7 @@
 4. Emosi berpengaruh jauh lebih besar dalam pemahaman kita mengenai pertimbangan dan pilihan intuitif.
 5. Ketika persoalan sukar dan solusi pakar tidak tersedia, intuisi masih berusaha, jawaban mungkin segera muncul di benak tapi itu bukan jawaban bagi persoalan asli.
 6. Heuristik intuitif ketika menghadapi pertanyaan sukar, sering kali kita menjawab persoalan lain yang lebih mudah, biasanya tanpa menyadari pertanyaannya berganti.
+7. terdapat 2 sistem , sistem 1 yang berpikir cepat dan sistem 2 yang berpikir lambat.
 
 ## Ada apa berikutnya
 1. Bagian 1 menyajikan unsur-unsur dasar pendekatan dua sistem terhadap pertimbangan dan pilihan. Tujuan menawarkan suatu bahasa untuk memikirkan dan membicarakan akal budi.
@@ -31,10 +32,14 @@
 3. Bagian 3 yang menjabarkan tema utama kesukaran pemikiran statistik yaitu keterbatasan akal budi kita yang membingungkan, seolah olah kita melebih lebihkan pengetahuan kita dan meremehkan peran faktor kebetulan dalam segala kejadian.
 4. Bagian 4 adalah percakapan disiplin ilmu ekonomi mengenai hakikat pengambilan keputusan dan asumsi bahwa pelaku ekonomi bersifat rasional.
 5. Bagian 5 menjelaskan riset terkini yang memberi pembedaan antara dua diri , yakni diri mengalami dan diri yang mengingatkan dengan kepentingan yang tidak sama.
-6. Bagian 6 penutup menjelajahi dengan urutan 
+6. Bagian 6 penutup menjelajahi dengan urutan terbalik, dampak tiga pembedaan yng ditunjukkan dalam buku ini, anatar diri mengalami dan diri mengingat, antara konsepsi pelaku dalam ekonomi klasik dan ekonomi perilaku yang mendapat masukan psikologi, dan antara sistem 1 otomatis dan sistem 2 yang butuh usaha.
+
+# Bagian 1 Dua Sistem
+## tokoh-tokoh dalam cerita
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjc1OTA4NCw2MDM3NDIxNCwtMTc2Mz
-IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
-NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
-YxNTc3MzcsMzM3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbLTIxMTQ4NTgwNTIsNjAzNzQyMTQsLTE3Nj
+MyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2
+MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsND
+k2MTU3NzM3LDMzNzUxMzkxNF19
 -->
