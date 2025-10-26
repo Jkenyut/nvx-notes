@@ -24,10 +24,12 @@
 4. Emosi berpengaruh jauh lebih besar dalam pemahaman kita mengenai pertimbangan dan pilihan intuitif.
 5. Ketika persoalan sukar dan solusi pakar tidak tersedia, intuisi masih berusaha, jawaban mungkin segera muncul di benak tapi itu bukan jawaban bagi persoalan asli.
 6. Heuristik intuitif ketika menghadapi pertanyaan sukar, sering kali kita menjawab persoalan lain yang lebih mudah, biasanya tanpa menyadari pertanyaannya berganti.
-7. 
+
+## Ada apa berikutnya
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgxMzAyMTMsNjAzNzQyMTQsLTE3Nj
-MyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2
-MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsND
-k2MTU3NzM3LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbLTc0Njg1NzcyNSw2MDM3NDIxNCwtMTc2Mz
+IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
+NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
+YxNTc3MzcsMzM3NTEzOTE0XX0=
 -->
