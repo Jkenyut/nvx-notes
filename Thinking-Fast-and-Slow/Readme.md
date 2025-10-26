@@ -20,9 +20,10 @@
 ## Ada dimana kita sekarang
 1. Tujuan utama buku ini menyajikan pandangan mengenai cara kerja akal budi berdasarkan perkembangan terkini dalam psikologi kognitif dan sosial.
 2. Situasi menyediakan petunjuk, petunjuk menyediakan pakar mengakses informasi di ingatan, informasi memberikan jawaban. Intuisi ini disebut pengenalan.
-3. 
+3. Emosi berpengaruh jauh lebih besar dalam pemahaman kita mengenai 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMD
-IzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0
-NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbLTExMzA1OTIwNjksLTE3NjMyMzIwMDgsMT
+U3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4
+Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LD
+MzNzUxMzkxNF19
 -->
