@@ -15,9 +15,10 @@
 3. Tujuannya untuk mengidentifikasi dan menganalisis jawaban intuitif yang pertama kali terbesit, walaupun jawaban tersebut salah.
 4. Intuisi yang didapatkan akan didapatkan kebanyakan orang dan mudah untuk menunjukkan efeknya kepada pertimbangan.
 5. Penggunaan heuristik penyederhanaan ( taksiran kasar) atau pun heuristik ketersediaan (data yang instan didapat dari ingatan) dengan mengabaikan statistik yang relevan dan hanya mengandalkan kemiripan akan menyebabkan bias (kesalahan sistematis) dalam prediksi.
-6. 
+6. Kesukaan intuitif yang selalu melanggar aturan pemilihan rasional.
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMT
-Q2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1Nzcz
-NywzMzc1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MjI5MzM3MDMsMTAyMzQ4MDE4MywtMT
+E1MjcwNjM1LDEyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4
+NjM3LDQ5NjE1NzczNywzMzc1MTM5MTRdfQ==
 -->
