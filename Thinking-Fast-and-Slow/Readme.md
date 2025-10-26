@@ -14,10 +14,10 @@
 2. Riset yang digunakan dalam berkolaborasi adalah percakapan yaitu mengajukan pertanyaan-pertanyaan dan bersama-sama memeriksa jawaban intuitif kami.
 3. Tujuannya untuk mengidentifikasi dan menganalisis jawaban intuitif yang pertama kali terbesit, walaupun jawaban tersebut salah.
 4. Intuisi yang didapatkan akan didapatkan kebanyakan orang dan mudah untuk menunjukkan efeknya kepada pertimbangan.
-5. Penggunaan heuristik penyederhanaan ( taksiran kasar) atau pun heuristik ketersediaan (data yang instan didapat tapi terbatas) dengan mengabaikan statistik yang relevan dan hanya mengandalkan kemiripan akan menyebabkan bias (kesalahan sistematis) dalam prediksi.
+5. Penggunaan heuristik penyederhanaan ( taksiran kasar) atau pun heuristik ketersediaan (data yang instan didapat dari ingatan) dengan mengabaikan statistik yang relevan dan hanya mengandalkan kemiripan akan menyebabkan bias (kesalahan sistematis) dalam prediksi.
 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI3MDYzNSwxMjE0NjgzODQ0LC0xMT
-kxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMzM3NTEzOTE0
-XX0=
+eyJoaXN0b3J5IjpbMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMT
+Q2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1Nzcz
+NywzMzc1MTM5MTRdfQ==
 -->
