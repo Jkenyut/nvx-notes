@@ -7,7 +7,8 @@
 6. Kesalahan sistematis dikenal sebagai bias, yang terjadi berulang kali secara terduga di keadaan tertentu.
 7. Ketersediaan label diagnostik untuk bias akan membuat bias tersebut mudah di antisipasi, dikenali, dan dimengerti.
 8. Kerja mental yang menghasilkan kesan, intuisi, dan banyak keputusan terjadi secara diam-diam dalam akal budi kita.
-9. 
+9. perbaiki kemampuan mengenali dan mengerti kesalahan pertimbangan serta pilihan pada orang lain dan pada diri sendiri, dengan menyediakan bahasa yang lebih kaya dan tepat untuk membahasnya, hasil yan akurat bisa menghasilkan saran penanganan untuk membatasi kerusakan yang sering disebabkan oleh pertimbangan dan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MTU3NzM3LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbLTc3MDMxNzA1Miw0OTYxNTc3MzcsMzM3NT
+EzOTE0XX0=
 -->
