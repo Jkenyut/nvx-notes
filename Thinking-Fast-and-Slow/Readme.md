@@ -18,9 +18,10 @@
 6. Kesukaan intuitif yang selalu melanggar aturan pemilihan rasional.
 
 ## Ada dimana kita sekarang
-1. Tujuan utama buku ini menyajikan pandangan mengenai cara kerja akal budi berdasarkan
+1. Tujuan utama buku ini menyajikan pandangan mengenai cara kerja akal budi berdasarkan perkembangan terkini dalam psikologi kognitif dan sosial.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTc2NjU4OCwxMDIzNDgwMTgzLC0xMT
+eyJoaXN0b3J5IjpbMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMT
 UyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2
 MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
 -->
