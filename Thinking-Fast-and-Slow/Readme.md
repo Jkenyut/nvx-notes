@@ -22,10 +22,11 @@
 2. heuristik pertimbangan cukup berguna tapi terkadang menyebabkan kesalahan parah dan sistematis.
 3. Situasi menyediakan petunjuk, petunjuk menyediakan pakar mengakses informasi di ingatan, informasi memberikan jawaban. Intuisi ini disebut pengenalan.
 4. Emosi berpengaruh jauh lebih besar dalam pemahaman kita mengenai pertimbangan dan pilihan intuitif.
-5. Ketika 
+5. Ketika persoalan sukar dan solusi pakar tidak tersedia, intuisi masih berusaha, jawaban mungkin segera muncul di benak tapi itu bukan jawaban bagi persoalan asli.
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDIxMjc1MCwtMTc2MzIzMjAwOCwxNT
-c4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0Njgz
-ODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMz
-M3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbNDUyMDM0NDgyLC0xNzYzMjMyMDA4LDE1Nz
+g1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4
+NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1NzczNywzMz
+c1MTM5MTRdfQ==
 -->
