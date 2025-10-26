@@ -26,9 +26,10 @@
 6. Heuristik intuitif ketika menghadapi pertanyaan sukar, sering kali kita menjawab persoalan lain yang lebih mudah, biasanya tanpa menyadari pertanyaannya berganti.
 
 ## Ada apa berikutnya
-1. 
+1. Bagian 1 menyajikan unsur-unsur dasar pendekatan dua sistem terhadap pertimbangan dan pilihan.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Njg1NzcyNSw2MDM3NDIxNCwtMTc2Mz
+eyJoaXN0b3J5IjpbLTgwMjEyMDM2NCw2MDM3NDIxNCwtMTc2Mz
 IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
 NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
 YxNTc3MzcsMzM3NTEzOTE0XX0=
