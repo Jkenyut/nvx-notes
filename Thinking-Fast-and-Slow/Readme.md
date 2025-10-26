@@ -19,12 +19,12 @@
 
 ## Ada dimana kita sekarang
 1. Tujuan utama buku ini menyajikan pandangan mengenai cara kerja akal budi berdasarkan perkembangan terkini dalam psikologi kognitif dan sosial.
-2. heuristik pertimbangan cukup ber
+2. heuristik pertimbangan cukup berguna tapi terkadang menyebabkan kesalahan parah dan sistematis.
 3. Situasi menyediakan petunjuk, petunjuk menyediakan pakar mengakses informasi di ingatan, informasi memberikan jawaban. Intuisi ini disebut pengenalan.
 4. Emosi berpengaruh jauh lebih besar dalam pemahaman kita mengenai pertimbangan dan pilihan intuitif.
-5. 
+5. Ketika 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzIwNjQzOSwtMTc2MzIzMjAwOCwxNT
+eyJoaXN0b3J5IjpbMTg0MDIxMjc1MCwtMTc2MzIzMjAwOCwxNT
 c4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0Njgz
 ODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMz
 M3NTEzOTE0XX0=
