@@ -38,11 +38,13 @@
 ## tokoh-tokoh dalam cerita
 1. Mode otomatis biasanya kita sebut dengan melihat dan berpikir intuitif artinya sesuatu akan terbayangkan secara otomatis saat kita berpikir, tanpa anda perlu usaha (berpikir cepat)
 2. mode usaha , saat anda berpikir anda mengalami berpikir lambat selagi menjalani serangkaian langkah.
-3. Prosesnya adalah usaha mental
-4. 
+3. Prosesnya adalah usaha mental: disengaja , butuh usaha, dan teratur.
+
+## Dua sistem
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjE1MzgwMSw2MDM3NDIxNCwtMTc2Mz
-IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
-NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
-YxNTc3MzcsMzM3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbNzA2Mzg5OTQ1LDYwMzc0MjE0LC0xNzYzMj
+MyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1
+LDEyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5Nj
+E1NzczNywzMzc1MTM5MTRdfQ==
 -->
