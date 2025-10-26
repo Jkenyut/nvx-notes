@@ -44,10 +44,24 @@
 2. sistem 2 memberikan perhatian kepada aktivitas mental yang membutuhkan usaha, sering dikaitkan dengan pengalaman subjektif menjadi pelaku, memilih , dan berkonsentrasi.
 3. Sistem 2 mengenai diri kita sendiri, diri yang sadar , bernalar, memiliki kepercayaan, membuat pilihan dan memutuskan apa yang dipikirkan dan dilakukan.
 4. Sistem 1 sebagai pihak yang mudah memberi kesan dan rasa yang menjadi sumber utama kepercayaan gamblang serta pilihan sengaja pada sistem 2.
-5. Sistem 1 mencakup keahlian bawaan kita miliki, menjadi cepat dan otomatis melalui praktik yang berulang ulang, pengetahuan 
+5. Sistem 1 mencakup keahlian bawaan kita miliki, menjadi cepat dan otomatis melalui praktik yang berulang ulang, pengetahuan itu disimpan dalam ingatan dan diakses tanpa diniatkan dan di usahakan.
+6. Sistem 2 mempunyai cara beroperasi satu kesamaan ciri, yaitu semuanya butuh perhatian dan terganggu kalau perhatian dialihkan.
+7. Salam semua situasi anda perlu memberikan perhatian dan jika tidak maka anda akan kurang berhasil atau gagal dalam melakukan tugas tersebut.
+8. Tanda kegiatan butuh usaha adalah bila kegiatan itu bisa bentrok dengan kegiatan lain sehingga sulit atau mustahil untuk dilakukan secara bersamaan.
+9. Fokus yang sangat intens pada suatu tugas bisa membuat orang secara efektif buta , bahkan terhadang rangsangan yang normalnya menarik perhatian, kita bisa buta terhadap hal-hal yang sangat jelas dan kita bisa buta terhadap kebutaan kita.
+
+## Sinopsis Lakon
+1. Sistem 1 dan sistem 2 sama-sama aktif ketika kita sadar
+2.  sistem 1 terus-menerus memberi saran ke sistem 2 : kesan, intuisi, niat, dan rasa, Jika disetujui sistem 2, kesan dan intuisi berubah menjadi kepercayaan dan impuls menjadi tindakan yang disengaja.
+3. Sistem 2 bertanggung jawab mengendalikan perilaku serta mengambil alih kalau keadaan menjadi sulit, dan biasanya menjadi penentu akhir.
+4. pembagian tugas sistem 1 dan 2 sangat efektif, karena meminimalkan jumlah usaha dan mengoptimalkan kerja.
+5. Sistem  1 biasanya sangat baik , tetapi terkadang mempunyai bias, kesalahan dibuat dalam keadaan tertentu, terkadang menjawab pertanyaan berbeda dan gampang dari pada yang diajukan dan sedikit memahami logika dan statistika, paling sulitnya lagi sistem 1 tidak bisa dimatikan.
+
+## Konflik
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMj
-MyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1
-LDEyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5Nj
-E1NzczNywzMzc1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNz
+QyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgz
+LC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1OD
+M4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
 -->
