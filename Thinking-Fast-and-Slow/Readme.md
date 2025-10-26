@@ -41,10 +41,11 @@
 3. Prosesnya adalah usaha mental: disengaja , butuh usaha, dan teratur.
 
 ## Dua sistem
-1. 
+1. Sistem 1 beroperasi secara otomatis dan cepat, dengan sedikit atau tanpa perlu usaha dan tanpa ada perasaan disengaja dikendalikan.
+2. sistem 2 memberikan perha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2Mzg5OTQ1LDYwMzc0MjE0LC0xNzYzMj
-MyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1
-LDEyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5Nj
-E1NzczNywzMzc1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbMTIxMjEzOTk5OCw2MDM3NDIxNCwtMTc2Mz
+IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
+NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
+YxNTc3MzcsMzM3NTEzOTE0XX0=
 -->
