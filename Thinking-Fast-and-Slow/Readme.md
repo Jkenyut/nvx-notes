@@ -14,9 +14,10 @@
 2. Riset yang digunakan dalam berkolaborasi adalah percakapan yaitu mengajukan pertanyaan-pertanyaan dan bersama-sama memeriksa jawaban intuitif kami.
 3. Tujuannya untuk mengidentifikasi dan menganalisis jawaban intuitif yang pertama kali terbesit, walaupun jawaban tersebut salah.
 4. Intuisi yang didapatkan akan didapatkan kebanyakan orang dan mudah untuk menunjukkan efeknya kepada pertimbangan.
-5. Pengunaan heu
+5. Penggunaan heuristik atau taksiran kasar dengan mengabaikan statistik yang relevan dan hanya mengandalkan kemiripan akan menyebabkan bias (kesalahan sistematis) dalam prediksi.
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk0MTc2NzksMTIxNDY4Mzg0NCwtMT
-E5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkx
-NF19
+eyJoaXN0b3J5IjpbODg5NzM1NTAsMTIxNDY4Mzg0NCwtMTE5MT
+k0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
+
 -->
