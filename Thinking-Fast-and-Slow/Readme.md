@@ -13,8 +13,9 @@
 1. Buku ini menyajikan pertimbangan dan pengambilan keputusan yang telah dibentuk oleh penemuan-penemuan di bidang ilmu psikologi selama puluhan tahun , orang yang salah satu berpengaruh pada tahun 1969 yaitu Amos Tversky.
 2. Riset yang digunakan dalam berkolaborasi adalah percakapan yaitu mengajukan pertanyaan-pertanyaan dan bersama-sama memeriksa jawaban intuitif kami.
 3. Tujuannya untuk mengidentifikasi dan menganalisis jawaban intuitif yang pertama kali terbesit, walaupun jawaban tersebut salah.
-4. Intuisi yang didapatkan akan didapatkan kebanyakan orang
+4. Intuisi yang didapatkan akan didapatkan kebanyakan orang dan mudah untuk menunjukkan efeknya kepada pertimbangan.
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTMxOTk4LC0xMTkxOTQ0MzgyLDU4Mz
-g2ODYzNyw0OTYxNTc3MzcsMzM3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1OD
+M4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
 -->
