@@ -36,10 +36,11 @@
 
 # Bagian 1 Dua Sistem
 ## tokoh-tokoh dalam cerita
-1. 
+1. Mode otomatis biasanya kita sebut dengan melihat dan berpikir intuitif artinya sesuatu akan terbayangkan secara otomatis saat kita berpikir, tanpa anda perlu usaha.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ4NTgwNTIsNjAzNzQyMTQsLTE3Nj
-MyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2
-MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsND
-k2MTU3NzM3LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbMTAyMjgwNzgzNCw2MDM3NDIxNCwtMTc2Mz
+IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
+NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
+YxNTc3MzcsMzM3NTEzOTE0XX0=
 -->
