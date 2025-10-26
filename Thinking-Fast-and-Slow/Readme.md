@@ -10,8 +10,8 @@
 8. Kerja mental yang menghasilkan kesan, intuisi, dan banyak keputusan terjadi secara diam-diam dalam akal budi kita.
 9. perbaiki kemampuan mengenali dan mengerti kesalahan pertimbangan serta pilihan pada orang lain dan pada diri sendiri, dengan menyediakan bahasa yang lebih kaya dan tepat untuk membahasnya, hasil yan akurat bisa menghasilkan saran penanganan untuk membatasi kerusakan yang sering disebabkan oleh pertimbangan dan pilihan yang buruk.
 ## Asal Usul
-1. 
+1. Buku ini menyak
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzODY4NjM3LDQ5NjE1NzczNywzMzc1MT
-M5MTRdfQ==
+eyJoaXN0b3J5IjpbNDA4OTk1NDM1LDU4Mzg2ODYzNyw0OTYxNT
+c3MzcsMzM3NTEzOTE0XX0=
 -->
