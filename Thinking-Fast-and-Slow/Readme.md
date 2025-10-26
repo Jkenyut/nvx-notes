@@ -19,9 +19,9 @@
 
 ## Ada dimana kita sekarang
 1. Tujuan utama buku ini menyajikan pandangan mengenai cara kerja akal budi berdasarkan perkembangan terkini dalam psikologi kognitif dan sosial.
-2. 
+2. Situasi me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMT
-UyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2
-MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbODQwOTA4NjEyLDE1Nzg1NDUzNzIsMTAyMz
+Q4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4NDQsLTExOTE5NDQz
+ODIsNTgzODY4NjM3LDQ5NjE1NzczNywzMzc1MTM5MTRdfQ==
 -->
