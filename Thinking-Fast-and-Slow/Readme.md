@@ -76,10 +76,14 @@
 - Sistem 2 mencegah james bertindak konyol saat menanggapi hinaan, yang berarti james bakal menanggapi dengan lebih agresif jika kemampuannya mengendalikan diri terganggu ( contoh kondisi saat mabuk).
 - Sistem 1 dan sistem 2 sangat penting dalam buku di pertegas bahwa keduanya adalah tokoh fiktif,.
 - Suatu kalimat lebih mudah dimengerti jika dijabarkan apa yang dilakukan suatu pelaku (sistem 2) daripada menjabarkan sesuatu, berikut sifatnya.
+- Bicara sistem 1 dan sistem 2:
+	- Dia mendapat kesan, tapi sebagian kesan itu ilusi.
+	- ini tanggapan murni sistem 1 , dia beraksi terhadap ancaman sebelum sadar bahwa itu ancaman.
+	- Ini sistem 1 yang berbicara, Perlambat dan biarkan sistem 2 anda mengambil a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgyNzQ3NywxNjYwNTU5MDQyLC0xOT
-QzNDQyNDksLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQs
-LTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMT
-UyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2
-MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbLTEwMzE4ODg4NDcsLTIwODgyNzQ3NywxNj
+YwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtNDE5NzMx
+MDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMD
+IzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0
+NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
 -->
