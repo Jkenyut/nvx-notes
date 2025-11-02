@@ -62,11 +62,11 @@
 
 ## Ilusi
 - Memahami otonomi sistem 1, sebagai pembedaan kesan dan kepercayaan.
-- ketika melihat uji coba gambar muller-lyer kita akan melihat 2 garis , tetapi terlihat bawah atas dan bawah memiliki ukuran yang berbeda jika menggunakan sistem 1 , tetapi jika telah diukur garis tersebut maka akan sama panjang, yang mengakibatkan sistem 2 punya kepercayaan baru tapi anda tidak bisa menghalangi sistem 1 melakukan pekerjaannya,  
+- ketika melihat uji coba gambar muller-lyer kita akan melihat 2 garis , tetapi terlihat bawah atas dan bawah memiliki ukuran yang berbeda jika menggunakan sistem 1 dengan melihat, tetapi jika telah diukur garis tersebut maka akan sama panjang, yang mengakibatkan sistem 2 punya kepercayaan baru tapi anda tidak bisa menghalangi sistem 1 melakukan pekerjaannya,  hal ini membuat anda tak bisa memutuskan untuk melihat garis itu sama panjang, padahal anda tahu ujungnya sama panjang.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYwNTIwMjgsLTU5MjA3OTM5NiwtND
-E5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3
-MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMT
-E5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkx
-NF19
+eyJoaXN0b3J5IjpbLTkyMTQwMzA3NSwtNTkyMDc5Mzk2LC00MT
+k3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNTc4NTQ1Mzcy
+LDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0NjgzODQ0LC0xMT
+kxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMzM3NTEzOTE0
+XX0=
 -->
