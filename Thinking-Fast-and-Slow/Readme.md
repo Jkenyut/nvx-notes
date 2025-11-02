@@ -92,12 +92,12 @@
 - Data Pupil Berkorespondensi persis dengan pengalam subjektif, rangkaian lebih panjang selalu menghasilkan pelebaran pupil lebih banyak, tugas mengubah rangkaian memperbesar usaha, dan puncak ukuran pupil bersamaan dengan puncak usaha.
 - Ketika lebih keras lagi usaha dari batasnya (menyerah / jawaban ditemukan) pupil akan berhenti melebar dan malah menyusut.
 - Pupil adalah penanda bagus efek fisik yang menyertai usaha mental, dan kami dapat menggunakan untuk memahami cara kerja akal budi.
-- 
+- Studi orak menunjukkan bahwa pola aktivitas yang terkait dengan suatu tindakan berubah selagi keahlian melakukan tindakan itu meningkat, dan makin sedikit bagian otak yang terlibat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NjY5NTM0LDE4NjcyMDYyNjQsMTg4ND
-M3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0
-OSwtNTkyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2Mz
-IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
-NSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OT
-YxNTc3MzcsMzM3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbLTc2NDk1OTQ1MywyODg2Njk1MzQsMTg2Nz
+IwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0
+MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLTQxOTczMTA1LDYwMz
+c0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4
+MywtMTE1MjcwNjM1LDEyMTQ2ODM4NDQsLTExOTE5NDQzODIsNT
+gzODY4NjM3LDQ5NjE1NzczNywzMzc1MTM5MTRdfQ==
 -->
