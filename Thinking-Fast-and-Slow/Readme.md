@@ -66,11 +66,12 @@
 - untuk mencegahnya perlu menerapkan aturan tidak memercayai kesan yang didapat.
 - Ketertarikan itu adalah ilusi-ilusi kognitif dan sistem 2 diajari cara mengenali serta dinasihati agar tak memercayai atau bertindak mengikutinya.
 - Sistem 1 beroperasi secara otomatis dan tidak dapat dimatikan, kesalahan kesalahan pemikiran intuitif sering kali sukar dicegah, Bias tak selalu bisa dihindari sistem 2,  boleh jadi tidak mendapatkan petunjuk kesalahan. Kalau pun ada petunjuk hanya bisa dicegah melalui pengawasan dan kegiatan sistem 2.
--  
+- terus menerus menggunakan sistem 2 tidak selamanya baik karena pasti melelahkan, lambat dan tak efisien dalam melakukan pekerjaan rutin membuat keputusan seperti sistem 1.
+- Belajarlah berkompromi belajar mengenali situasi ketika kesalahan lebih. mun 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzc1NTc2LC0xOTQzNDQyNDksLTU5Mj
-A3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgs
-MTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxND
-Y4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3
-LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbLTEyMzI3MzM0ODQsLTE5NDM0NDI0OSwtNT
+kyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAw
+OCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMj
+E0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3
+MzcsMzM3NTEzOTE0XX0=
 -->
