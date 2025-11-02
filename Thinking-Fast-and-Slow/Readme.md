@@ -95,9 +95,10 @@
 - Studi orak menunjukkan bahwa pola aktivitas yang terkait dengan suatu tindakan berubah selagi keahlian melakukan tindakan itu meningkat, dan makin sedikit bagian otak yang terlibat.
 - Hukum menyatakan jika ada beberapa cara untuk tujuan yang sama, orang cenderung akan memilih usaha yang paling ringan.
 - Beralih dari satu tugas ke tugas lainnya membutuhkan usaha, terutama kalau ada tekanan waktu.
+- Tekanan waktu adalah pendorong usaha yang lain.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDQxNTkwNSwxNTMyNjk0NTU4LDI4OD
+eyJoaXN0b3J5IjpbMjA2NTQ4MzU2NiwxNTMyNjk0NTU4LDI4OD
 Y2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3
 NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtND
 E5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3
