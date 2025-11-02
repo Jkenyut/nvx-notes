@@ -88,13 +88,13 @@
 ### Usaha Mental
 - Pupil mata adalah jendela jiwa.
 - Pupil adalah penanda usaha mental yang peka.
-- Pupil akan melebar ketika melakukan usaha lebih banyak.
 - Tanggapan terhadap usaha mental berbeda dari rangsangan emosional.
+- Data Pupil Berkorespondensi persis dengan pengalam subjektif, rangkain lebih panjang selalu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMzU5NzA4LDE4ODQzNzUxMzQsLTIwOD
-gyNzQ3NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5
-NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3OD
-U0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0
-NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNz
-UxMzkxNF19
+eyJoaXN0b3J5IjpbLTExODY4NTQyMjUsMTg4NDM3NTEzNCwtMj
+A4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNTkyMDc5
+Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNT
+c4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0Njgz
+ODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMz
+M3NTEzOTE0XX0=
 -->
