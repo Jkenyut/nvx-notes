@@ -39,7 +39,7 @@
 1. Mode otomatis biasanya kita sebut dengan melihat dan berpikir intuitif artinya sesuatu akan terbayangkan secara otomatis saat kita berpikir, tanpa anda perlu usaha (berpikir cepat)
 2. mode usaha , saat anda berpikir anda mengalami berpikir lambat selagi menjalani serangkaian langkah. Prosesnya adalah usaha mental: disengaja , butuh usaha, dan teratur. (berpikir lambat)
 
-## Dua sistem
+### Dua sistem
 1. Sistem 1 beroperasi secara otomatis dan cepat, dengan sedikit atau tanpa perlu usaha dan tanpa ada perasaan disengaja dikendalikan.
 2. sistem 2 memberikan perhatian kepada aktivitas mental yang membutuhkan usaha, sering dikaitkan dengan pengalaman subjektif menjadi pelaku, memilih , dan berkonsentrasi.
 3. Sistem 2 mengenai diri kita sendiri, diri yang sadar , bernalar, memiliki kepercayaan, membuat pilihan dan memutuskan apa yang dipikirkan dan dilakukan.
@@ -50,7 +50,7 @@
 8. Tanda kegiatan butuh usaha adalah bila kegiatan itu bisa bentrok dengan kegiatan lain sehingga sulit atau mustahil untuk dilakukan secara bersamaan.
 9. Fokus yang sangat intens pada suatu tugas bisa membuat orang secara efektif buta , bahkan terhadang rangsangan yang normalnya menarik perhatian, kita bisa buta terhadap hal-hal yang sangat jelas dan kita bisa buta terhadap kebutaan kita.
 
-## Sinopsis Lakon
+### Sinopsis Lakon
 1. Sistem 1 dan sistem 2 sama-sama aktif ketika kita sadar
 2.  sistem 1 terus-menerus memberi saran ke sistem 2 : kesan, intuisi, niat, dan rasa, Jika disetujui sistem 2, kesan dan intuisi berubah menjadi kepercayaan dan impuls menjadi tindakan yang disengaja.
 3. Sistem 2 bertanggung jawab mengendalikan perilaku serta mengambil alih kalau keadaan menjadi sulit, dan biasanya menjadi penentu akhir.
@@ -70,7 +70,7 @@
 - Belajarlah berkompromi belajar mengenali situasi ketika kesalahan lebih mungkin terjadi dan berusaha lebih keras menghindari kesalahan yang lebih besar taruhannya.
 - Premis buku ini adalah melihat kesalahan orang lain lebih gampang daripada melihat kesalahan diri sendiri.
 
-## Fiksi Berguna
+### Fiksi Berguna
 - Aritmetika mental adalah kegiatan disengaja yang butuh usaha, jangan dilakukan sambil membelokkan mobil, dan terkait pembesaran pupil mata serta peningkatan laju denyut jantung.
 - berarti menyetir mobil dalam kondisi biasa bersifat otomatis dan nyaris tanpa usaha ,bahkan sambil mengobrol sambil menyetir, maka tergolong sistem 1.
 - Sistem 2 mencegah james bertindak konyol saat menanggapi hinaan, yang berarti james bakal menanggapi dengan lebih agresif jika kemampuannya mengendalikan diri terganggu ( contoh kondisi saat mabuk).
@@ -81,10 +81,10 @@
 	- ini tanggapan murni sistem 1 , dia beraksi terhadap ancaman sebelum sadar bahwa itu ancaman.
 	- Ini sistem 1 yang berbicara, Perlambat dan biarkan sistem 2 anda mengambil alih.
 
-# Perhatian dan Usaha
+## Perhatian dan Usaha
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODc1MDEwNiwtMjA4ODI3NDc3LDE2Nj
+eyJoaXN0b3J5IjpbMTg4NDM3NTEzNCwtMjA4ODI3NDc3LDE2Nj
 A1NTkwNDIsLTE5NDM0NDI0OSwtNTkyMDc5Mzk2LC00MTk3MzEw
 NSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNTc4NTQ1MzcyLDEwMj
 M0ODAxODMsLTExNTI3MDYzNSwxMjE0NjgzODQ0LC0xMTkxOTQ0
