@@ -89,12 +89,13 @@
 - Pupil mata adalah jendela jiwa.
 - Pupil adalah penanda usaha mental yang peka.
 - Tanggapan terhadap usaha mental berbeda dari rangsangan emosional.
-- Data Pupil Berkorespondensi persis dengan pengalam subjektif, rangkain lebih panjang selalu
+- Data Pupil Berkorespondensi persis dengan pengalam subjektif, rangkaian lebih panjang selalu menghasilkan pelebaran pupil lebih banyak, tugas mengubah rangkaian memperbesar usaha, dan puncak ukuran pupil bersamaan dengan puncak usaha.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY4NTQyMjUsMTg4NDM3NTEzNCwtMj
-A4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNTkyMDc5
-Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNT
-c4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0Njgz
-ODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMz
-M3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbMTA2OTE0ODE5OSwxODg0Mzc1MTM0LC0yMD
+g4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkz
+OTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nz
+g1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4
+NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1NzczNywzMz
+c1MTM5MTRdfQ==
 -->
