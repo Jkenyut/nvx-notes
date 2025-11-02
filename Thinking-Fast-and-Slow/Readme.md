@@ -71,11 +71,11 @@
 - Premis buku ini adalah melihat kesalahan orang lain lebih gampang daripada melihat kesalahan diri sendiri.
 
 ## Fiksi Berguna
-
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OT
-IwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4
-LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMT
-Q2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1Nzcz
-NywzMzc1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbMTc4MzIwMzA4NywxNjYwNTU5MDQyLC0xOT
+QzNDQyNDksLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQs
+LTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMT
+UyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2
+MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
 -->
