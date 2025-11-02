@@ -90,13 +90,13 @@
 - Pupil adalah penanda usaha mental yang peka.
 - Tanggapan terhadap usaha mental berbeda dari rangsangan emosional.
 - Data Pupil Berkorespondensi persis dengan pengalam subjektif, rangkaian lebih panjang selalu menghasilkan pelebaran pupil lebih banyak, tugas mengubah rangkaian memperbesar usaha, dan puncak ukuran pupil bersamaan dengan puncak usaha.
-- Ketika lebih keras lagi usaha dari batasnya (menyerah) pupil akan berhenti melebar dan malah menyusut.
+- Ketika lebih keras lagi usaha dari batasnya (menyerah / jawaban ditemukan) pupil akan berhenti melebar dan malah menyusut.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MTk4MTQ1LDE4ODQzNzUxMzQsLTIwOD
-gyNzQ3NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5
-NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3OD
-U0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0
-NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNz
-UxMzkxNF19
+eyJoaXN0b3J5IjpbMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMD
+g4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkz
+OTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nz
+g1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4
+NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1NzczNywzMz
+c1MTM5MTRdfQ==
 -->
