@@ -58,9 +58,9 @@
 5. Sistem  1 biasanya sangat baik , tetapi terkadang mempunyai bias, kesalahan dibuat dalam keadaan tertentu, terkadang menjawab pertanyaan berbeda dan gampang dari pada yang diajukan dan sedikit memahami logika dan statistika, paling sulitnya lagi sistem 1 tidak bisa dimatikan.
 
 ## Konflik
-Anda mengalami konflik
+- Anda mengalami konflik antara tugas yang akan dilakukan dan tanggapan otomatis, Salah satu tugas sistem 2 adalah mengatasi impl sistem 1 , denga kata lain sistem2 bertanggung jawab mengendalikan 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTQ1ODQ5NywtNTkyMDc5Mzk2LC00MT
+eyJoaXN0b3J5IjpbMTIzMzkyNjIxOCwtNTkyMDc5Mzk2LC00MT
 k3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNTc4NTQ1Mzcy
 LDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0NjgzODQ0LC0xMT
 kxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMzM3NTEzOTE0
