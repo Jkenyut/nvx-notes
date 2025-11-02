@@ -89,12 +89,12 @@
 - Pupil mata adalah jendela jiwa.
 - Pupil adalah penanda usaha mental yang peka.
 - Pupil akan melebar ketika melakukan usaha lebih banyak.
-- Tanggapan ter
+- Tanggapan terhadap usaha mental berbeda dari rangsangan emosional.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODE2MDkyMywxODg0Mzc1MTM0LC0yMD
-g4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkz
-OTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nz
-g1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4
-NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1NzczNywzMz
-c1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbNjkzMzU5NzA4LDE4ODQzNzUxMzQsLTIwOD
+gyNzQ3NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5
+NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3OD
+U0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0
+NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNz
+UxMzkxNF19
 -->
