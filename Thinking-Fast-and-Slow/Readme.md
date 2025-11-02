@@ -94,12 +94,14 @@
 - Pupil adalah penanda bagus efek fisik yang menyertai usaha mental, dan kami dapat menggunakan untuk memahami cara kerja akal budi.
 - Studi orak menunjukkan bahwa pola aktivitas yang terkait dengan suatu tindakan berubah selagi keahlian melakukan tindakan itu meningkat, dan makin sedikit bagian otak yang terlibat.
 - Hukum menyatakan jika ada beberapa cara untuk tujuan yang sama, orang cenderung akan memilih usaha yang paling ringan.
+- Beralih dari satu tugas ke tugas lainnya membutuhkan usaha, terutama kalau ada tekanan waktu.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjY5NDU1OCwyODg2Njk1MzQsMTg2Nz
-IwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0
-MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLTQxOTczMTA1LDYwMz
-c0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4
-MywtMTE1MjcwNjM1LDEyMTQ2ODM4NDQsLTExOTE5NDQzODIsNT
-gzODY4NjM3LDQ5NjE1NzczNywzMzc1MTM5MTRdfQ==
+eyJoaXN0b3J5IjpbMjA3MDQxNTkwNSwxNTMyNjk0NTU4LDI4OD
+Y2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3
+NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtND
+E5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3
+MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMT
+E5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkx
+NF19
 -->
