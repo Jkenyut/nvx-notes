@@ -93,8 +93,9 @@
 - Ketika lebih keras lagi usaha dari batasnya (menyerah / jawaban ditemukan) pupil akan berhenti melebar dan malah menyusut.
 - Pupil adalah penanda bagus efek fisik yang menyertai usaha mental, dan kami dapat menggunakan untuk memahami cara kerja akal budi.
 - Studi orak menunjukkan bahwa pola aktivitas yang terkait dengan suatu tindakan berubah selagi keahlian melakukan tindakan itu meningkat, dan makin sedikit bagian otak yang terlibat.
+- Hukum menyatakan jika ada beberapa cara untuk tujuan yang sama, orang cenderung akan memilih usaha yan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDk1OTQ1MywyODg2Njk1MzQsMTg2Nz
+eyJoaXN0b3J5IjpbLTIwNDcwMTY3NiwyODg2Njk1MzQsMTg2Nz
 IwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0
 MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLTQxOTczMTA1LDYwMz
 c0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4
