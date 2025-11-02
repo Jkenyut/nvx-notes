@@ -61,11 +61,12 @@
 - Anda mengalami konflik antara tugas yang akan dilakukan dan tanggapan otomatis, Salah satu tugas sistem 2 adalah mengatasi impuls sistem 1 , denga kata lain sistem2 bertanggung jawab atas kendali diri.
 
 ## Ilusi
-- Memahami otonomi sistem 1, sebagai pembedaan k 
+- Memahami otonomi sistem 1, sebagai pembedaan kesan dan kepercayaan.
+- ketika melihat uji coba gambar muller-lyer kita akan melihat 2 garis , tetapi terlihat bawah atas dan bawah memiliki ukuran yang berbeda jika menggunakan s 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MjAzNTgsLTU5MjA3OTM5NiwtNDE5Nz
-MxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3Miwx
-MDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MT
-k0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
-
+eyJoaXN0b3J5IjpbLTU0NjQ4NzUyNCwtNTkyMDc5Mzk2LC00MT
+k3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNTc4NTQ1Mzcy
+LDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0NjgzODQ0LC0xMT
+kxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMzM3NTEzOTE0
+XX0=
 -->
