@@ -82,11 +82,13 @@
 	- Ini sistem 1 yang berbicara, Perlambat dan biarkan sistem 2 anda mengambil alih.
 
 ## Perhatian dan Usaha
-- 
+- Sistem 2 menjadi pembantu yang yakin dirinya sang pahlawan.
+- Ciri khas sistem 2 bahwa operasinya butuh usaha dan satu ciri utamanya dalah sifat malas, keenganan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDM3NTEzNCwtMjA4ODI3NDc3LDE2Nj
-A1NTkwNDIsLTE5NDM0NDI0OSwtNTkyMDc5Mzk2LC00MTk3MzEw
-NSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNTc4NTQ1MzcyLDEwMj
-M0ODAxODMsLTExNTI3MDYzNSwxMjE0NjgzODQ0LC0xMTkxOTQ0
-MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMzM3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbLTEzODk4NDk1NjcsMTg4NDM3NTEzNCwtMj
+A4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNTkyMDc5
+Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNT
+c4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0Njgz
+ODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMz
+M3NTEzOTE0XX0=
 -->
