@@ -64,8 +64,9 @@
 - Memahami otonomi sistem 1, sebagai pembedaan kesan dan kepercayaan.
 - ketika melihat uji coba gambar muller-lyer kita akan melihat 2 garis , tetapi terlihat bawah atas dan bawah memiliki ukuran yang berbeda jika menggunakan sistem 1 dengan melihat, tetapi jika telah diukur garis tersebut maka akan sama panjang, yang mengakibatkan sistem 2 punya kepercayaan baru tapi anda tidak bisa menghalangi sistem 1 melakukan pekerjaannya,  hal ini membuat anda tak bisa memutuskan untuk melihat garis itu sama panjang, padahal anda tahu ujungnya sama panjang.
 - untuk mencegahnya perlu menerapkan aturan tidak memercayai kesan yang didapat.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjgzODQ1MiwtNTkyMDc5Mzk2LC00MT
+eyJoaXN0b3J5IjpbLTE5NDM0NDI0OSwtNTkyMDc5Mzk2LC00MT
 k3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNTc4NTQ1Mzcy
 LDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0NjgzODQ0LC0xMT
 kxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMzM3NTEzOTE0
