@@ -100,13 +100,17 @@
 - Bicara tantang perhatian dan usaha:
 	- Saya tidak akan mencoba menyelesaikan soal ini dambil menyetir. Ini pekerjaan yang membuat pupil mata melebar. Butuh usaha mental
 	- Hukum usaha tersedikit sedang bekerja. Dia akan berpikir sesedikit mungkin.
-	- Dia tidak 
+	- Dia tidak lupa rapat, Dia sedang berfokus ke sesuatu yang lain waktu rapat ditentukan dan dia tidak bisa mendengarkanmu.
+	- Yang langsung muncul dalam kepalaku itu intuisi dari sistem 1, aku haru mulai lagi dan sengaja mencari dalam ingatanku.
+
+### Si Pengendali yang malas
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTE3OTMzNSwxNTMyNjk0NTU4LDI4OD
-Y2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3
-NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtND
-E5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3
-MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMT
-E5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkx
-NF19
+eyJoaXN0b3J5IjpbLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyOD
+g2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0
+NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLT
+QxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUz
+NzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4NDQsLT
+ExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1NzczNywzMzc1MTM5
+MTRdfQ==
 -->
