@@ -72,12 +72,13 @@
 
 ## Fiksi Berguna
 - Aritmetika mental adalah kegiatan disengaja yang butuh usaha, jangan dilakukan sambil membelokkan mobil, dan terkait pembesaran pupil mata serta peningkatan laju denyut jantung.
-- berarti menyetir mobil dalam kondisi biasa bersifat otomatis dan nyaris tanpa usaha maka tergolong sistem 1.
+- berarti menyetir mobil dalam kondisi biasa bersifat otomatis dan nyaris tanpa usaha ,bahkan sambil mengobrol sambil menyetir, maka tergolong sistem 1.
+- Sistem 2 mencegah james bertindak konyol saat menanggapi hinaan, yang berarti james bakal menanggapi dengan lebih agresif jika kemampuannya mengendalikan diri terganggu ( contoh kondisi saat mabuk).
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTIxODY5NSwxNjYwNTU5MDQyLC0xOT
-QzNDQyNDksLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQs
-LTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMT
-UyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2
-MzcsNDk2MTU3NzM3LDMzNzUxMzkxNF19
+eyJoaXN0b3J5IjpbLTE2NzIxNTkxOTEsMTY2MDU1OTA0MiwtMT
+k0MzQ0MjQ5LC01OTIwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0
+LC0xNzYzMjMyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMT
+E1MjcwNjM1LDEyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4
+NjM3LDQ5NjE1NzczNywzMzc1MTM5MTRdfQ==
 -->
