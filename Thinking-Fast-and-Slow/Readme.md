@@ -67,11 +67,15 @@
 - Ketertarikan itu adalah ilusi-ilusi kognitif dan sistem 2 diajari cara mengenali serta dinasihati agar tak memercayai atau bertindak mengikutinya.
 - Sistem 1 beroperasi secara otomatis dan tidak dapat dimatikan, kesalahan kesalahan pemikiran intuitif sering kali sukar dicegah, Bias tak selalu bisa dihindari sistem 2,  boleh jadi tidak mendapatkan petunjuk kesalahan. Kalau pun ada petunjuk hanya bisa dicegah melalui pengawasan dan kegiatan sistem 2.
 - terus menerus menggunakan sistem 2 tidak selamanya baik karena pasti melelahkan, lambat dan tak efisien dalam melakukan pekerjaan rutin membuat keputusan seperti sistem 1.
-- Belajarlah berkompromi belajar mengenali situasi ketika kesalahan lebih. mun 
+- Belajarlah berkompromi belajar mengenali situasi ketika kesalahan lebih mungkin terjadi dan berusaha lebih keras menghindari kesalahan yang lebih besar taruhannya.
+- Premis buku ini adalah melihat kesalahan orang lain lebih gampang daripada melihat kesalahan diri sendiri.
+
+## Fiksi Berguna
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI3MzM0ODQsLTE5NDM0NDI0OSwtNT
-kyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAw
-OCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMj
-E0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3
-MzcsMzM3NTEzOTE0XX0=
+eyJoaXN0b3J5IjpbMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OT
+IwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4
+LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMT
+Q2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1Nzcz
+NywzMzc1MTM5MTRdfQ==
 -->
