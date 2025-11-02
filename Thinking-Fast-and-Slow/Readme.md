@@ -86,12 +86,13 @@
 - Ciri khas sistem 2 bahwa operasinya butuh usaha dan satu ciri utamanya dalah sifat malas, enggan memberikan usaha lebih daripada yang diperlukan m alhasil pemikiran dan perbuatan yang dipercaya dipilih sistem 2 seringkali dibimbing oleh tokoh utama, yakni sistem 1.
 - Tetapi ada juga beberapa tugas vital yang hanya bisa dilaukan oleh sistem 2 karena butuh usaha dan kendali diri untuk mengatasi intuisi dan impuls sistem 1.
 ### Usaha Mental
+- Pupil mata adalah jendela jiwa.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjE1OTAyLDE4ODQzNzUxMzQsLTIwOD
-gyNzQ3NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5
-NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3OD
-U0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0
-NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNz
-UxMzkxNF19
+eyJoaXN0b3J5IjpbLTEwNDg0NzkwMzksMTg4NDM3NTEzNCwtMj
+A4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNTkyMDc5
+Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNT
+c4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMjE0Njgz
+ODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3MzcsMz
+M3NTEzOTE0XX0=
 -->
