@@ -71,9 +71,9 @@
 - Premis buku ini adalah melihat kesalahan orang lain lebih gampang daripada melihat kesalahan diri sendiri.
 
 ## Fiksi Berguna
-- 
+- Aritmetika mental adalah kegiatan disengaja yang butuh usaha, jangan dilakukan sam
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzIwMzA4NywxNjYwNTU5MDQyLC0xOT
+eyJoaXN0b3J5IjpbMTA0OTE3NzY1MSwxNjYwNTU5MDQyLC0xOT
 QzNDQyNDksLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQs
 LTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMT
 UyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2
