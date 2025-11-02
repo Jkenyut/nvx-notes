@@ -96,13 +96,14 @@
 - Hukum menyatakan jika ada beberapa cara untuk tujuan yang sama, orang cenderung akan memilih usaha yang paling ringan.
 - Beralih dari satu tugas ke tugas lainnya membutuhkan usaha, terutama kalau ada tekanan waktu.
 - Tekanan waktu adalah pendorong usaha yang lain.
+- bentuk berpikir lambat yang paling berat adalah menuntut anda berpikir cepat.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTQ4MzU2NiwxNTMyNjk0NTU4LDI4OD
-Y2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3
-NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtND
-E5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3
-MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMT
-E5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3NzM3LDMzNzUxMzkx
-NF19
+eyJoaXN0b3J5IjpbLTEzNzgwODQzODcsMTUzMjY5NDU1OCwyOD
+g2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0
+NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLT
+QxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUz
+NzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4NDQsLT
+ExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1NzczNywzMzc1MTM5
+MTRdfQ==
 -->
