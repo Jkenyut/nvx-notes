@@ -64,9 +64,10 @@
 - Memahami otonomi sistem 1, sebagai pembedaan kesan dan kepercayaan.
 - ketika melihat uji coba gambar muller-lyer kita akan melihat 2 garis , tetapi terlihat bawah atas dan bawah memiliki ukuran yang berbeda jika menggunakan sistem 1 dengan melihat, tetapi jika telah diukur garis tersebut maka akan sama panjang, yang mengakibatkan sistem 2 punya kepercayaan baru tapi anda tidak bisa menghalangi sistem 1 melakukan pekerjaannya,  hal ini membuat anda tak bisa memutuskan untuk melihat garis itu sama panjang, padahal anda tahu ujungnya sama panjang.
 - untuk mencegahnya perlu menerapkan aturan tidak memercayai kesan yang didapat.
-- Ketertarikan itu adalah ilusi-ilusi kognitif dan sistem 2 diajari cara mengenali serta dinasihati agar tak memercayai atau bertindak  
+- Ketertarikan itu adalah ilusi-ilusi kognitif dan sistem 2 diajari cara mengenali serta dinasihati agar tak memercayai atau bertindak mengikutinya.
+- Sistem 1 beroperasi secara otomatis dan tidak dapat dimatikan, kesalahan kesalahan pemikiran intuitif sering kali sukar dicegah, Bias tak selalu  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTYxMDc1MCwtMTk0MzQ0MjQ5LC01OT
+eyJoaXN0b3J5IjpbMTAxMzgxNDgxNCwtMTk0MzQ0MjQ5LC01OT
 IwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4
 LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMT
 Q2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1Nzcz
