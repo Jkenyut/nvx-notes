@@ -74,9 +74,10 @@
 - Aritmetika mental adalah kegiatan disengaja yang butuh usaha, jangan dilakukan sambil membelokkan mobil, dan terkait pembesaran pupil mata serta peningkatan laju denyut jantung.
 - berarti menyetir mobil dalam kondisi biasa bersifat otomatis dan nyaris tanpa usaha ,bahkan sambil mengobrol sambil menyetir, maka tergolong sistem 1.
 - Sistem 2 mencegah james bertindak konyol saat menanggapi hinaan, yang berarti james bakal menanggapi dengan lebih agresif jika kemampuannya mengendalikan diri terganggu ( contoh kondisi saat mabuk).
-- Sistem 1 dan sistem 2 sangat penting dalam buku di pertegas bahwa keduanya adalah tokoh fiktif, 
+- Sistem 1 dan sistem 2 sangat penting dalam buku di pertegas bahwa keduanya adalah tokoh fiktif,.
+- Suatu kalimat lebih mudah dimengerti jika dijabarkan apa yang dilakukan suatu pelaku (sistem 2) daripada menjabarkan sesuatu, berikut sifatnya.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTA5MDM0OCwxNjYwNTU5MDQyLC0xOT
+eyJoaXN0b3J5IjpbLTIwODgyNzQ3NywxNjYwNTU5MDQyLC0xOT
 QzNDQyNDksLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQs
 LTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMT
 UyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2
