@@ -104,13 +104,14 @@
 	- Yang langsung muncul dalam kepalaku itu intuisi dari sistem 1, aku haru mulai lagi dan sengaja mencari dalam ingatanku.
 
 ### Si Pengendali yang malas
-- Hukum usaha 
+- Hukum usaha tersedikit menjadi hukum
+- Bekerja tanpa usaha itu lebih lama dari siapapun, orang yang men
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEyNzY2NDEsLTEyNTc5Nzg5NjMsMT
-UzMjY5NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1
-MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC
-01OTIwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMy
-MDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LD
-EyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1
-NzczN119
+eyJoaXN0b3J5IjpbMTc3MjM2ODE3MCwtMTI1Nzk3ODk2MywxNT
+MyNjk0NTU4LDI4ODY2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUx
+MzQsLTIwODgyNzQ3NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLT
+U5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIw
+MDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMT
+IxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4Njg2MzcsNDk2MTU3
+NzM3XX0=
 -->
