@@ -107,13 +107,15 @@
 - Hukum usaha tersedikit menjadi hukum
 - Bekerja tanpa usaha itu lebih lama dari siapapun, orang yang mengalir dijabarkan seperti "Keadaan berkonsentrasi sangat penuh tanpa berusaha sampai-sampai lupa waktu, lupa diri, lupa segalanya". (pengalaman optimal)
 - Alir memisahkan dua bentuk usaha: konsentrasi pada tugas dan kendali perhatian yang disengaja.
-### Sist
+### Sistem 2 yang sibuk dan terkuras
+- kendali diri dan usaha kognitif merupakan dua bentuk kerja mental.
+- Percobaan telah  menunjukkan bahwa orang yang di tantang usaha kognitif berat dan godaan secara sekaligus akan mungkin membuat menyerah kepada 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ4NDY2MTAsLTEyNTc5Nzg5NjMsMT
-UzMjY5NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1
-MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC
-01OTIwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMy
-MDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LD
-EyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1
-NzczN119
+eyJoaXN0b3J5IjpbODk3NjkzOTM0LC0xMjU3OTc4OTYzLDE1Mz
+I2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMTg4NDM3NTEz
+NCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNT
+kyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAw
+OCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMj
+E0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3
+MzddfQ==
 -->
