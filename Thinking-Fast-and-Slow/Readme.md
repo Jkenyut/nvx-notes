@@ -112,13 +112,14 @@
 - Percobaan telah  menunjukkan bahwa orang yang di tantang usaha kognitif berat dan godaan secara sekaligus akan mungkin membuat menyerah kepada godaan.
 - Sistem 1 punya pengaruh lebih besar pada perilaku kalau sistem 2 sedang sibuk.
 - Kendali diri butuh perhatian dan usaha, mengendalikan pemikiran dan perilaku adalah salah satu tugas sistem 2.
+- Usaha memusatkan kehendak atau kendali diri itu melelahkan, dengan memaksa diri membuat anda enggan dan kurang mampu mengendalikan diri ketika ada tantangan baru datang, disebut ego terkuras.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5NDk5NTE2LC0xMjU3OTc4OTYzLDE1Mz
-I2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMTg4NDM3NTEz
-NCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNT
-kyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAw
-OCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYzNSwxMj
-E0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2ODYzNyw0OTYxNTc3
-MzddfQ==
+eyJoaXN0b3J5IjpbLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMT
+UzMjY5NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1
+MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC
+01OTIwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMy
+MDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LD
+EyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1
+NzczN119
 -->
