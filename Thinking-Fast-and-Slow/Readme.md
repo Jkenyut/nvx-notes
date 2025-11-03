@@ -120,9 +120,11 @@
 - salah satu fungsi sistem 2 adalah memantau dan mengendalikan pemikiran dan tindakan yang disarankan sistem 1, memperkenankan sebagiannya secara langsung dalam perliaku sambil meredam dan mengubah sebagian lainnya.
 - Banyak orang yang terlalu percaya kepada intuisi sendiri, mereka mendapati usaha kognitif setidaknya agak tak menyenangkan dan menghindari sebisa mungkin.
 - inteligensi bukan hanya penalaran tapi juga mencakup kemampuan menemukan bahan yang relevan dalam ingatan dan mengarahkan perhatian ke tempat yang membutuhkan.
--  
+- Fungsi ingatan adalah bagian sistem 1.
+- pemeriksaan dan pencarian sengaja adalah bagian sistem 2. 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2Njg2NTc0LDQ2OTY2NTI3LDYyOTQzOT
+eyJoaXN0b3J5IjpbMTg5OTc4ODM4LDQ2OTY2NTI3LDYyOTQzOT
 IwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4OTYz
 LDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMTg4ND
 M3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0
