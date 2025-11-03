@@ -113,13 +113,13 @@
 - Sistem 1 punya pengaruh lebih besar pada perilaku kalau sistem 2 sedang sibuk.
 - Kendali diri butuh perhatian dan usaha, mengendalikan pemikiran dan perilaku adalah salah satu tugas sistem 2.
 - Usaha memusatkan kehendak atau kendali diri itu melelahkan, dengan memaksa diri membuat anda enggan dan kurang mampu mengendalikan diri ketika ada tantangan baru datang, disebut ego terkuras.
-- 
+- kegiatan yang menuntut banyak terhadap sistem 2 membutuhkan kendali diri yang berat dan tidak menyenangkan, mengakibatkan motivasi menghilang.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMT
-UzMjY5NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1
-MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC
-01OTIwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMy
-MDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LD
-EyMTQ2ODM4NDQsLTExOTE5NDQzODIsNTgzODY4NjM3LDQ5NjE1
-NzczN119
+eyJoaXN0b3J5IjpbODg4ODk5MzgxLC0yMTAwOTU1NjQ1LC0xMj
+U3OTc4OTYzLDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYy
+NjQsMTg4NDM3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLT
+E5NDM0NDI0OSwtNTkyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIx
+NCwtMTc2MzIzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLT
+ExNTI3MDYzNSwxMjE0NjgzODQ0LC0xMTkxOTQ0MzgyLDU4Mzg2
+ODYzN119
 -->
