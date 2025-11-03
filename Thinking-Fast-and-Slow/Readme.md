@@ -115,12 +115,15 @@
 - Usaha memusatkan kehendak atau kendali diri itu melelahkan, dengan memaksa diri membuat anda enggan dan kurang mampu mengendalikan diri ketika ada tantangan baru datang, disebut ego terkuras.
 - kegiatan yang menuntut banyak terhadap sistem 2 membutuhkan kendali diri yang berat dan tidak menyenangkan, mengakibatkan motivasi menghilang.
 - efek ego terkuras bisa di atasi dengan mengkonsumsi glukosa.
+
+### sistem 2 yang malas
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcwMjgxOCwtMjEwMDk1NTY0NSwtMT
-I1Nzk3ODk2MywxNTMyNjk0NTU4LDI4ODY2OTUzNCwxODY3MjA2
-MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3NywxNjYwNTU5MDQyLC
-0xOTQzNDQyNDksLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQy
-MTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC
-0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5MTk0NDM4Miw1ODM4
-Njg2MzddfQ==
+eyJoaXN0b3J5IjpbLTE3NjkxMDUzMzMsLTEzMTcwMjgxOCwtMj
+EwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNTMyNjk0NTU4LDI4ODY2
+OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3Ny
+wxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtNDE5
+NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3Mi
+wxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5
+MTk0NDM4Ml19
 -->
