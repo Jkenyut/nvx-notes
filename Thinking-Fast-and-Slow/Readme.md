@@ -118,13 +118,14 @@
 
 ### sistem 2 yang malas
 - salah satu fungsi sistem 2 adalah memantau dan mengendalikan pemikiran dan tindakan yang disarankan sistem 1, memperkenankan sebagiannya secara langsung dalam perliaku sambil meredam dan mengubah sebagian lainnya.
+- Banyak orang yang terlalu percaya kepada intuisi sendiri, mereka mendapati usaha kognitif setidaknya agak tak menyenangkan dan menghindari sebisa mungkin.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NDM5MjAwLC0xMzE3MDI4MTgsLTIxMD
-A5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyODg2Njk1
-MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0NzcsMT
-Y2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLTQxOTcz
-MTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUzNzIsMT
-AyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4NDQsLTExOTE5
-NDQzODJdfQ==
+eyJoaXN0b3J5IjpbNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MD
+I4MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1
+OCwyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMD
+g4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkz
+OTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nz
+g1NDUzNzIsMTAyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4
+NDRdfQ==
 -->
