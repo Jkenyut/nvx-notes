@@ -111,8 +111,10 @@
 - kendali diri dan usaha kognitif merupakan dua bentuk kerja mental.
 - Percobaan telah  menunjukkan bahwa orang yang di tantang usaha kognitif berat dan godaan secara sekaligus akan mungkin membuat menyerah kepada godaan.
 - Sistem 1 punya pengaruh lebih besar pada perilaku kalau sistem 2 sedang sibuk.
+- Kendali diri butuh perhatian dan usaha, mengendalikan pemikiran dan perilaku adalah salah satu tugas sistem 2.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MjI1OTA1LC0xMjU3OTc4OTYzLDE1Mz
+eyJoaXN0b3J5IjpbMjE5NDk5NTE2LC0xMjU3OTc4OTYzLDE1Mz
 I2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMTg4NDM3NTEz
 NCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNT
 kyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAw
