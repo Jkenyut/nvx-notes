@@ -119,13 +119,14 @@
 ### sistem 2 yang malas
 - salah satu fungsi sistem 2 adalah memantau dan mengendalikan pemikiran dan tindakan yang disarankan sistem 1, memperkenankan sebagiannya secara langsung dalam perliaku sambil meredam dan mengubah sebagian lainnya.
 - Banyak orang yang terlalu percaya kepada intuisi sendiri, mereka mendapati usaha kognitif setidaknya agak tak menyenangkan dan menghindari sebisa mungkin.
-- intelegensi 
+- inteligensi bukan hanya penalaran tapi juga mencakup kemampuan menemukan bahan yang relevan dalam ingatan dan mengarahkan perhatian ke tempat yang membutuhkan.
+-  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY3MzI5NzAsNDY5NjY1MjcsNjI5ND
-M5MjAwLC0xMzE3MDI4MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5
-NjMsMTUzMjY5NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NCwxOD
-g0Mzc1MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0
-MjQ5LC01OTIwNzkzOTYsLTQxOTczMTA1LDYwMzc0MjE0LC0xNz
-YzMjMyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4MywtMTE1Mjcw
-NjM1XX0=
+eyJoaXN0b3J5IjpbOTc2Njg2NTc0LDQ2OTY2NTI3LDYyOTQzOT
+IwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4OTYz
+LDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMTg4ND
+M3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0
+OSwtNTkyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2Mz
+IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
+NV19
 -->
