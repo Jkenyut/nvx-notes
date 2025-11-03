@@ -117,13 +117,14 @@
 - efek ego terkuras bisa di atasi dengan mengkonsumsi glukosa.
 
 ### sistem 2 yang malas
-
+- salah satu fungsi sistem 2 adalah memantau dan mengendalikan pemikiran dan tindakan yang disarankan sistem 1, memperkenankan sebagiannya secara langsung dalam perliaku sambil meredam dan mengubah sebagian lainnya.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkxMDUzMzMsLTEzMTcwMjgxOCwtMj
-EwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNTMyNjk0NTU4LDI4ODY2
-OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3Ny
-wxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtNDE5
-NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3Mi
-wxMDIzNDgwMTgzLC0xMTUyNzA2MzUsMTIxNDY4Mzg0NCwtMTE5
-MTk0NDM4Ml19
+eyJoaXN0b3J5IjpbNjI5NDM5MjAwLC0xMzE3MDI4MTgsLTIxMD
+A5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyODg2Njk1
+MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0NzcsMT
+Y2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLTQxOTcz
+MTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUzNzIsMT
+AyMzQ4MDE4MywtMTE1MjcwNjM1LDEyMTQ2ODM4NDQsLTExOTE5
+NDQzODJdfQ==
 -->
