@@ -124,13 +124,14 @@
 - pemeriksaan dan pencarian sengaja adalah bagian sistem 2. 
 - Lebih waspada, aktif, secara intelektual tidak merasa puas akan jawaban yang menarik, dan lebih skeptis terhadap intuisi mereka sendiri merupakan sebutan tekun atau rasional.
 
-### inteligensi, Kendali dan Rasionalitas
+### Inteligensi, Kendali dan Rasionalitas
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjIxNjI5MCw0Njk2NjUyNyw2Mjk0Mz
-kyMDAsLTEzMTcwMjgxOCwtMjEwMDk1NTY0NSwtMTI1Nzk3ODk2
-MywxNTMyNjk0NTU4LDI4ODY2OTUzNCwxODY3MjA2MjY0LDE4OD
-QzNzUxMzQsLTIwODgyNzQ3NywxNjYwNTU5MDQyLC0xOTQzNDQy
-NDksLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3Nj
-MyMzIwMDgsMTU3ODU0NTM3MiwxMDIzNDgwMTgzLC0xMTUyNzA2
-MzVdfQ==
+eyJoaXN0b3J5IjpbMzk5NTYzMjQ0LDQ2OTY2NTI3LDYyOTQzOT
+IwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4OTYz
+LDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMTg4ND
+M3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0
+OSwtNTkyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIxNCwtMTc2Mz
+IzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODMsLTExNTI3MDYz
+NV19
 -->
