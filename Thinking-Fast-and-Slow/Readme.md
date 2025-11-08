@@ -136,13 +136,14 @@
 	- Sayangnya dia cenderung mengatakan apa yang muncul dalam pikirannya. Dia barangkali juga punya masalah tidak bisa memunda keinginan mendapatkan imbalan. Sistem 2 lemah.
 
 ### Mesin Pembuat Kaitan
-
+- akal budi otomatis menganggap ada urutan waktu dan hubungan sebab.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjU4MTI1OCwtMTUyOTMxMjgyMSwzOT
-k1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MDI4MTgs
-LTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyOD
-g2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0
-NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLT
-QxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUz
-NzJdfQ==
+eyJoaXN0b3J5IjpbMTgyMzAwMTkxMywtOTg2NTgxMjU4LC0xNT
+I5MzEyODIxLDM5OTU2MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAs
+LTEzMTcwMjgxOCwtMjEwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNT
+MyNjk0NTU4LDI4ODY2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUx
+MzQsLTIwODgyNzQ3NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLT
+U5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIw
+MDhdfQ==
 -->
