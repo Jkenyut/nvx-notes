@@ -138,13 +138,20 @@
 ### Mesin Pembuat Kaitan
 - akal budi otomatis menganggap ada urutan waktu dan hubungan sebab.
 - Sistem 1 berusaha memahami situasi sebanyak mungkin, mengevaluasi ancaman-ancaman, menciptakan konteks untuk perkembangan lanjutan dengan menyiapkan peristiwa -peristiwa yang menjadi mungkin dan mengejutkan, akhirnya anda jadi tahu mengenai masa lalu dan siap menghadapi masa depan.
-- 
+- Kaidah- kaidah kaitan : mirip , urutan dalam waktu dan tempat, serta sebab akibat.
+- gagasan sebagai simpul simpul dalam jejaring yang amat luas disebut ingatan asosiatif.
+- ketika gagasan dipikirkan maka akan banyak gagasan lain muncul.
+
+### Ajaibnya Penyiapan
+- Mekanisme keterkaitan adalah perbaikan metode pengukuran.
+- Cara mempelajari kaitan adalah mengajukan pertanyaan ke banyak orang.
+-  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTEzNTAzODgsMTgyMzAwMTkxMywtOT
-g2NTgxMjU4LC0xNTI5MzEyODIxLDM5OTU2MzI0NCw0Njk2NjUy
-Nyw2Mjk0MzkyMDAsLTEzMTcwMjgxOCwtMjEwMDk1NTY0NSwtMT
-I1Nzk3ODk2MywxNTMyNjk0NTU4LDI4ODY2OTUzNCwxODY3MjA2
-MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3NywxNjYwNTU5MDQyLC
-0xOTQzNDQyNDksLTU5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQy
-MTRdfQ==
+eyJoaXN0b3J5IjpbLTU3OTY3MTI0MiwtMTcxMTM1MDM4OCwxOD
+IzMDAxOTEzLC05ODY1ODEyNTgsLTE1MjkzMTI4MjEsMzk5NTYz
+MjQ0LDQ2OTY2NTI3LDYyOTQzOTIwMCwtMTMxNzAyODE4LC0yMT
+AwOTU1NjQ1LC0xMjU3OTc4OTYzLDE1MzI2OTQ1NTgsMjg4NjY5
+NTM0LDE4NjcyMDYyNjQsMTg4NDM3NTEzNCwtMjA4ODI3NDc3LD
+E2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNTkyMDc5Mzk2LC00MTk3
+MzEwNV19
 -->
