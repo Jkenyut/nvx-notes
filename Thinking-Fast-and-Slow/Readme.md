@@ -132,13 +132,17 @@
 - Bicara tentang kendali
 	- Dia tidak perlu bersusah payah mengerjakan tugas berjam-jam. Dia dalam keadaan mengalir.
 	- Egonya terkuras sesudah seharian rapat, jadi dia beralih ke proses operasi standar, bukannya memikirkan persoalan dengan menyeluruh.
-	- Dia tidak mau memeriksa 
+	- Dia tidak mau memeriksa apakah yang dia katakan masuk akal, apakah dia biasanya punya sistem 2 yang malas, atau sedang sangat cape.
+	- Sayangnya dia cenderung mengatakan apa yang muncul dalam pikirannya. Dia barangkali juga punya masalah tidak bisa memunda keinginan mendapatkan imbalan. Sistem 2 lemah.
+
+### Mesin Pembuat Kaitan
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjUzNjgyLC0xNTI5MzEyODIxLDM5OT
-U2MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAsLTEzMTcwMjgxOCwt
-MjEwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNTMyNjk0NTU4LDI4OD
-Y2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3
-NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtND
-E5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3
-Ml19
+eyJoaXN0b3J5IjpbLTk4NjU4MTI1OCwtMTUyOTMxMjgyMSwzOT
+k1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MDI4MTgs
+LTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyOD
+g2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0
+NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLT
+QxOTczMTA1LDYwMzc0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUz
+NzJdfQ==
 -->
