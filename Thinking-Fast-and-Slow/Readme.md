@@ -137,13 +137,13 @@
 
 ### Mesin Pembuat Kaitan
 - akal budi otomatis menganggap ada urutan waktu dan hubungan sebab.
-- 
+- Sistem 1 berusaha memahami situasi sebanyak mungkin, mengevaluasi ancaman-ancaman, menciptakan konteks untuk perkembangan lanjutan dengan menyiapkan peristiwa -peristiwa yang m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzAwMTkxMywtOTg2NTgxMjU4LC0xNT
-I5MzEyODIxLDM5OTU2MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAs
-LTEzMTcwMjgxOCwtMjEwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNT
-MyNjk0NTU4LDI4ODY2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUx
-MzQsLTIwODgyNzQ3NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLT
-U5MjA3OTM5NiwtNDE5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIw
-MDhdfQ==
+eyJoaXN0b3J5IjpbMTI1ODg5MTI3OCwxODIzMDAxOTEzLC05OD
+Y1ODEyNTgsLTE1MjkzMTI4MjEsMzk5NTYzMjQ0LDQ2OTY2NTI3
+LDYyOTQzOTIwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0xMj
+U3OTc4OTYzLDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYy
+NjQsMTg4NDM3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLT
+E5NDM0NDI0OSwtNTkyMDc5Mzk2LC00MTk3MzEwNSw2MDM3NDIx
+NF19
 -->
