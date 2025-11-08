@@ -128,13 +128,17 @@
 - Penelitian dilakukan dalam ilmu psikologi yang meneliti hubungan antara berpikir dan mengendalikan diri
 - anak anak yang berumur 4 tahun dapat mengendalikan diri (sabar menunggu) setelah 15 tahun kemudian mempunyai kendali eksekutif lebih tinggi dalam kemampuan tugas kognitif, kemampuan alokasi perhatian yang efektif, serta kecakapan nilai intelektual lebih tinggi pada tes inteligensi.
 - melatih perhatian tidak hanya memperbaiki kendali eksekutif tapi juga nilai inteligensi nonverbal.
-- Konsep rasionalitas (tekun) dan inteligensi (berpikir lambat dan pehitungan susebaiknya dibedakan
+- Konsep rasionalitas (tekun) dan inteligensi (berpikir lambat dan perhitungan sulit ) sebaiknya dibedakan.
+- Bicara tentang kendali
+	- Dia tidak perlu bersusah payah mengerjakan tugas berjam-jam. Dia dalam keadaan mengalir.
+	- Egonya terkuras sesudah seharian rapat, jadi dia beralih ke proses operasi standar, bukannya memikirkan persoalan dengan menyeluruh.
+	- Dia tidak mau memeriksa 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTIzNDI5NTIsLTE1MjkzMTI4MjEsMz
-k5NTYzMjQ0LDQ2OTY2NTI3LDYyOTQzOTIwMCwtMTMxNzAyODE4
-LC0yMTAwOTU1NjQ1LC0xMjU3OTc4OTYzLDE1MzI2OTQ1NTgsMj
-g4NjY5NTM0LDE4NjcyMDYyNjQsMTg4NDM3NTEzNCwtMjA4ODI3
-NDc3LDE2NjA1NTkwNDIsLTE5NDM0NDI0OSwtNTkyMDc5Mzk2LC
-00MTk3MzEwNSw2MDM3NDIxNCwtMTc2MzIzMjAwOCwxNTc4NTQ1
-MzcyXX0=
+eyJoaXN0b3J5IjpbMTYyNjUzNjgyLC0xNTI5MzEyODIxLDM5OT
+U2MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAsLTEzMTcwMjgxOCwt
+MjEwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNTMyNjk0NTU4LDI4OD
+Y2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgyNzQ3
+NywxNjYwNTU5MDQyLC0xOTQzNDQyNDksLTU5MjA3OTM5NiwtND
+E5NzMxMDUsNjAzNzQyMTQsLTE3NjMyMzIwMDgsMTU3ODU0NTM3
+Ml19
 -->
