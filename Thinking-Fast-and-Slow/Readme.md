@@ -125,13 +125,14 @@
 - Lebih waspada, aktif, secara intelektual tidak merasa puas akan jawaban yang menarik, dan lebih skeptis terhadap intuisi mereka sendiri merupakan sebutan tekun atau rasional.
 
 ### Inteligensi, Kendali dan Rasionalitas
-- Penelitian dilaku
+- Penelitian dilakukan dalam ilmu psikologi yang meneliti hubungan antara berpikir dan mengendalikan diri
+- anak anak yang berumur 4 tahun dapat mengendalikan diri (sabar menunggu) mempunyai kendali eksekutif elbih tinggi dalam kemampuan kognitif, juga 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwODA0ODIsMzk5NTYzMjQ0LDQ2OTY2NT
-I3LDYyOTQzOTIwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0x
-MjU3OTc4OTYzLDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMD
-YyNjQsMTg4NDM3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIs
-LTE5NDM0NDI0OSwtNTkyMDc5Mzk2LC00MTk3MzEwNSw2MDM3ND
-IxNCwtMTc2MzIzMjAwOCwxNTc4NTQ1MzcyLDEwMjM0ODAxODNd
-fQ==
+eyJoaXN0b3J5IjpbLTk5OTEzMDA2OSwzOTk1NjMyNDQsNDY5Nj
+Y1MjcsNjI5NDM5MjAwLC0xMzE3MDI4MTgsLTIxMDA5NTU2NDUs
+LTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyODg2Njk1MzQsMTg2Nz
+IwNjI2NCwxODg0Mzc1MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0
+MiwtMTk0MzQ0MjQ5LC01OTIwNzkzOTYsLTQxOTczMTA1LDYwMz
+c0MjE0LC0xNzYzMjMyMDA4LDE1Nzg1NDUzNzIsMTAyMzQ4MDE4
+M119
 -->
