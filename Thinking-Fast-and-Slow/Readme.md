@@ -152,9 +152,10 @@
 
 ### Penyiapan yang jadi pedoman
 - penelitian efek penyiapan telah menghasilkan penemuan tentang ancaman citra diri manusia sebagai sosok sadar dan mandiri yang membuat pertimbangan dan pilihan.
-- Efek penyiapan bisa menjangkau tiap sudut kehidupan kita 
+- Efek penyiapan bisa menjangkau tiap sudut kehidupan kita.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjU1OTQ3MSwxMDIwNTE5MzcwLC01Nz
+eyJoaXN0b3J5IjpbMTUyODU1NTQ1NCwxMDIwNTE5MzcwLC01Nz
 k2NzEyNDIsLTE3MTEzNTAzODgsMTgyMzAwMTkxMywtOTg2NTgx
 MjU4LC0xNTI5MzEyODIxLDM5OTU2MzI0NCw0Njk2NjUyNyw2Mj
 k0MzkyMDAsLTEzMTcwMjgxOCwtMjEwMDk1NTY0NSwtMTI1Nzk3
