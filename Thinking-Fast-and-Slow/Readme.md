@@ -147,9 +147,10 @@
 - Cara mempelajari kaitan adalah mengajukan pertanyaan ke banyak orang.
 -  tindakan dan emosi anda bisa disiapkan oleh peristiwa-peristiwa yang anda sendiri tak sadari (gagasan asing/luar).
 - Gagasan yang memengaruhi tindakan disebut efek ideomotor.
+- Efek penyiapan bolak-balik cenderung menghasilkan reaksi koheren.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjAyMzgxLDEwMjA1MTkzNzAsLTU3OT
+eyJoaXN0b3J5IjpbNDQ4ODM4NjA3LDEwMjA1MTkzNzAsLTU3OT
 Y3MTI0MiwtMTcxMTM1MDM4OCwxODIzMDAxOTEzLC05ODY1ODEy
 NTgsLTE1MjkzMTI4MjEsMzk5NTYzMjQ0LDQ2OTY2NTI3LDYyOT
 QzOTIwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4
