@@ -153,9 +153,9 @@
 ### Penyiapan yang jadi pedoman
 - penelitian efek penyiapan telah menghasilkan penemuan tentang ancaman citra diri manusia sebagai sosok sadar dan mandiri yang membuat pertimbangan dan pilihan.
 - Efek penyiapan bisa menjangkau tiap sudut kehidupan kita.
-- Tindak percaya bukan pilihan
+- Tindak percaya itu bukan pilihan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzYwMDczOCwxNTI4NTU1NDU0LDEwMj
+eyJoaXN0b3J5IjpbMTg1NzI4NjczNCwxNTI4NTU1NDU0LDEwMj
 A1MTkzNzAsLTU3OTY3MTI0MiwtMTcxMTM1MDM4OCwxODIzMDAx
 OTEzLC05ODY1ODEyNTgsLTE1MjkzMTI4MjEsMzk5NTYzMjQ0LD
 Q2OTY2NTI3LDYyOTQzOTIwMCwtMTMxNzAyODE4LC0yMTAwOTU1
