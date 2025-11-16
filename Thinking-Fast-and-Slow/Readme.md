@@ -151,13 +151,13 @@
 - Tetap bersikap tenang dan baik, apapun yang dirasa adalah saran yang baik sekali, membuat anda merasa tenang dan baik.
 
 ### Penyiapan yang jadi pedoman
-- penelitian 
+- penelitian efek penyiapan telah menghasilkan penemuan tentang ancaman citra diri manusia sebagai sosok sadar dan mandiri yang membuat pertimbangan dan pilihan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA3MTU5NTQsMTAyMDUxOTM3MCwtNT
-c5NjcxMjQyLC0xNzExMzUwMzg4LDE4MjMwMDE5MTMsLTk4NjU4
-MTI1OCwtMTUyOTMxMjgyMSwzOTk1NjMyNDQsNDY5NjY1MjcsNj
-I5NDM5MjAwLC0xMzE3MDI4MTgsLTIxMDA5NTU2NDUsLTEyNTc5
-Nzg5NjMsMTUzMjY5NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NC
-wxODg0Mzc1MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0
-MzQ0MjQ5XX0=
+eyJoaXN0b3J5IjpbNjkzNTM1Mjc3LDEwMjA1MTkzNzAsLTU3OT
+Y3MTI0MiwtMTcxMTM1MDM4OCwxODIzMDAxOTEzLC05ODY1ODEy
+NTgsLTE1MjkzMTI4MjEsMzk5NTYzMjQ0LDQ2OTY2NTI3LDYyOT
+QzOTIwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4
+OTYzLDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMT
+g4NDM3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0
+NDI0OV19
 -->
