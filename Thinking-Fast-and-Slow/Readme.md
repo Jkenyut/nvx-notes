@@ -148,13 +148,13 @@
 -  tindakan dan emosi anda bisa disiapkan oleh peristiwa-peristiwa yang anda sendiri tak sadari (gagasan asing/luar).
 - Gagasan yang memengaruhi tindakan disebut efek ideomotor.
 - Efek penyiapan bolak-balik cenderung menghasilkan reaksi koheren.
-- 
+- Tetap bersikap tenang dan baik, apapun yang dirasa adalah saran yang baik sekali, membuat anda merasa 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4ODM4NjA3LDEwMjA1MTkzNzAsLTU3OT
-Y3MTI0MiwtMTcxMTM1MDM4OCwxODIzMDAxOTEzLC05ODY1ODEy
-NTgsLTE1MjkzMTI4MjEsMzk5NTYzMjQ0LDQ2OTY2NTI3LDYyOT
-QzOTIwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4
-OTYzLDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMT
-g4NDM3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0
-NDI0OV19
+eyJoaXN0b3J5IjpbMTQ3Mzc3NDkxMiwxMDIwNTE5MzcwLC01Nz
+k2NzEyNDIsLTE3MTEzNTAzODgsMTgyMzAwMTkxMywtOTg2NTgx
+MjU4LC0xNTI5MzEyODIxLDM5OTU2MzI0NCw0Njk2NjUyNyw2Mj
+k0MzkyMDAsLTEzMTcwMjgxOCwtMjEwMDk1NTY0NSwtMTI1Nzk3
+ODk2MywxNTMyNjk0NTU4LDI4ODY2OTUzNCwxODY3MjA2MjY0LD
+E4ODQzNzUxMzQsLTIwODgyNzQ3NywxNjYwNTU5MDQyLC0xOTQz
+NDQyNDldfQ==
 -->
