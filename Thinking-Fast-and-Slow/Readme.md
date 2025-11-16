@@ -151,13 +151,13 @@
 - Tetap bersikap tenang dan baik, apapun yang dirasa adalah saran yang baik sekali, membuat anda merasa tenang dan baik.
 
 ### Penyiapan yang jadi pedoman
-- 
+- penelitian 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjgzODA5NywxMDIwNTE5MzcwLC01Nz
-k2NzEyNDIsLTE3MTEzNTAzODgsMTgyMzAwMTkxMywtOTg2NTgx
-MjU4LC0xNTI5MzEyODIxLDM5OTU2MzI0NCw0Njk2NjUyNyw2Mj
-k0MzkyMDAsLTEzMTcwMjgxOCwtMjEwMDk1NTY0NSwtMTI1Nzk3
-ODk2MywxNTMyNjk0NTU4LDI4ODY2OTUzNCwxODY3MjA2MjY0LD
-E4ODQzNzUxMzQsLTIwODgyNzQ3NywxNjYwNTU5MDQyLC0xOTQz
-NDQyNDldfQ==
+eyJoaXN0b3J5IjpbLTEzNzA3MTU5NTQsMTAyMDUxOTM3MCwtNT
+c5NjcxMjQyLC0xNzExMzUwMzg4LDE4MjMwMDE5MTMsLTk4NjU4
+MTI1OCwtMTUyOTMxMjgyMSwzOTk1NjMyNDQsNDY5NjY1MjcsNj
+I5NDM5MjAwLC0xMzE3MDI4MTgsLTIxMDA5NTU2NDUsLTEyNTc5
+Nzg5NjMsMTUzMjY5NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NC
+wxODg0Mzc1MTM0LC0yMDg4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0
+MzQ0MjQ5XX0=
 -->
