@@ -146,13 +146,13 @@
 - Mekanisme keterkaitan adalah perbaikan metode pengukuran.
 - Cara mempelajari kaitan adalah mengajukan pertanyaan ke banyak orang.
 -  tindakan dan emosi anda bisa disiapkan oleh peristiwa-peristiwa yang anda sendiri tak sadari (gagasan asing/luar).
-- 
+- Gagasan yang memengaruhi tindakan disebut ideomotor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNz
-ExMzUwMzg4LDE4MjMwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMx
-MjgyMSwzOTk1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMz
-E3MDI4MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5
-NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC
-0yMDg4Mjc0NzcsMTY2MDU1OTA0MiwtMTk0MzQ0MjQ5LC01OTIw
-NzkzOTZdfQ==
+eyJoaXN0b3J5IjpbNzk4MTQxMTUxLDEwMjA1MTkzNzAsLTU3OT
+Y3MTI0MiwtMTcxMTM1MDM4OCwxODIzMDAxOTEzLC05ODY1ODEy
+NTgsLTE1MjkzMTI4MjEsMzk5NTYzMjQ0LDQ2OTY2NTI3LDYyOT
+QzOTIwMCwtMTMxNzAyODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4
+OTYzLDE1MzI2OTQ1NTgsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMT
+g4NDM3NTEzNCwtMjA4ODI3NDc3LDE2NjA1NTkwNDIsLTE5NDM0
+NDI0OV19
 -->
