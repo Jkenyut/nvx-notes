@@ -145,9 +145,10 @@
 ### Ajaibnya Penyiapan
 - Mekanisme keterkaitan adalah perbaikan metode pengukuran.
 - Cara mempelajari kaitan adalah mengajukan pertanyaan ke banyak orang.
--  tindakan da
+-  tindakan dan emosi anda bisa disiapkan oleh peristiwa-peristiwa yang anda sendiri tak sadari (gagasan asing/luar).
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTk0NzU1NSwtNTc5NjcxMjQyLC0xNz
+eyJoaXN0b3J5IjpbMTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNz
 ExMzUwMzg4LDE4MjMwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMx
 MjgyMSwzOTk1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMz
 E3MDI4MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5
