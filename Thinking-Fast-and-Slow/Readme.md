@@ -156,13 +156,14 @@
 - Tindak percaya itu bukan pilihan.
 - Sistem 1 merupakan asal usul banyak kesalahan sistematis pada intuisi anda.
 - Bicara tentang penyiapan:
-	- Pemandangan orang-orang 
+	- Pemandangan orang-orang berseragam ini tidak menyiapkan kreativitas.
+	- Dunia ini lebih baik tak bisa dimengerti daripada yang kamu pikir. Koheresinya sebagian besar datang dari cara kerja akal budimu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTU5MDExLDE4NTcyODY3MzQsMTUyOD
-U1NTQ1NCwxMDIwNTE5MzcwLC01Nzk2NzEyNDIsLTE3MTEzNTAz
-ODgsMTgyMzAwMTkxMywtOTg2NTgxMjU4LC0xNTI5MzEyODIxLD
-M5OTU2MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAsLTEzMTcwMjgx
-OCwtMjEwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNTMyNjk0NTU4LD
-I4ODY2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgy
-NzQ3N119
+eyJoaXN0b3J5IjpbMTA1ODY1MTc3NiwxODU3Mjg2NzM0LDE1Mj
+g1NTU0NTQsMTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNzExMzUw
+Mzg4LDE4MjMwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMxMjgyMS
+wzOTk1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MDI4
+MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OC
+wyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4
+Mjc0NzddfQ==
 -->
