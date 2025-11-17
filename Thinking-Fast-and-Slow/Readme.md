@@ -159,13 +159,14 @@
 	- Pemandangan orang-orang berseragam ini tidak menyiapkan kreativitas.
 	- Dunia ini lebih baik tak bisa dimengerti daripada yang kamu pikir. Koherensinya sebagian besar datang dari cara kerja akal budimu.
 	- Mereka sudah siap mencari kesalahan, dan itulah yang mereka temukan.
-	- Sistem 1 memb
+	- Sistem 1 membuat cerita, dan sistem 2 percaya carita itu. Kita semua mengalaminya.
+	- Saya membuat diri saya tersenyum dan jadi merasa lebih enak.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkyNjMxOTIsMTg1NzI4NjczNCwxNT
-I4NTU1NDU0LDEwMjA1MTkzNzAsLTU3OTY3MTI0MiwtMTcxMTM1
-MDM4OCwxODIzMDAxOTEzLC05ODY1ODEyNTgsLTE1MjkzMTI4Mj
-EsMzk5NTYzMjQ0LDQ2OTY2NTI3LDYyOTQzOTIwMCwtMTMxNzAy
-ODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4OTYzLDE1MzI2OTQ1NT
-gsMjg4NjY5NTM0LDE4NjcyMDYyNjQsMTg4NDM3NTEzNCwtMjA4
-ODI3NDc3XX0=
+eyJoaXN0b3J5IjpbLTg5NDU5MjQ5OSwxODU3Mjg2NzM0LDE1Mj
+g1NTU0NTQsMTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNzExMzUw
+Mzg4LDE4MjMwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMxMjgyMS
+wzOTk1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MDI4
+MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OC
+wyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4
+Mjc0NzddfQ==
 -->
