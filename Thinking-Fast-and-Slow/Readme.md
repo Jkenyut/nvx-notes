@@ -163,9 +163,9 @@
 	- Saya membuat diri saya tersenyum dan jadi merasa lebih enak.
 
 ### Kemudahan Kognitif
-- Penilaian dilakukan secara 
+- Penilaian dilakukan secara otomatis oleh sistem 1 dan salah satu fungsinya menentukan apakah perlu adanya usaha tambahan sistem 2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTQ0MTU3Miw0NzY4NTUzMywtODk0NT
+eyJoaXN0b3J5IjpbLTkyMDY5MTEwMiw0NzY4NTUzMywtODk0NT
 kyNDk5LDE4NTcyODY3MzQsMTUyODU1NTQ1NCwxMDIwNTE5Mzcw
 LC01Nzk2NzEyNDIsLTE3MTEzNTAzODgsMTgyMzAwMTkxMywtOT
 g2NTgxMjU4LC0xNTI5MzEyODIxLDM5OTU2MzI0NCw0Njk2NjUy
