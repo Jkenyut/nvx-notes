@@ -154,12 +154,13 @@
 - penelitian efek penyiapan telah menghasilkan penemuan tentang ancaman citra diri manusia sebagai sosok sadar dan mandiri yang membuat pertimbangan dan pilihan.
 - Efek penyiapan bisa menjangkau tiap sudut kehidupan kita.
 - Tindak percaya itu bukan pilihan.
+- Si
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzI4NjczNCwxNTI4NTU1NDU0LDEwMj
-A1MTkzNzAsLTU3OTY3MTI0MiwtMTcxMTM1MDM4OCwxODIzMDAx
-OTEzLC05ODY1ODEyNTgsLTE1MjkzMTI4MjEsMzk5NTYzMjQ0LD
-Q2OTY2NTI3LDYyOTQzOTIwMCwtMTMxNzAyODE4LC0yMTAwOTU1
-NjQ1LC0xMjU3OTc4OTYzLDE1MzI2OTQ1NTgsMjg4NjY5NTM0LD
-E4NjcyMDYyNjQsMTg4NDM3NTEzNCwtMjA4ODI3NDc3LDE2NjA1
-NTkwNDJdfQ==
+eyJoaXN0b3J5IjpbMTM1NDIxMDExLDE4NTcyODY3MzQsMTUyOD
+U1NTQ1NCwxMDIwNTE5MzcwLC01Nzk2NzEyNDIsLTE3MTEzNTAz
+ODgsMTgyMzAwMTkxMywtOTg2NTgxMjU4LC0xNTI5MzEyODIxLD
+M5OTU2MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAsLTEzMTcwMjgx
+OCwtMjEwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNTMyNjk0NTU4LD
+I4ODY2OTUzNCwxODY3MjA2MjY0LDE4ODQzNzUxMzQsLTIwODgy
+NzQ3N119
 -->
