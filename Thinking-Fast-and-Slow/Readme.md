@@ -161,12 +161,15 @@
 	- Mereka sudah siap mencari kesalahan, dan itulah yang mereka temukan.
 	- Sistem 1 membuat cerita, dan sistem 2 percaya carita itu. Kita semua mengalaminya.
 	- Saya membuat diri saya tersenyum dan jadi merasa lebih enak.
+
+### Kemudahan Kognitif
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDU5MjQ5OSwxODU3Mjg2NzM0LDE1Mj
-g1NTU0NTQsMTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNzExMzUw
-Mzg4LDE4MjMwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMxMjgyMS
-wzOTk1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MDI4
-MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OC
-wyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1MTM0LC0yMDg4
-Mjc0NzddfQ==
+eyJoaXN0b3J5IjpbNDc2ODU1MzMsLTg5NDU5MjQ5OSwxODU3Mj
+g2NzM0LDE1Mjg1NTU0NTQsMTAyMDUxOTM3MCwtNTc5NjcxMjQy
+LC0xNzExMzUwMzg4LDE4MjMwMDE5MTMsLTk4NjU4MTI1OCwtMT
+UyOTMxMjgyMSwzOTk1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAw
+LC0xMzE3MDI4MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMT
+UzMjY5NDU1OCwyODg2Njk1MzQsMTg2NzIwNjI2NCwxODg0Mzc1
+MTM0XX0=
 -->
