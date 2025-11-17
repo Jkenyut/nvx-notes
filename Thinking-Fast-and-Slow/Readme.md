@@ -162,18 +162,18 @@
 	- Sistem 1 membuat cerita, dan sistem 2 percaya carita itu. Kita semua mengalaminya.
 	- Saya membuat diri saya tersenyum dan jadi merasa lebih enak.
 
-### Kemudahan Kognitif
+## Kemudahan Kognitif
 - Penilaian dilakukan secara otomatis oleh sistem 1 dan salah satu fungsinya menentukan apakah perlu adanya usaha tambahan sistem 2.
 - Mudah adalah pertanda bahwa semua berjalan baik baik saja, tidak ada ancaman, berita besar juga tidak diperlukannya usaha dan pengalihan.
 - Susah berarti ada masalah, yang membutuhkan peningkatan pengerahan sistem 2.
 - Kesusahan kognitif dipengaruhi tingkat usaha terkini dan kehadiran kebutuhan yang belum terpenuhi.
-- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyODg5NTk1LC05MjA2OTExMDIsNDc2OD
-U1MzMsLTg5NDU5MjQ5OSwxODU3Mjg2NzM0LDE1Mjg1NTU0NTQs
-MTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNzExMzUwMzg4LDE4Mj
-MwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMxMjgyMSwzOTk1NjMy
-NDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MDI4MTgsLTIxMD
-A5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyODg2Njk1
-MzRdfQ==
+eyJoaXN0b3J5IjpbMTg3ODQ4NjM1MSwtOTIwNjkxMTAyLDQ3Nj
+g1NTMzLC04OTQ1OTI0OTksMTg1NzI4NjczNCwxNTI4NTU1NDU0
+LDEwMjA1MTkzNzAsLTU3OTY3MTI0MiwtMTcxMTM1MDM4OCwxOD
+IzMDAxOTEzLC05ODY1ODEyNTgsLTE1MjkzMTI4MjEsMzk5NTYz
+MjQ0LDQ2OTY2NTI3LDYyOTQzOTIwMCwtMTMxNzAyODE4LC0yMT
+AwOTU1NjQ1LC0xMjU3OTc4OTYzLDE1MzI2OTQ1NTgsMjg4NjY5
+NTM0XX0=
 -->
