@@ -165,13 +165,15 @@
 ### Kemudahan Kognitif
 - Penilaian dilakukan secara otomatis oleh sistem 1 dan salah satu fungsinya menentukan apakah perlu adanya usaha tambahan sistem 2.
 - Mudah adalah pertanda bahwa semua berjalan baik baik saja, tidak ada ancaman, berita besar juga tidak diperlukannya usaha dan pengalihan.
-- Susah berarti ada masalah
+- Susah berarti ada masalah, yang membutuhkan peningkatan pengerahan sistem 2.
+- Kesusahan kognitif dipengaruhi tingkat usaha terkini dan kehadiran kebutuhan yang belum terpenuhi.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA2NTk4MDIsLTkyMDY5MTEwMiw0Nz
-Y4NTUzMywtODk0NTkyNDk5LDE4NTcyODY3MzQsMTUyODU1NTQ1
-NCwxMDIwNTE5MzcwLC01Nzk2NzEyNDIsLTE3MTEzNTAzODgsMT
-gyMzAwMTkxMywtOTg2NTgxMjU4LC0xNTI5MzEyODIxLDM5OTU2
-MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAsLTEzMTcwMjgxOCwtMj
-EwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNTMyNjk0NTU4LDI4ODY2
-OTUzNF19
+eyJoaXN0b3J5IjpbNTEyODg5NTk1LC05MjA2OTExMDIsNDc2OD
+U1MzMsLTg5NDU5MjQ5OSwxODU3Mjg2NzM0LDE1Mjg1NTU0NTQs
+MTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNzExMzUwMzg4LDE4Mj
+MwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMxMjgyMSwzOTk1NjMy
+NDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MDI4MTgsLTIxMD
+A5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyODg2Njk1
+MzRdfQ==
 -->
