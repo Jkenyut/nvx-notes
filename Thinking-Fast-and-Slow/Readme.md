@@ -154,9 +154,11 @@
 - penelitian efek penyiapan telah menghasilkan penemuan tentang ancaman citra diri manusia sebagai sosok sadar dan mandiri yang membuat pertimbangan dan pilihan.
 - Efek penyiapan bisa menjangkau tiap sudut kehidupan kita.
 - Tindak percaya itu bukan pilihan.
-- Si
+- Sistem 1 merupakan asal usul banyak kesalahan sistematis pada intuisi anda.
+- Bicara tentang penyiapan:
+	- Pemandangan orang-orang 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDIxMDExLDE4NTcyODY3MzQsMTUyOD
+eyJoaXN0b3J5IjpbMjExMTU5MDExLDE4NTcyODY3MzQsMTUyOD
 U1NTQ1NCwxMDIwNTE5MzcwLC01Nzk2NzEyNDIsLTE3MTEzNTAz
 ODgsMTgyMzAwMTkxMywtOTg2NTgxMjU4LC0xNTI5MzEyODIxLD
 M5OTU2MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAsLTEzMTcwMjgx
