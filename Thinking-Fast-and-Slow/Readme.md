@@ -169,13 +169,16 @@
 - Kesusahan kognitif dipengaruhi tingkat usaha terkini dan kehadiran kebutuhan yang belum terpenuhi.
 ### Ilusi mengingat
 - Sifat masa lalu itu adalah ilusi
-- Pengalaman Keakraban punya sifat masa lalu yang sederhana tapi kuat, dan menunjukkan bahwa 
+- Pengalaman Keakraban punya sifat masa lalu yang sederhana tapi kuat, dan menunjukkan bahwa pengalaman itu adalah cerminan langsung pengalaman masa lalu.
+
+### Ilusi Kebenaran
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjM0NDU2Miw4NTE4Njc3NDgsLTkyMD
-Y5MTEwMiw0NzY4NTUzMywtODk0NTkyNDk5LDE4NTcyODY3MzQs
-MTUyODU1NTQ1NCwxMDIwNTE5MzcwLC01Nzk2NzEyNDIsLTE3MT
-EzNTAzODgsMTgyMzAwMTkxMywtOTg2NTgxMjU4LC0xNTI5MzEy
-ODIxLDM5OTU2MzI0NCw0Njk2NjUyNyw2Mjk0MzkyMDAsLTEzMT
-cwMjgxOCwtMjEwMDk1NTY0NSwtMTI1Nzk3ODk2MywxNTMyNjk0
-NTU4XX0=
+eyJoaXN0b3J5IjpbNDY0MTU3MDE3LDg1MTg2Nzc0OCwtOTIwNj
+kxMTAyLDQ3Njg1NTMzLC04OTQ1OTI0OTksMTg1NzI4NjczNCwx
+NTI4NTU1NDU0LDEwMjA1MTkzNzAsLTU3OTY3MTI0MiwtMTcxMT
+M1MDM4OCwxODIzMDAxOTEzLC05ODY1ODEyNTgsLTE1MjkzMTI4
+MjEsMzk5NTYzMjQ0LDQ2OTY2NTI3LDYyOTQzOTIwMCwtMTMxNz
+AyODE4LC0yMTAwOTU1NjQ1LC0xMjU3OTc4OTYzLDE1MzI2OTQ1
+NThdfQ==
 -->
