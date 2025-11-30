@@ -168,13 +168,14 @@
 - Susah berarti ada masalah, yang membutuhkan peningkatan pengerahan sistem 2.
 - Kesusahan kognitif dipengaruhi tingkat usaha terkini dan kehadiran kebutuhan yang belum terpenuhi.
 ### Ilusi mengingat
-
+- Sifat masa lalu itu adalah ilusi
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxODY3NzQ4LC05MjA2OTExMDIsNDc2OD
-U1MzMsLTg5NDU5MjQ5OSwxODU3Mjg2NzM0LDE1Mjg1NTU0NTQs
-MTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNzExMzUwMzg4LDE4Mj
-MwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMxMjgyMSwzOTk1NjMy
-NDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMzE3MDI4MTgsLTIxMD
-A5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5NDU1OCwyODg2Njk1
-MzRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDQ0ODczMzYsODUxODY3NzQ4LC05Mj
+A2OTExMDIsNDc2ODU1MzMsLTg5NDU5MjQ5OSwxODU3Mjg2NzM0
+LDE1Mjg1NTU0NTQsMTAyMDUxOTM3MCwtNTc5NjcxMjQyLC0xNz
+ExMzUwMzg4LDE4MjMwMDE5MTMsLTk4NjU4MTI1OCwtMTUyOTMx
+MjgyMSwzOTk1NjMyNDQsNDY5NjY1MjcsNjI5NDM5MjAwLC0xMz
+E3MDI4MTgsLTIxMDA5NTU2NDUsLTEyNTc5Nzg5NjMsMTUzMjY5
+NDU1OF19
 -->
