@@ -170,11 +170,12 @@
 ### Ilusi mengingat
 - Sifat masa lalu itu adalah ilusi
 - Pengalaman Keakraban punya sifat masa lalu yang sederhana tapi kuat, dan menunjukkan bahwa pengalaman itu adalah cerminan langsung pengalaman masa lalu.
+- Jika anda sudah pernah melihat suatu hal dan kemudian anda melihat dengan lebih jelas, anda mengalami kemudahan kognitif besar dalam mepersepsi
 
 ### Ilusi Kebenaran
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0MTU3MDE3LDg1MTg2Nzc0OCwtOTIwNj
+eyJoaXN0b3J5IjpbNzgxMjQ5ODM3LDg1MTg2Nzc0OCwtOTIwNj
 kxMTAyLDQ3Njg1NTMzLC04OTQ1OTI0OTksMTg1NzI4NjczNCwx
 NTI4NTU1NDU0LDEwMjA1MTkzNzAsLTU3OTY3MTI0MiwtMTcxMT
 M1MDM4OCwxODIzMDAxOTEzLC05ODY1ODEyNTgsLTE1MjkzMTI4
