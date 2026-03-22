@@ -13,8 +13,12 @@
 
 ### struktur component
 App
-->> Header -> Menu
+->> Header --> Menu
+->> Content --> Content 1 , Content 2
+->> Footer --> Copyright
 
+## JSX
+1. React menggunakan 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTM0MDI1MF19
+eyJoaXN0b3J5IjpbMTczNDczNTgwXX0=
 -->
