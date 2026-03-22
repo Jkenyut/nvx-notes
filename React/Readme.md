@@ -17,9 +17,9 @@ App
 ->> Content --> Content 1 , Content 2
 ->> Footer --> Copyright
 
-## JSX
+## JSX (JavaScript Syntax Extension)
 1. React menggunakan sintaks extension bernama JSX yang memberikan kemudahan untuk membuat component, guna menulis HTML, CSS di dalam javascript dalam satu file.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0ODAxMTI5XX0=
+eyJoaXN0b3J5IjpbLTE0MzY1NzcwNTFdfQ==
 -->
