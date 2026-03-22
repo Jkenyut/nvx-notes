@@ -18,7 +18,7 @@ App
 ->> Footer --> Copyright
 
 ## JSX
-1. React menggunakan 
+1. React menggunakan sintaks extension bernama jsx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDczNTgwXX0=
+eyJoaXN0b3J5IjpbMTI2MTE3NTg5NV19
 -->
