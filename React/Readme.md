@@ -2,7 +2,7 @@
 ## Sejarah
 1. Nama pertamanya FaxJS.
 2. Dikembangkan oleh facebook tahun 2010 untuk menangani update halaman feed di facebook tanpa harus me-refresh.
-3. Tahun 2011 di intergrasikan bersama XHP kemudian mengganti nama menjadi React JS.
+3. Tahun 2011 di integrasikan bersama XHP, kemudian mengganti nama menjadi React JS.
 4. Tahun 2013 , Facebook merilis ReactJS menjadi Open Source.
 5. Framework populer untuk front-end GitHub star saat penulisan ini dibuat sekitar 244K.
 
@@ -21,5 +21,6 @@ App
 1. React menggunakan sintaks extension bernama JSX yang memberikan kemudahan untuk membuat component, guna menulis HTML, CSS di dalam javascript dalam satu file.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY1NzcwNTFdfQ==
+eyJoaXN0b3J5IjpbLTExNzA1NDYyMzUsLTE0MzY1NzcwNTFdfQ
+==
 -->
