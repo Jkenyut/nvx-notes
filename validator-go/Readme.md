@@ -56,9 +56,9 @@ Dengan validasi yang baik, kesalahan data dapat dicegah lebih awal sebelum sampa
 
 Validasi umumnya dilakukan pada beberapa tahap berikut:
 
--  **Input Request User** — memverifikasi data dari pengguna.
+-  **Input Request User** — memverifikasi data dari pengguna (_Verification_).
 
--  **Business Logic** — memastikan role dan otorisasi sesuai.
+-  **Business Logic** — memastikan role dan otorisasi sesuai (_Role Business Access Control_).
 
 -  **Database Layer** — menjaga *constraint* seperti `UNIQUE` dan `NOT NULL`.
 
@@ -357,5 +357,5 @@ Field 'Age' failed on the 'gte' tag
 
 - 🔍 [Tag Built-in List](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQxMzY0MjIsNzExNzAyNzkyXX0=
+eyJoaXN0b3J5IjpbLTI1NjM1MzcxMiw3MTE3MDI3OTJdfQ==
 -->
