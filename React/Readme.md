@@ -18,7 +18,8 @@ App
 ->> Footer --> Copyright
 
 ## JSX
-1. React menggunakan sintaks extension bernama jsx
+1. React menggunakan sintaks extension bernama JSX yang memberikan kemudahan untuk membuat component, guna menulis HTML, CSS di dalam javascript dalam satu file.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTE3NTg5NV19
+eyJoaXN0b3J5IjpbODM0ODAxMTI5XX0=
 -->
