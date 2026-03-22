@@ -6,7 +6,10 @@
 4. Tahun 2013 , Facebook merilis ReactJS menjadi Open Source.
 5. Framework populer untuk front-end.
 
-#
+## Component
+1. merupakan kumpulan kode yang (bagian) bisa digunakan secara independen)
+2. Component sendiri bisa berisikan HTML,CSS, dan JavaScript.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzc5NzAzMl19
+eyJoaXN0b3J5IjpbMTgyNzg4Mzc1MV19
 -->
