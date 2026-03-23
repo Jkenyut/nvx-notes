@@ -31,9 +31,12 @@ App
 8. panduan penggunaan vite : https://vite.dev/guide/
 
 
-contoh folder
+### contoh folder
+![struktur folder](https://cdn-images-1.medium.com/max/1600/1*n8US25ggR4AFiAullYBDWA.png)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTUyMDU3OSwtMjQwNTY2MjEyLC0xMT
-cwNTQ2MjM1LC0xNDM2NTc3MDUxXX0=
+eyJoaXN0b3J5IjpbMTIxNjAzNDA4OSwxMzI5NTIwNTc5LC0yND
+A1NjYyMTIsLTExNzA1NDYyMzUsLTE0MzY1NzcwNTFdfQ==
 -->
