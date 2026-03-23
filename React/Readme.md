@@ -24,11 +24,15 @@ App
 1. membuat project menggunakan vite sebagai build tool
 2. pastikan nodejs & npm sudah ter install
 3. `npm create vite@latest`
-4. lalu `$ npm create vite@latest my-vue-app -- --template vue`
-5. maka contoh yang saat ini adalah 
-6. `$ npm create vite@latest my-vue-app -- --template vue`
+4. lalu `$ npm create vite@latest my-vue-app -- --template nama framework`
+5. maka contoh yang saat ini adalah (javascript) 
+6. `$ npm create vite@latest my-vue-app -- --template react`
+7. jika ingin menggunakan typescript `$ npm create vite@latest my-vue-app -- --template react-ts`
+8. panduan penggunaan vite : https://vite.dev/guide/
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODU5Mjk5MSwtMTE3MDU0NjIzNSwtMT
+eyJoaXN0b3J5IjpbLTI0MDU2NjIxMiwtMTE3MDU0NjIzNSwtMT
 QzNjU3NzA1MV19
 -->
