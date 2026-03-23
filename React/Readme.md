@@ -24,9 +24,11 @@ App
 1. membuat project menggunakan vite sebagai build tool
 2. pastikan nodejs & npm sudah ter install
 3. `npm create vite@latest`
-4. 
+4. lalu `$ npm create vite@latest my-vue-app -- --template vue`
+5. maka contoh yang saat ini adalah 
+6. `$ npm create vite@latest my-vue-app -- --template vue`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNTkxNDQyLC0xMTcwNTQ2MjM1LC0xND
-M2NTc3MDUxXX0=
+eyJoaXN0b3J5IjpbLTY1ODU5Mjk5MSwtMTE3MDU0NjIzNSwtMT
+QzNjU3NzA1MV19
 -->
