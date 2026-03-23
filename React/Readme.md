@@ -20,9 +20,11 @@ App
 ## JSX (JavaScript Syntax Extension)
 1. React menggunakan sintaks extension bernama JSX yang memberikan kemudahan untuk membuat component, guna menulis HTML, CSS di dalam javascript dalam satu file.
 
-
+## Membuat Project (Vite)
+1. membuat project menggunakan vite sebagai build tool
+2. ketik perinta
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU5MzM3NSwtMTE3MDU0NjIzNSwtMT
-QzNjU3NzA1MV19
+eyJoaXN0b3J5IjpbLTk0NTcyMTAwLC0xMTcwNTQ2MjM1LC0xND
+M2NTc3MDUxXX0=
 -->
