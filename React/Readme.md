@@ -30,6 +30,8 @@ App
 7. jika ingin menggunakan typescript `$ npm create vite@latest my-vue-app -- --template react-ts`
 8. panduan penggunaan vite : https://vite.dev/guide/
 
+### contoh CLI
+![CLI](https://cdn-images-1.medium.com/max/1600/1*0cp74wYhNyvR6DQD7e9HhQ.png)
 
 ### contoh folder
 ![struktur folder](https://cdn-images-1.medium.com/max/1600/1*n8US25ggR4AFiAullYBDWA.png)
@@ -37,6 +39,7 @@ App
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjAzNDA4OSwxMzI5NTIwNTc5LC0yND
-A1NjYyMTIsLTExNzA1NDYyMzUsLTE0MzY1NzcwNTFdfQ==
+eyJoaXN0b3J5IjpbLTU1MjMwOTk5MiwxMjE2MDM0MDg5LDEzMj
+k1MjA1NzksLTI0MDU2NjIxMiwtMTE3MDU0NjIzNSwtMTQzNjU3
+NzA1MV19
 -->
