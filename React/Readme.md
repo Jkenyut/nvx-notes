@@ -22,9 +22,11 @@ App
 
 ## Membuat Project (Vite)
 1. membuat project menggunakan vite sebagai build tool
-2. ketik perinta
+2. pastikan nodejs & npm sudah ter install
+3. `npm create vite@latest`
+4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTcyMTAwLC0xMTcwNTQ2MjM1LC0xND
+eyJoaXN0b3J5IjpbNDEwNTkxNDQyLC0xMTcwNTQ2MjM1LC0xND
 M2NTc3MDUxXX0=
 -->
