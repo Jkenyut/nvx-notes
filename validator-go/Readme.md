@@ -255,9 +255,9 @@ Anda dapat membuat aturan validasi sendiri menggunakan fungsi kustom:
 
 ```go
 
-validate.RegisterValidation("even", func(fl  validator.FieldLevel) bool {
+validate.RegisterValidation("even", func(fl validator.FieldLevel) bool {
 
-return  fl.Field().Int()%2 == 0
+            return fl.Field().Int() % 2 == 0
 
 })
 
@@ -271,9 +271,9 @@ Penggunaan dalam struct:
 
 ```go
 
-type  Number  struct {
+type Number struct {
 
-Value  int  `validate:"even"`
+    Value int `validate:"even"`
 
 }
 
@@ -351,6 +351,6 @@ Field 'Age' failed on the 'gte' tag
 
 - 🔍 [Tag Built-in List](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ4NTE4OTQsMTY4MjA0NTIwMiwtMj
-U2MzUzNzEyLDcxMTcwMjc5Ml19
+eyJoaXN0b3J5IjpbMjU4MjQ4ODg4LDE2ODIwNDUyMDIsLTI1Nj
+M1MzcxMiw3MTE3MDI3OTJdfQ==
 -->
