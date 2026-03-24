@@ -163,7 +163,11 @@ Inisialisasi validator:
 validate := validator.New()
 
 ```
+atau
+```go
 
+validate := validator.New(validator.WithRequiredStructEnabled())
+```
   
 
 ---
@@ -351,6 +355,6 @@ Field 'Age' failed on the 'gte' tag
 
 - 🔍 [Tag Built-in List](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYyNjQyMTYsMTY4MjA0NTIwMiwtMj
-U2MzUzNzEyLDcxMTcwMjc5Ml19
+eyJoaXN0b3J5IjpbMjA2Mjk1OTcxMywtMTc4NjI2NDIxNiwxNj
+gyMDQ1MjAyLC0yNTYzNTM3MTIsNzExNzAyNzkyXX0=
 -->
