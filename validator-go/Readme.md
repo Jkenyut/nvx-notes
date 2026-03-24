@@ -180,64 +180,63 @@ validate := validator.New()
 
 ```go
 
-package  main
+package main
 
-  
+
 
 import (
 
-"fmt"
+    "fmt"
 
-"github.com/go-playground/validator/v10"
+    "github.com/go-playground/validator/v10"
 
 )
 
-  
 
-type  User  struct {
 
-Name  string  `validate:"required"`
+type User struct {
 
-Email  string  `validate:"required,email"`
+    Name string `validate:"required"`
 
-Age  int  `validate:"gte=18,lte=65"`
+    Email string `validate:"required,email"`
 
-}
-
-  
-
-func  main() {
-
-validate := validator.New()
-
-  
-
-user := User{
-
-Name: "John Doe",
-
-Email: "john.doe@example.com",
-
-Age: 17,
+    Age int `validate:"gte=18,lte=65"`
 
 }
 
-  
 
-err := validate.Struct(user)
 
-if  err != nil {
+func main() {
 
-fmt.Println("Validation failed:", err)
+    validate: = validator.New()
 
-} else {
 
-fmt.Println("Validation success!")
+
+        user: = User {
+
+        Name: "John Doe",
+
+        Email: "john.doe@example.com",
+
+        Age: 17,
+
+    }
+
+
+
+        err: = validate.Struct(user)
+
+    if err != nil {
+
+        fmt.Println("Validation failed:", err)
+
+    } else {
+
+        fmt.Println("Validation success!")
+
+    }
 
 }
-
-}
-
 ```
 
   
@@ -352,6 +351,6 @@ Field 'Age' failed on the 'gte' tag
 
 - 🔍 [Tag Built-in List](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjA0NTIwMiwtMjU2MzUzNzEyLDcxMT
-cwMjc5Ml19
+eyJoaXN0b3J5IjpbLTEyMDQ4NTE4OTQsMTY4MjA0NTIwMiwtMj
+U2MzUzNzEyLDcxMTcwMjc5Ml19
 -->
