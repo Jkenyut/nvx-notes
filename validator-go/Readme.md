@@ -311,6 +311,64 @@ err != nil {
 
 ```
 
+contoh lainnya dalam bentuk function:
+```
+// GetErrors returns the validation errors from a validator error.
+func GetErrors(err error) validator.ValidationErrors {
+    if err == nil {
+        return nil
+    }
+    if errs, ok: = err.(validator.ValidationErrors);
+    ok {
+        return errs
+    }
+    return nil
+}
+
+// GetErrorsFullStr returns the full validation errors from a validator error.
+func GetErrorsFullStr(err error) string {
+    if err == nil {
+        return ""
+    }
+
+    var errors validator.ValidationErrors
+    errors, ok: = err.(validator.ValidationErrors)
+    if !ok {
+        return ""
+    }
+
+    if len(errors) == 0 {
+        return ""
+    }
+
+    var result = make([] string, len(errors))
+    for i, e: = range errors {
+        result[i] = fmt.Sprintf("%s: %s", e.Field(), e.Tag())
+    }
+    return strings.Join(result, ", ")
+}
+
+// GetErrorFirstStr returns the first validation error from a validator error.
+func GetErrorFirstStr(err error) string {
+    if err == nil {
+        return ""
+    }
+
+    var errors validator.ValidationErrors
+    errors, ok: = err.(validator.ValidationErrors)
+    if !ok {
+        return ""
+    }
+
+    if len(errors) == 0 {
+        return ""
+    }
+
+    errArr: = errors[0]
+    return fmt.Sprintf("%s: %s", errArr.Field(), errArr.Tag())
+}
+```
+
   
 
 Output:
@@ -355,6 +413,7 @@ Field 'Age' failed on the 'gte' tag
 
 - 🔍 [Tag Built-in List](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mjk1OTcxMywtMTc4NjI2NDIxNiwxNj
-gyMDQ1MjAyLC0yNTYzNTM3MTIsNzExNzAyNzkyXX0=
+eyJoaXN0b3J5IjpbMTkwODMwNzE3MiwyMDYyOTU5NzEzLC0xNz
+g2MjY0MjE2LDE2ODIwNDUyMDIsLTI1NjM1MzcxMiw3MTE3MDI3
+OTJdfQ==
 -->
