@@ -294,14 +294,14 @@ Ketika validasi gagal, `validator` akan mengembalikan error yang dapat diproses 
   
 
 ```go
+if err: = validate.Struct(user);
+err != nil {
 
-if  err := validate.Struct(user); err != nil {
+    for _, err: = range err.(validator.ValidationErrors) {
 
-for  _, err := range  err.(validator.ValidationErrors) {
+        fmt.Printf("Field '%s' failed on the '%s' tag\n", err.Field(), err.Tag())
 
-fmt.Printf("Field '%s' failed on the '%s' tag\n", err.Field(), err.Tag())
-
-}
+    }
 
 }
 
@@ -351,6 +351,6 @@ Field 'Age' failed on the 'gte' tag
 
 - 🔍 [Tag Built-in List](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MjQ4ODg4LDE2ODIwNDUyMDIsLTI1Nj
-M1MzcxMiw3MTE3MDI3OTJdfQ==
+eyJoaXN0b3J5IjpbLTE3ODYyNjQyMTYsMTY4MjA0NTIwMiwtMj
+U2MzUzNzEyLDcxMTcwMjc5Ml19
 -->
