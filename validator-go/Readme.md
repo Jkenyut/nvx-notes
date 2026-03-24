@@ -2,12 +2,7 @@
 
 # ✅ Validator Golang
 
-  
-
-Library **Validator Golang** digunakan untuk memvalidasi data pada bahasa Go secara efisien, konsisten, dan aman.
-
-Dengan pendekatan berbasis *tag*, developer dapat menulis kode validasi yang ringkas, mudah dibaca, dan memiliki performa tinggi.
-
+Library **Validator Golang** digunakan untuk memvalidasi data pada bahasa Go secara efisien, konsisten, dan aman. melalui pendekatan berbasis *tag*, developer dapat menulis kode validasi yang ringkas, mudah dibaca, dan memiliki performa tinggi.
   
 
 ---
@@ -357,5 +352,6 @@ Field 'Age' failed on the 'gte' tag
 
 - 🔍 [Tag Built-in List](https://pkg.go.dev/github.com/go-playground/validator/v10#section-readme)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjM1MzcxMiw3MTE3MDI3OTJdfQ==
+eyJoaXN0b3J5IjpbMTY4MjA0NTIwMiwtMjU2MzUzNzEyLDcxMT
+cwMjc5Ml19
 -->
